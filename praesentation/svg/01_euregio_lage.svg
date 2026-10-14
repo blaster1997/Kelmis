@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="566" height="470" viewBox="0 0 566 470">
+<ellipse cx="266.8" cy="200.6" rx="67" ry="57" fill="#95C11F" fill-opacity="0.15" stroke="#95C11F" stroke-width="2" stroke-dasharray="6 4"/>
+<circle cx="339.1" cy="231.3" r="81" fill="none" stroke="#CDCDCD" stroke-width="1.5" stroke-dasharray="5 4"/>
+<polyline points="347.8,197 370.1,155.5 381.6,101.3 393.1,38.1" fill="none" stroke="#CDCDCD" stroke-width="2" stroke-linejoin="round" stroke-dasharray="6 4"/>
+<polyline points="347.8,197 370.1,227.7 393.1,263.8 421.8,318 439,345.1" fill="none" stroke="#CDCDCD" stroke-width="2" stroke-linejoin="round" stroke-dasharray="6 4"/>
+<polyline points="347.8,197 278.3,191.6 220.9,191.6 163.5,200.6 157.8,182.5 152,155.5 129.1,110.3 117.6,38.1" fill="none" stroke="#CDCDCD" stroke-width="2" stroke-linejoin="round" stroke-dasharray="6 4"/>
+<polyline points="383.9,177.1 358.7,229.5 318.5,281.9 256.5,345.1 89.5,306.3" fill="none" stroke="#005AA7" stroke-width="2.5" stroke-linejoin="round"/>
+<line x1="339.1" y1="231.3" x2="383.9" y2="177.1" stroke="#009FE3" stroke-width="2" stroke-dasharray="6 4"/>
+<line x1="365.7" y1="229.5" x2="425" y2="229.5" stroke="#7F7F7F" stroke-width="1"/>
+<line x1="312.5" y1="281.9" x2="262" y2="281.9" stroke="#7F7F7F" stroke-width="1"/>
+<circle cx="324.2" cy="76" r="3.5" fill="#7F7F7F" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="355.8" cy="309" r="3.5" fill="#7F7F7F" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="318.5" cy="281.9" r="3.5" fill="#7F7F7F" stroke="#FFFFFF" stroke-width="1"/>
+<circle cx="383.9" cy="177.1" r="6" fill="#FFFFFF" stroke="#005AA7" stroke-width="2"/>
+<circle cx="157.8" cy="109.4" r="6" fill="#FFFFFF" stroke="#005AA7" stroke-width="2"/>
+<circle cx="89.5" cy="306.3" r="6" fill="#FFFFFF" stroke="#005AA7" stroke-width="2"/>
+<rect x="353.7" y="224.5" width="10" height="10" fill="#005AA7" stroke="#FFFFFF" stroke-width="1.5"/>
+<circle cx="339.1" cy="231.3" r="7" fill="#002965" stroke="#FFFFFF" stroke-width="2"/>
+<text x="250" y="80" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" fill="#9A9A9A" text-anchor="middle">NIEDERLANDE</text>
+<text x="558" y="120" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" fill="#9A9A9A" text-anchor="end">DEUTSCHLAND</text>
+<text x="163" y="266" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" fill="#9A9A9A" text-anchor="middle">BELGIEN</text>
+<text x="319.1" y="224.3" font-family="Calibri, Carlito, Arial, sans-serif" font-size="19" fill="#002965" font-weight="700" text-anchor="end">Kelmis</text>
+<text x="429" y="234.5" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" fill="#404040">Bf. Hergenrath</text>
+<text x="402" y="155" font-family="Calibri, Carlito, Arial, sans-serif" font-size="16" fill="#002965" font-weight="700">Aachen</text>
+<text x="402" y="171" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" fill="#005AA7">RWTH Aachen</text>
+<text x="168.8" y="106.4" font-family="Calibri, Carlito, Arial, sans-serif" font-size="16" fill="#002965" font-weight="700">Maastricht</text>
+<text x="168.8" y="122.4" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" fill="#005AA7">Universität Maastricht</text>
+<text x="89.5" y="276.3" font-family="Calibri, Carlito, Arial, sans-serif" font-size="16" fill="#002965" font-weight="700" text-anchor="middle">Lüttich</text>
+<text x="89.5" y="292.3" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" fill="#005AA7" text-anchor="middle">ULiège</text>
+<text x="331.2" y="81" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" fill="#404040">Heerlen</text>
+<text x="355.8" y="328" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" fill="#404040" text-anchor="middle">Eupen</text>
+<text x="258" y="286.9" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" fill="#404040" text-anchor="end">Welkenraedt</text>
+<text x="194" y="222" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" fill="#404040" text-anchor="end">Einstein-Teleskop</text>
+<text x="194" y="239" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" fill="#404040" text-anchor="end">Kandidatengebiet</text>
+<text x="339.1" y="142.3" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" fill="#7F7F7F" text-anchor="middle">10 km</text>
+<circle cx="32" cy="395" r="6" fill="#FFFFFF" stroke="#005AA7" stroke-width="2"/>
+<text x="52" y="400" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" fill="#404040">Hochschulstandort</text>
+<line x1="20" y1="417" x2="44" y2="417" stroke="#005AA7" stroke-width="2.5"/>
+<rect x="27" y="412" width="10" height="10" fill="#005AA7" stroke="#FFFFFF" stroke-width="1.5"/>
+<text x="52" y="422" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" fill="#404040">Bahnstrecke mit Halt Hergenrath</text>
+<line x1="20" y1="439" x2="44" y2="439" stroke="#009FE3" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="52" y="444" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" fill="#404040">Buslinie 24 Kelmis–Aachen</text>
+<rect x="277" y="388" width="22" height="14" rx="7" fill="#95C11F" stroke="#95C11F" stroke-width="2" fill-opacity="0.15" stroke-dasharray="4 3"/>
+<text x="308" y="400" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" fill="#404040">Kandidatengebiet Einstein-Teleskop</text>
+<line x1="276" y1="417" x2="300" y2="417" stroke="#CDCDCD" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="308" y="422" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" fill="#404040">Staatsgrenze</text>
+<text x="308" y="444" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" fill="#7F7F7F">Schematische Darstellung</text>
+</svg>

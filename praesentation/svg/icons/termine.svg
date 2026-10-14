@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none" stroke="#002965" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<g fill="none" stroke="#002965" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+  <rect x="10" y="14" width="44" height="40" rx="3"/>
+  <line x1="10" y1="24" x2="54" y2="24"/>
+  <line x1="21" y1="9" x2="21" y2="18"/>
+  <line x1="43" y1="9" x2="43" y2="18"/>
+  <circle cx="19" cy="32" r="2.2" fill="#002965" stroke="none"/>
+  <circle cx="27.7" cy="32" r="2.2" fill="#002965" stroke="none"/>
+  <circle cx="36.3" cy="32" r="2.2" fill="#002965" stroke="none"/>
+  <circle cx="45" cy="32" r="2.2" fill="#002965" stroke="none"/>
+  <circle cx="19" cy="39.5" r="2.2" fill="#002965" stroke="none"/>
+  <circle cx="27.7" cy="39.5" r="2.2" fill="#002965" stroke="none"/>
+  <circle cx="36.3" cy="39.5" r="2.2" fill="#002965" stroke="none"/>
+  <circle cx="45" cy="39.5" r="2.2" fill="#002965" stroke="none"/>
+  <circle cx="19" cy="47" r="2.2" fill="#002965" stroke="none"/>
+  <circle cx="27.7" cy="47" r="2.2" fill="#002965" stroke="none"/>
+  <circle cx="36.3" cy="47" r="2.2" fill="#002965" stroke="none"/>
+  <circle cx="45" cy="47" r="2.2" fill="#002965" stroke="none"/>
+</g>
+</svg>

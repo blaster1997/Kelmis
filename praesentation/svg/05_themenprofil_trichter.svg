@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="547" height="466" viewBox="0 0 547 466">
+  <path d="M11,8 L211,8 Q216,8 215.34,12.96 L202.46,109.54 Q201.8,114.5 196.8,114.5 L25.2,114.5 Q20.2,114.5 19.54,109.54 L6.66,12.96 Q6,8 11,8 Z" fill="#E6E6E6"/>
+  <text x="111" y="69.25" font-family="Calibri, Carlito, Arial, sans-serif" font-size="22" font-weight="700" fill="#002965" text-anchor="middle">1</text>
+  <text x="234" y="45.75" font-family="Calibri, Carlito, Arial, sans-serif" font-size="18" font-weight="700" fill="#002965">Breite Prüfung: elf Branchencluster</text>
+  <text x="234" y="66.75" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" fill="#404040">aus Vorarbeiten, OBL'EU und</text>
+  <text x="234" y="85.75" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" fill="#404040">Gewerbeflächenstrategie</text>
+  <path d="M26.27,122.5 L195.73,122.5 Q200.73,122.5 200.07,127.46 L187.19,224.04 Q186.53,229 181.53,229 L40.47,229 Q35.47,229 34.81,224.04 L21.93,127.46 Q21.27,122.5 26.27,122.5 Z" fill="#9DC3E6"/>
+  <text x="111" y="183.75" font-family="Calibri, Carlito, Arial, sans-serif" font-size="22" font-weight="700" fill="#002965" text-anchor="middle">2</text>
+  <text x="234" y="150.75" font-family="Calibri, Carlito, Arial, sans-serif" font-size="18" font-weight="700" fill="#002965">Bewertung nach einheitlichen Kriterien</text>
+  <text x="234" y="171.75" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" fill="#404040">Marktpotenzial, regionale Kompetenzen,</text>
+  <text x="234" y="190.75" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" fill="#404040">Förderkulisse, Ansiedlungschancen,</text>
+  <text x="234" y="209.75" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" fill="#404040">Anschluss an Aachen, Lüttich und Maastricht</text>
+  <path d="M41.53,237 L180.47,237 Q185.47,237 184.81,241.96 L171.93,338.54 Q171.27,343.5 166.27,343.5 L55.73,343.5 Q50.73,343.5 50.07,338.54 L37.19,241.96 Q36.53,237 41.53,237 Z" fill="#005AA7"/>
+  <text x="111" y="298.25" font-family="Calibri, Carlito, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+  <text x="234" y="284.25" font-family="Calibri, Carlito, Arial, sans-serif" font-size="18" font-weight="700" fill="#002965">Auswahl mit geprüften Alternativen</text>
+  <text x="234" y="305.25" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" fill="#404040">zwei bis drei Profile, nachvollziehbar begründet</text>
+  <path d="M56.8,351.5 L165.2,351.5 Q170.2,351.5 169.54,356.46 L156.66,453.04 Q156,458 151,458 L71,458 Q66,458 65.34,453.04 L52.46,356.46 Q51.8,351.5 56.8,351.5 Z" fill="#002965"/>
+  <text x="111" y="412.75" font-family="Calibri, Carlito, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF" text-anchor="middle">4</text>
+  <text x="234" y="389.25" font-family="Calibri, Carlito, Arial, sans-serif" font-size="18" font-weight="700" fill="#002965">Empfehlung und Entscheidung der DG</text>
+  <text x="234" y="410.25" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" fill="#404040">im Workshop 1 (Themenprofil und</text>
+  <text x="234" y="429.25" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" fill="#404040">Entwicklungskonzept)</text>
+</svg>

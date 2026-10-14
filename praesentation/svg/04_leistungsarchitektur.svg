@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1169" height="466" viewBox="0 0 1169 466">
+  <text x="7" y="21" font-family="Calibri, Carlito, Arial, sans-serif" font-size="19" font-weight="700" fill="#002965">Grundlagen und Analyse</text>
+  <text x="7" y="41" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" fill="#7F7F7F">Monate 1–4</text>
+  <line x1="2" y1="51" x2="370" y2="51" stroke="#CDCDCD" stroke-width="1.5"/>
+  <text x="405.5" y="21" font-family="Calibri, Carlito, Arial, sans-serif" font-size="19" font-weight="700" fill="#002965">Profil und Konzept</text>
+  <text x="405.5" y="41" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" fill="#7F7F7F">Monate 4–10</text>
+  <line x1="400.5" y1="51" x2="768.5" y2="51" stroke="#CDCDCD" stroke-width="1.5"/>
+  <text x="804" y="21" font-family="Calibri, Carlito, Arial, sans-serif" font-size="19" font-weight="700" fill="#002965">Wirtschaftlichkeit und Umsetzung</text>
+  <text x="804" y="41" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" fill="#7F7F7F">Monate 9–16</text>
+  <line x1="799" y1="51" x2="1167" y2="51" stroke="#CDCDCD" stroke-width="1.5"/>
+  <rect x="2" y="61" width="368" height="157.5" rx="8" ry="8" fill="#FFFFFF" stroke="#CDCDCD" stroke-width="1.5"/>
+  <rect x="14" y="105.25" width="46" height="24" rx="6" ry="6" fill="#002965"/>
+  <text x="37" y="122.25" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="middle">AP 1</text>
+  <text x="72" y="122.25" font-family="Calibri, Carlito, Arial, sans-serif" font-size="17" font-weight="700" fill="#002965">Projektstart, Grundlagen</text>
+  <text x="72" y="143.25" font-family="Calibri, Carlito, Arial, sans-serif" font-size="17" font-weight="700" fill="#002965">und Zielsystem</text>
+  <circle cx="343" cy="117.25" r="15" fill="#FFFFFF" stroke="#005AA7" stroke-width="1.5"/>
+  <text x="343" y="122.25" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" font-weight="700" fill="#005AA7" text-anchor="middle">M1</text>
+  <rect x="14" y="161.75" width="9" height="9" fill="#95C11F"/>
+  <text x="29" y="171.25" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" fill="#404040">Arbeitsgrundlage, Zielsystem, Bewertungsrahmen</text>
+  <rect x="2" y="230.5" width="368" height="157.5" rx="8" ry="8" fill="#FFFFFF" stroke="#CDCDCD" stroke-width="1.5"/>
+  <rect x="14" y="274.75" width="46" height="24" rx="6" ry="6" fill="#002965"/>
+  <text x="37" y="291.75" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="middle">AP 2</text>
+  <text x="72" y="291.75" font-family="Calibri, Carlito, Arial, sans-serif" font-size="17" font-weight="700" fill="#002965">Standort-, Markt- und</text>
+  <text x="72" y="312.75" font-family="Calibri, Carlito, Arial, sans-serif" font-size="17" font-weight="700" fill="#002965">Potenzialanalyse</text>
+  <circle cx="343" cy="286.75" r="15" fill="#FFFFFF" stroke="#005AA7" stroke-width="1.5"/>
+  <text x="343" y="291.75" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" font-weight="700" fill="#005AA7" text-anchor="middle">M2</text>
+  <rect x="14" y="331.25" width="9" height="9" fill="#95C11F"/>
+  <text x="29" y="340.75" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" fill="#404040">Standortsteckbrief, SWOT, Entwicklungshebel</text>
+  <rect x="400.5" y="61" width="368" height="101" rx="8" ry="8" fill="#FFFFFF" stroke="#CDCDCD" stroke-width="1.5"/>
+  <rect x="412.5" y="77" width="46" height="24" rx="6" ry="6" fill="#002965"/>
+  <text x="435.5" y="94" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="middle">AP 3</text>
+  <text x="470.5" y="94" font-family="Calibri, Carlito, Arial, sans-serif" font-size="17" font-weight="700" fill="#002965">Themenprofil, Zielgruppen</text>
+  <text x="470.5" y="115" font-family="Calibri, Carlito, Arial, sans-serif" font-size="17" font-weight="700" fill="#002965">und Ecosystem</text>
+  <circle cx="741.5" cy="89" r="15" fill="#FFFFFF" stroke="#005AA7" stroke-width="1.5"/>
+  <text x="741.5" y="94" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" font-weight="700" fill="#005AA7" text-anchor="middle">M3</text>
+  <rect x="412.5" y="133.5" width="9" height="9" fill="#95C11F"/>
+  <text x="427.5" y="143" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" fill="#404040">Themen- und Zielgruppenprofil, Betreibermodell</text>
+  <rect x="400.5" y="174" width="368" height="101" rx="8" ry="8" fill="#FFFFFF" stroke="#CDCDCD" stroke-width="1.5"/>
+  <rect x="412.5" y="190" width="46" height="24" rx="6" ry="6" fill="#002965"/>
+  <text x="435.5" y="207" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="middle">AP 4</text>
+  <text x="470.5" y="207" font-family="Calibri, Carlito, Arial, sans-serif" font-size="17" font-weight="700" fill="#002965">Städtebauliches Entwicklungs-</text>
+  <text x="470.5" y="228" font-family="Calibri, Carlito, Arial, sans-serif" font-size="17" font-weight="700" fill="#002965">und Nutzungskonzept</text>
+  <circle cx="741.5" cy="202" r="15" fill="#FFFFFF" stroke="#005AA7" stroke-width="1.5"/>
+  <text x="741.5" y="207" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" font-weight="700" fill="#005AA7" text-anchor="middle">M4</text>
+  <rect x="412.5" y="246.5" width="9" height="9" fill="#95C11F"/>
+  <text x="427.5" y="256" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" fill="#404040">Varianten, Vorzugsvariante, Phasierung</text>
+  <rect x="400.5" y="287" width="368" height="101" rx="8" ry="8" fill="#FFFFFF" stroke="#CDCDCD" stroke-width="1.5"/>
+  <rect x="412.5" y="303" width="46" height="24" rx="6" ry="6" fill="#002965"/>
+  <text x="435.5" y="320" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="middle">AP 5</text>
+  <text x="470.5" y="320" font-family="Calibri, Carlito, Arial, sans-serif" font-size="17" font-weight="700" fill="#002965">Nachhaltigkeit, Mobilität</text>
+  <text x="470.5" y="341" font-family="Calibri, Carlito, Arial, sans-serif" font-size="17" font-weight="700" fill="#002965">und Resilienz</text>
+  <rect x="412.5" y="359.5" width="9" height="9" fill="#95C11F"/>
+  <text x="427.5" y="369" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" fill="#404040">Strategisches Konzept mit Indikatoren</text>
+  <rect x="799" y="61" width="368" height="125.5" rx="8" ry="8" fill="#FFFFFF" stroke="#CDCDCD" stroke-width="1.5"/>
+  <rect x="811" y="89.25" width="46" height="24" rx="6" ry="6" fill="#002965"/>
+  <text x="834" y="106.25" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="middle">AP 6</text>
+  <text x="869" y="106.25" font-family="Calibri, Carlito, Arial, sans-serif" font-size="17" font-weight="700" fill="#002965">Wirtschaftlichkeit, Business Case</text>
+  <text x="869" y="127.25" font-family="Calibri, Carlito, Arial, sans-serif" font-size="17" font-weight="700" fill="#002965">und Finanzierung</text>
+  <circle cx="1140" cy="101.25" r="15" fill="#FFFFFF" stroke="#005AA7" stroke-width="1.5"/>
+  <text x="1140" y="106.25" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" font-weight="700" fill="#005AA7" text-anchor="middle">M5</text>
+  <rect x="811" y="145.75" width="9" height="9" fill="#95C11F"/>
+  <text x="826" y="155.25" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" fill="#404040">Exit-Szenarien, Grundstückswerte, Slot-Sizes</text>
+  <rect x="799" y="198.5" width="368" height="125.5" rx="8" ry="8" fill="#FFFFFF" stroke="#CDCDCD" stroke-width="1.5"/>
+  <rect x="811" y="226.75" width="46" height="24" rx="6" ry="6" fill="#002965"/>
+  <text x="834" y="243.75" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="middle">AP 7</text>
+  <text x="869" y="243.75" font-family="Calibri, Carlito, Arial, sans-serif" font-size="17" font-weight="700" fill="#002965">Umsetzungsstrategie</text>
+  <text x="869" y="264.75" font-family="Calibri, Carlito, Arial, sans-serif" font-size="17" font-weight="700" fill="#002965">und Roadmap</text>
+  <circle cx="1140" cy="238.75" r="15" fill="#FFFFFF" stroke="#005AA7" stroke-width="1.5"/>
+  <text x="1140" y="243.75" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" font-weight="700" fill="#005AA7" text-anchor="middle">M6</text>
+  <rect x="811" y="283.25" width="9" height="9" fill="#95C11F"/>
+  <text x="826" y="292.75" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" fill="#404040">Top-10-Maßnahmen, Meilensteine, Risiken</text>
+  <rect x="799" y="336" width="368" height="52" rx="8" ry="8" fill="#002965"/>
+  <text x="815" y="368" font-family="Calibri, Carlito, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">Finalisierung und dreisprachige Übergabe</text>
+  <circle cx="1140" cy="362" r="15" fill="#002965" stroke="#FFFFFF" stroke-width="1.5"/>
+  <text x="1140" y="367" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" text-anchor="middle">M7</text>
+  <polygon points="379.25,210.5 384.25,210.5 392.25,224.5 384.25,238.5 379.25,238.5 387.25,224.5" fill="#009FE3"/>
+  <polygon points="777.75,210.5 782.75,210.5 790.75,224.5 782.75,238.5 777.75,238.5 785.75,224.5" fill="#009FE3"/>
+  <rect x="2" y="400" width="1165" height="64" rx="8" ry="8" fill="#E6E6E6"/>
+  <rect x="14" y="410" width="46" height="24" rx="6" ry="6" fill="#002965"/>
+  <text x="37" y="427" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="middle">AP 8</text>
+  <text x="72" y="428" font-family="Calibri, Carlito, Arial, sans-serif" font-size="17" font-weight="700" fill="#002965">Kommunikation, Beteiligung und Vermarktung</text>
+  <text x="72" y="450" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" fill="#404040">Auftakt · vier Abstimmungen · zwei Workshops · Abschlusspräsentation · dreisprachige Standortstory und GIS-Karten</text>
+</svg>

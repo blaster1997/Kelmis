@@ -60,6 +60,11 @@ def render_png(svg_path, color_swap=None):
 
 
 def add_svg(slide, svg_path, x, y, w, h, name, color_swap=None):
+    if not os.path.exists(svg_path):  # Abbildung noch nicht vorhanden: neutraler Platzhalter
+        ph = box(slide, x, y, w, h, GREY1, name=name + " (Platzhalter)")
+        text(slide, x + 0.3, y + h / 2 - 0.2, w - 0.6, 0.4, [{"t": "Abbildung folgt", "color": "7F7F7F"}],
+             align="c", name=name + " Hinweis")
+        return ph
     blob, png = render_png(svg_path, color_swap)
     pic = slide.shapes.add_picture(png, Inches(x), Inches(y), Inches(w), Inches(h))
     pic.name = name

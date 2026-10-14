@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="566" height="307" viewBox="0 0 566 307">
+<line x1="6" y1="224" x2="560" y2="224" stroke="#CDCDCD" stroke-width="1.5"/>
+<rect x="15" y="30" width="70" height="194" fill="#002965"/>
+<rect x="129" y="30" width="70" height="116.4" fill="#A6A6A6"/>
+<rect x="243" y="146.4" width="70" height="19.4" fill="#BFBFBF"/>
+<rect x="357" y="165.8" width="70" height="29.1" fill="#CDCDCD"/>
+<rect x="471" y="194.9" width="70" height="29.1" fill="#95C11F"/>
+<line x1="85" y1="30" x2="129" y2="30" stroke="#7F7F7F" stroke-width="1.5" stroke-dasharray="4 3"/>
+<line x1="199" y1="146.4" x2="243" y2="146.4" stroke="#7F7F7F" stroke-width="1.5" stroke-dasharray="4 3"/>
+<line x1="313" y1="165.8" x2="357" y2="165.8" stroke="#7F7F7F" stroke-width="1.5" stroke-dasharray="4 3"/>
+<line x1="427" y1="194.9" x2="471" y2="194.9" stroke="#7F7F7F" stroke-width="1.5" stroke-dasharray="4 3"/>
+<line x1="159" y1="20" x2="169" y2="20" stroke="#7F7F7F" stroke-width="2"/>
+<line x1="273" y1="136.4" x2="283" y2="136.4" stroke="#7F7F7F" stroke-width="2"/>
+<line x1="387" y1="155.8" x2="397" y2="155.8" stroke="#7F7F7F" stroke-width="2"/>
+<text x="50" y="244" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" fill="#404040" text-anchor="middle">Erzielbarer</text>
+<text x="50" y="261" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" fill="#404040" text-anchor="middle">Projektwert</text>
+<text x="50" y="278" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" fill="#7F7F7F" text-anchor="middle">Verkauf oder</text>
+<text x="50" y="295" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" fill="#7F7F7F" text-anchor="middle">Ertragswert</text>
+<text x="164" y="244" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" fill="#404040" text-anchor="middle">Bau- und</text>
+<text x="164" y="261" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" fill="#404040" text-anchor="middle">Baunebenkosten</text>
+<text x="278" y="244" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" fill="#404040" text-anchor="middle">Finanzierung und</text>
+<text x="278" y="261" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" fill="#404040" text-anchor="middle">Vermarktung</text>
+<text x="392" y="244" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" fill="#404040" text-anchor="middle">Risiko und</text>
+<text x="392" y="261" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" fill="#404040" text-anchor="middle">Gewinn des</text>
+<text x="392" y="278" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" fill="#404040" text-anchor="middle">Entwicklers</text>
+<text x="506" y="244" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" fill="#404040" text-anchor="middle">Tragfähiger</text>
+<text x="506" y="261" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" fill="#404040" text-anchor="middle">Grundstückswert</text>
+<text x="506" y="278" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" fill="#7F7F7F" text-anchor="middle">Residualwert</text>
+</svg>

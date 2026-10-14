@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="576" height="307" viewBox="0 0 576 307">
+<path d="M160 250 V56 A6 6 0 0 1 166 50 H426 A6 6 0 0 1 432 56 V250 Z" fill="#F2F2F2" stroke="none"/>
+<line x1="24" y1="250" x2="24" y2="30" stroke="#7F7F7F" stroke-width="1.5"/>
+<line x1="24" y1="250" x2="566" y2="250" stroke="#7F7F7F" stroke-width="1.5"/>
+<line x1="76" y1="250" x2="76" y2="255" stroke="#7F7F7F" stroke-width="1.5"/>
+<line x1="186" y1="250" x2="186" y2="255" stroke="#7F7F7F" stroke-width="1.5"/>
+<line x1="296" y1="250" x2="296" y2="255" stroke="#7F7F7F" stroke-width="1.5"/>
+<line x1="406" y1="250" x2="406" y2="255" stroke="#7F7F7F" stroke-width="1.5"/>
+<line x1="516" y1="250" x2="516" y2="255" stroke="#7F7F7F" stroke-width="1.5"/>
+<text x="24" y="18" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" fill="#7F7F7F" text-anchor="start">Wert / Risiko</text>
+<polyline points="76,178 186,195.4 296,209.9 406,221.5 516,227.3" fill="none" stroke="#7F7F7F" stroke-width="2" stroke-dasharray="7 5" stroke-linejoin="round"/>
+<polyline points="76,178 186,149 296,120 406,88.1 516,62" fill="none" stroke="#002965" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="76" cy="178" r="5" fill="#002965"/>
+<circle cx="186" cy="149" r="5" fill="#002965"/>
+<circle cx="296" cy="120" r="5" fill="#002965"/>
+<circle cx="406" cy="88.1" r="5" fill="#002965"/>
+<circle cx="516" cy="62" r="5" fill="#002965"/>
+<circle cx="186" cy="149" r="12" fill="#005AA7"/>
+<text x="186" y="154.3" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="middle">1</text>
+<circle cx="296" cy="120" r="12" fill="#95C11F"/>
+<text x="296" y="125.3" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" font-weight="700" fill="#002965" text-anchor="middle">2</text>
+<circle cx="406" cy="88.1" r="12" fill="#005AA7"/>
+<text x="406" y="93.4" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" font-weight="700" fill="#FFFFFF" text-anchor="middle">3</text>
+<text x="76" y="272" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" fill="#404040" text-anchor="middle">Bestand</text>
+<text x="186" y="272" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" fill="#404040" text-anchor="middle">Planungsrecht</text>
+<text x="296" y="272" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" fill="#404040" text-anchor="middle">Erschließung</text>
+<text x="406" y="272" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" fill="#404040" text-anchor="middle">erste</text>
+<text x="406" y="290" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" fill="#404040" text-anchor="middle">Gebäude</text>
+<text x="516" y="272" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" fill="#404040" text-anchor="middle">etabliertes</text>
+<text x="516" y="290" font-family="Calibri, Carlito, Arial, sans-serif" font-size="15" fill="#404040" text-anchor="middle">Quartier</text>
+<line x1="202" y1="13" x2="226" y2="13" stroke="#002965" stroke-width="3" stroke-linecap="round"/>
+<text x="234" y="18" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" fill="#404040" text-anchor="start">Grundstückswert</text>
+<line x1="363" y1="13" x2="387" y2="13" stroke="#7F7F7F" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="395" y="18" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" fill="#404040" text-anchor="start">Entwicklungsrisiko</text>
+<circle cx="214" cy="33" r="7" fill="#95C11F"/>
+<text x="234" y="38" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" fill="#404040" text-anchor="start">Basisstrategie: Verkauf parallel zur Erschließung</text>
+</svg>
