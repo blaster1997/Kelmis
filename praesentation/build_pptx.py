@@ -68,6 +68,7 @@ def add_svg(slide, svg_path, x, y, w, h, name, color_swap=None):
     blob, png = render_png(svg_path, color_swap)
     pic = slide.shapes.add_picture(png, Inches(x), Inches(y), Inches(w), Inches(h))
     pic.name = name
+    pic._element.nvPicPr.cNvPr.set("descr", name)
     key = (svg_path, tuple(sorted((color_swap or {}).items())))
     if key not in svg_parts:
         svg_counter[0] += 1
@@ -378,7 +379,7 @@ text(s, 6.85, 1.78, 5.9, 0.3, [{"t": "Grundstückswert nach Residualwertmethode"
                                 "color": NAVY}], name="Überschrift Residualwert")
 add_svg(s, os.path.join(SVG, "07_residualwert.svg"), 6.85, 2.12, 5.896, 3.198, "Residualwert")
 cards = [("Exit-Szenarien", "Verkauf nach Planungsrecht, parallel zur Erschließung oder nach Vermarktungsstart"),
-         ("Slot-Sizes", "Grundstücks- und Investitionsgrößen, die finanzierbar und kapitalmarktfähig sind"),
+         ("Slot-Sizes", "Grundstücksgrößen, die finanzierbar und kapitalmarktfähig sind"),
          ("Parzellierung", "Eigenständig erschließbare, entwickelbare und vermarktbare Grundstücke"),
          ("Öffentliche Hand", "Kosten, Erlöse und Finanzierungsbedarf, Folgekosten und Einnahmen")]
 for i, (head, body) in enumerate(cards):
