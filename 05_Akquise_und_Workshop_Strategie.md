@@ -156,7 +156,8 @@ Je Meilenstein werden 80 % fällig, die einbehaltenen 20 % plus MS5 mit der Enda
 ### Fragenkatalog an den Kunden (priorisiert)
 1. **Themenpräferenz:** Gibt es politisch ein Wunschthema (Sicherheit/Verteidigung, Einstein-Teleskop, Digital) oder soll das Thema im Projekt hergeleitet werden? Wer entscheidet?
 2. **Ortschaft:** Die erste vorläufige Abnahme heißt „Festlegung der weiter zu beplanenden Ortschaft“. Ist Kelmis-Zentrum (Lütticher Straße/Museum) gesetzt, oder sollen Hergenrath (Bahnhof) und Neu-Moresnet mitgeprüft werden?
-3. **Gemeinde:** Wie positionieren sich Bürgermeister und Kollegium? Rolle der **AGR Kelmis** (Flächen, Kapital, Personal)? Status der Verlagerung des **Keolis-Busbetriebshofs**?
+3. **Gemeinde:** Wie positionieren sich **Bürgermeister Daniel Hilligsmann (ELAN, seit 12/2024, zuvor Kabinettschef MP Paasch)** und das Kollegium (ELAN + SP-Offene Bürgerliste, 12/21 Sitze)? Die Interviews der Gewerbeflächenstrategie fanden 2023 noch mit Ex-BM Luc Frank (CSP, heute Opposition) statt; der Konsens muss neu verankert werden. Rolle der **AGR Kelmis** (Flächen, Kapital, Personal)? Status der Verlagerung des **Keolis-Busbetriebshofs**?
+3b. **Planungsrecht:** Der Teilbereich Lütticher Straße Süd ist im Sektorenplan **Wohngebiet**; die Gewerbeflächenstrategie empfiehlt die Umwidmung zur Gewerbezone. Das würde den geforderten Wohnanteil des Quartiers verhindern. Soll Süd als Mischquartier entwickelt werden? Wie ist der Stand der GRE-Reform (Orientierungsschema, Instrumente)?
 4. **Eigentum & Flächen:** Welche Flächen sind öffentlich oder bereits im Gespräch (Bauhof, Tankstelle, Baustoffhandel)?
 5. **Vorarbeiten:** Welche unveröffentlichten Unterlagen werden nach Auftragserteilung bereitgestellt (MORO-Bericht, OBL'EU-Ergebnisse, Euregio Meuse-Rhine Innovation District)?
 6. **Beteiligung:** Erwünschte Tiefe der Bürgerbeteiligung? Abstimmung mit OBL'EU (Ausstellung November 2026)?
@@ -165,6 +166,10 @@ Je Meilenstein werden 80 % fällig, die einbehaltenen 20 % plus MS5 mit der Enda
 9. **GIS:** Lambert 72 oder Lambert 2008? Gewünschte Datenformate (Shapefile, GeoPackage, DWG)?
 10. **Lieferzeitpunkt:** Wie wird das Kriterium bewertet (Datum der Endabgabe, Formel)? Sind Zwischenergebnisse (z. B. Positionspapier) gewünscht?
 11. **Externe Kontakte:** Dürfen wir nach Abstimmung früh mit Investoren oder Ankermietern sprechen (Lastenheft verlangt Einverständnis der DG)?
+
+### Politische Konstellation (Fakten aus 01_Standortanalyse)
+- **Gemeinde Kelmis:** BM Daniel Hilligsmann (ELAN) seit 12/2024, zuvor Kabinettschef von MP Oliver Paasch. Das verspricht kurze Wege zwischen Gemeinde und DG-Regierung; Mehrheit ELAN + SP-Offene Bürgerliste (12/21), 1. Schöffe Björn Klinkenberg. Die Opposition (u. a. CSP, Ex-BM Luc Frank) früh einbinden, denn das Konzept läuft über 2028 hinaus.
+- **DG:** Das Projekt liegt beim FB Raumordnung, Wohnen und Energie (Kay Raddatz, Dr. Lucyna Zalas). Bei OBL'EU war das Kabinett Minister Gregor Freches beteiligt, außerdem das Kabinett MP Paasch (Alfred Ossemann).
 
 ### Einwandbehandlung
 | Einwand | Antwort |
