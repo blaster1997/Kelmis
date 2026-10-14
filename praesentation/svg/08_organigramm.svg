@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1169" height="430" viewBox="0 0 1169 430">
+<rect x="0" y="0" width="812" height="430" rx="10" fill="#F2F2F2"/>
+<rect x="840" y="0" width="329" height="430" rx="10" fill="#E8EFF7"/>
+<text x="20" y="28" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" fill="#7F7F7F" font-weight="700" text-anchor="start">ÖKONOMISCHES ÖKOSYSTEM</text>
+<text x="860" y="28" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" fill="#7F7F7F" font-weight="700" text-anchor="start">FÖRDEREBENE</text>
+<rect x="246" y="40" width="320" height="64" rx="8" fill="#002965" stroke="#002965" stroke-width="1.5"/>
+<text x="406.0" y="68.0" font-family="Calibri, Carlito, Arial, sans-serif" font-size="18" fill="#FFFFFF" font-weight="700" text-anchor="middle">Entwicklungsgesellschaft</text>
+<text x="406.0" y="89.0" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" fill="#FFFFFF" text-anchor="middle">DG, AGR Kelmis, WFG · SPI für den Gewerbeteil</text>
+<rect x="276" y="165" width="260" height="62" rx="8" fill="#FFFFFF" stroke="#CDCDCD" stroke-width="1.5"/>
+<text x="406.0" y="192.0" font-family="Calibri, Carlito, Arial, sans-serif" font-size="18" fill="#002965" font-weight="700" text-anchor="middle">Investoren</text>
+<text x="406.0" y="213.0" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" fill="#404040" text-anchor="middle">errichten und halten die Gebäude</text>
+<rect x="30" y="300" width="240" height="62" rx="8" fill="#FFFFFF" stroke="#CDCDCD" stroke-width="1.5"/>
+<text x="150.0" y="327.0" font-family="Calibri, Carlito, Arial, sans-serif" font-size="18" fill="#002965" font-weight="700" text-anchor="middle">Unternehmen</text>
+<text x="150.0" y="348.0" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" fill="#404040" text-anchor="middle">als Mieter</text>
+<rect x="552" y="265" width="240" height="62" rx="8" fill="#FFFFFF" stroke="#CDCDCD" stroke-width="1.5"/>
+<text x="672.0" y="292.0" font-family="Calibri, Carlito, Arial, sans-serif" font-size="18" fill="#002965" font-weight="700" text-anchor="middle">EMRIQ-Haus</text>
+<text x="672.0" y="313.0" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" fill="#404040" text-anchor="middle">Betreiber der Gründerflächen</text>
+<rect x="552" y="362" width="240" height="56" rx="8" fill="#FFFFFF" stroke="#CDCDCD" stroke-width="1.5"/>
+<text x="672.0" y="386.0" font-family="Calibri, Carlito, Arial, sans-serif" font-size="18" fill="#002965" font-weight="700" text-anchor="middle">Start-ups</text>
+<text x="672.0" y="407.0" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" fill="#404040" text-anchor="middle">mieten im EMRIQ-Haus</text>
+<polyline points="381,104 381,163" fill="none" stroke="#005AA7" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="381,163 374,152 388,152" fill="#005AA7"/>
+<text x="373" y="140" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" fill="#005AA7" font-weight="700" text-anchor="end">Infrastruktur, Baurecht</text>
+<polyline points="431,165 431,106" fill="none" stroke="#6E9A12" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="431,106 424,117 438,117" fill="#6E9A12"/>
+<text x="439" y="140" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" fill="#6E9A12" font-weight="700" text-anchor="start">Erbpachtkanon</text>
+<polyline points="276,185 120,185 120,298" fill="none" stroke="#005AA7" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="120,298 113,287 127,287" fill="#005AA7"/>
+<text x="196" y="178" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" fill="#005AA7" font-weight="700" text-anchor="middle">Fläche</text>
+<polyline points="190,300 190,210 274,210" fill="none" stroke="#6E9A12" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="274,210 263,203 263,217" fill="#6E9A12"/>
+<text x="232" y="228" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" fill="#6E9A12" font-weight="700" text-anchor="middle">Miete</text>
+<polyline points="536,185 712,185 712,263" fill="none" stroke="#005AA7" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="712,263 705,252 719,252" fill="#005AA7"/>
+<text x="624" y="178" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" fill="#005AA7" font-weight="700" text-anchor="middle">Fläche (Generalmiete)</text>
+<polyline points="642,265 642,210 538,210" fill="none" stroke="#6E9A12" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="538,210 549,203 549,217" fill="#6E9A12"/>
+<text x="590" y="228" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" fill="#6E9A12" font-weight="700" text-anchor="middle">Miete</text>
+<polyline points="642,327 642,360" fill="none" stroke="#005AA7" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="642,360 635,349 649,349" fill="#005AA7"/>
+<text x="634" y="349" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" fill="#005AA7" font-weight="700" text-anchor="end">Fläche</text>
+<polyline points="712,362 712,329" fill="none" stroke="#6E9A12" stroke-width="2.5" stroke-linejoin="round"/>
+<polygon points="712,329 705,340 719,340" fill="#6E9A12"/>
+<text x="720" y="349" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" fill="#6E9A12" font-weight="700" text-anchor="start">Miete</text>
+<line x1="30" y1="393" x2="62" y2="393" stroke="#005AA7" stroke-width="2.5"/>
+<text x="72" y="398" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" fill="#404040" text-anchor="start">Leistung: Infrastruktur, Baurecht, Fläche</text>
+<line x1="30" y1="414" x2="62" y2="414" stroke="#6E9A12" stroke-width="2.5"/>
+<text x="72" y="419" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" fill="#404040" text-anchor="start">Zahlung: Erbpachtkanon, Miete</text>
+<rect x="860" y="48" width="289" height="66" rx="8" fill="#FFFFFF" stroke="#CDCDCD" stroke-width="1.5"/>
+<text x="1004.5" y="77.0" font-family="Calibri, Carlito, Arial, sans-serif" font-size="18" fill="#002965" font-weight="700" text-anchor="middle">Politik</text>
+<text x="1004.5" y="98.0" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" fill="#404040" text-anchor="middle">DG, Wallonie, EU (EFRE, Interreg)</text>
+<rect x="860" y="148" width="289" height="66" rx="8" fill="#FFFFFF" stroke="#CDCDCD" stroke-width="1.5"/>
+<text x="1004.5" y="177.0" font-family="Calibri, Carlito, Arial, sans-serif" font-size="18" fill="#002965" font-weight="700" text-anchor="middle">Unternehmen</text>
+<text x="1004.5" y="198.0" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" fill="#404040" text-anchor="middle">als Förderer und Partner</text>
+<rect x="860" y="248" width="289" height="66" rx="8" fill="#FFFFFF" stroke="#CDCDCD" stroke-width="1.5"/>
+<text x="1004.5" y="277.0" font-family="Calibri, Carlito, Arial, sans-serif" font-size="18" fill="#002965" font-weight="700" text-anchor="middle">Forschung</text>
+<text x="1004.5" y="298.0" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" fill="#404040" text-anchor="middle">RWTH, Fraunhofer ILT, ULiège, UM</text>
+<text x="870" y="352" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" fill="#002965" font-weight="700" text-anchor="start">Fördermittel, Bürgschaften, Programme</text>
+<text x="870" y="372" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" fill="#404040" text-anchor="start">und Ankermieten wirken auf alle</text>
+<text x="870" y="392" font-family="Calibri, Carlito, Arial, sans-serif" font-size="14" fill="#404040" text-anchor="start">Stufen des Ökosystems (Hebel 1–12)</text>
+<polygon points="818,200 834,188 834,212" fill="#005AA7"/>
+</svg>

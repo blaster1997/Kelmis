@@ -388,6 +388,281 @@ for i, (head, body) in enumerate(cards):
     text(s, x + 0.18, 5.50, cw - 0.36, 1.08, [{"t": head, "size": 14, "bold": True, "color": NAVY, "after": 2},
                                               {"t": body, "size": 13}], name=f"Text {head}")
 
+# ---------------------------------------------------------------- Folien 8–12: Struktur und Förderung
+# Grundlage: Arbeitsmaterial „Organigramm Innovationscampus“ (Organigramm, Stakeholder, Förderhebel, Vorbilder),
+# übertragen auf Kelmis und den belgischen bzw. wallonischen Förderrahmen.
+FUNDER = {"Politik": NAVY, "Unternehmen": BLUE, "Forschung": GREEN}
+
+
+def chips(slide, x, y, names):
+    for n in names:
+        w = 0.12 + 0.075 * len(n)
+        c = slide.shapes.add_shape(MSO_SHAPE.ROUNDED_RECTANGLE, Inches(x), Inches(y), Inches(w), Inches(0.22))
+        c.name = f"Träger {n}"
+        fill(c, FUNDER[n])
+        tf = c.text_frame
+        tf.margin_left = tf.margin_right = tf.margin_top = tf.margin_bottom = 0
+        tf.vertical_anchor = MSO_ANCHOR.MIDDLE
+        p = tf.paragraphs[0]
+        p.alignment = PP_ALIGN.CENTER
+        r = p.add_run()
+        r.text = n
+        r.font.size = Pt(10)
+        r.font.bold = True
+        r.font.color.rgb = rgb(WHITE)
+        x += w + 0.08
+
+
+def num(slide, x, y, n, d=0.38, color=BLUE, size=13):
+    c = slide.shapes.add_shape(MSO_SHAPE.OVAL, Inches(x), Inches(y), Inches(d), Inches(d))
+    c.name = f"Nummer {n}"
+    fill(c, color)
+    tf = c.text_frame
+    tf.margin_left = tf.margin_right = tf.margin_top = tf.margin_bottom = 0
+    tf.vertical_anchor = MSO_ANCHOR.MIDDLE
+    p = tf.paragraphs[0]
+    p.alignment = PP_ALIGN.CENTER
+    r = p.add_run()
+    r.text = str(n)
+    r.font.size = Pt(size)
+    r.font.bold = True
+    r.font.color.rgb = rgb(WHITE)
+
+
+# Folie 8: Organigramm
+s = new_slide("Strukturierung: Organigramm des Quartiers",
+              "Boden und Erschließung in öffentlicher Hand – Bau durch Investoren – Betrieb durch einen Hub-Betreiber",
+              "Vorschlag zur Diskussion, kein Ergebnis. Die Entwicklungsgesellschaft – zunächst als Projektallianz aus DG, "
+              "AGR Kelmis und WFG, für den Gewerbeteil mit der SPI – schafft Baurecht und Erschließung und vergibt die "
+              "Baufelder in Erbpacht. Investoren bauen und halten die Gebäude und vermieten an Unternehmen sowie per "
+              "Generalmietvertrag an den Betreiber des EMRIQ-Hauses, der die Flächen kurzfristig an Start-ups weitergibt. "
+              "Politik, Unternehmen und Forschung wirken über Fördermittel, Bürgschaften, Programme und Ankermieten.")
+add_svg(s, os.path.join(SVG, "08_organigramm.svg"), 0.57, 1.80, 12.177, 4.479, "Organigramm EMRIQ")
+text(s, 0.57, 6.36, 12.18, 0.3, [{"runs": [
+    {"t": "Grundsätze: ", "bold": True, "color": NAVY},
+    {"t": "Steuerung über Erbpacht statt Verkauf · Immobilie und Betrieb getrennt · Gründerflächen befristet, "
+          "Anschlussflächen im Quartier"}], "size": 13}], name="Grundsätze Organigramm")
+
+# Folie 9: Interessen der Stakeholder
+s = new_slide("Interessen der Stakeholder",
+              "Was jede Rolle erreichen will, wo Zielkonflikte liegen und welche Förderhebel ansetzen",
+              "Die Tabelle zeigt, warum sich die Akteure beteiligen und wo es haken kann. Die Nummern verweisen auf die "
+              "Förderhebel der beiden folgenden Folien. Zentraler Zielkonflikt der Entwicklungsgesellschaft: Ein hoher "
+              "Erbpachtkanon schreckt Investoren ab, ein niedriger gefährdet die Refinanzierung. Beim Betreiber des "
+              "EMRIQ-Hauses ist es die Fristeninkongruenz zwischen langer Generalmiete und kurzen Start-up-Verträgen.")
+rows = [
+    ("Entwicklungsgesellschaft", "DG, AGR Kelmis, WFG, SPI",
+     "Quartier zügig und mit klarem Profil entwickeln; Nutzungen über Erbpacht steuern; Erschließung refinanzieren",
+     "Hohe Vorleistung vor den ersten Einnahmen; hoher Kanon schreckt Investoren ab, niedriger gefährdet die Refinanzierung",
+     "1 2 3 4"),
+    ("Investoren", "errichten und halten die Gebäude",
+     "Rendite und Werterhalt; Ankermieter und lange Laufzeiten; kalkulierbarer Kanon; Drittverwendbarkeit",
+     "Leerstand bei Speziallaboren; Start-ups mit geringer Bonität; kurze Restlaufzeit der Erbpacht",
+     "1 5 6 8"),
+    ("Unternehmen", "als Mieter",
+     "Nähe zu Fachkräften, Forschung und Start-ups; flexible Büro-, Labor- und Testflächen",
+     "Mieten über dem Niveau des Umlands; Bindung ohne messbaren Innovationsnutzen",
+     "7 10"),
+    ("EMRIQ-Haus", "Betreiber der Gründerflächen",
+     "Hohe Auslastung und Kostendeckung; gute Auswahl der Start-ups; Partner gewinnen",
+     "Lange Generalmiete, kurze Start-up-Verträge; Leerstand und Mietausfälle in der Anlaufphase",
+     "8 9 10 12"),
+    ("Start-ups", "mieten im EMRIQ-Haus",
+     "Günstige, flexible Flächen; Zugang zu Kapital, Pilotkunden und Laboren",
+     "Knappe Liquidität; Anschlussflächen beim Wachstum; Abhängigkeit von Förderzyklen",
+     "11 12"),
+    ("Politik", "Gemeinde, DG, Wallonie, EU",
+     "Arbeitsplätze, Einnahmen, Sichtbarkeit; hohe Wirkung je Euro; beihilferechtssichere Förderung",
+     "Mitnahmeeffekte; lange Haushaltsbindung (Gemeinde unter Aufsicht); politisches Risiko bei schwachem Anlauf",
+     "1 2 3 4 8 9 11"),
+    ("Unternehmen", "als Förderer und Partner",
+     "Früher Zugang zu Technologien und Start-ups; Kooperation mit der Forschung; Fachkräfte",
+     "Unklarer Nutzen; Fragen des geistigen Eigentums; Abgrenzung zu eigenen Programmen",
+     "5 10 11"),
+    ("Forschung", "RWTH, Fraunhofer ILT, ULiège, UM",
+     "Transfer und Ausgründungen; Industrieprojekte und Drittmittel; Reallabore",
+     "Begrenzte Kapazität für Transfer; Spannung zwischen Grundlagen- und Auftragsforschung",
+     "5 6 7"),
+]
+cols = [2.35, 4.15, 4.35, 1.33]
+tbl = s.shapes.add_table(len(rows) + 1, 4, Inches(0.57), Inches(1.80), Inches(sum(cols)), Inches(4.75)).table
+for j, w in enumerate(cols):
+    tbl.columns[j].width = Inches(w)
+tbl.rows[0].height = Inches(0.34)
+for i in range(1, len(rows) + 1):
+    tbl.rows[i].height = Inches(0.53)
+
+
+def cell(c, paras, bg, color=TXT, size=11):
+    c.fill.solid()
+    c.fill.fore_color.rgb = rgb(bg)
+    c.margin_left = c.margin_right = Inches(0.08)
+    c.margin_top = c.margin_bottom = Inches(0.04)
+    c.vertical_anchor = MSO_ANCHOR.MIDDLE
+    tf = c.text_frame
+    tf.word_wrap = True
+    for k, pr in enumerate(paras):
+        p = tf.paragraphs[0] if k == 0 else tf.add_paragraph()
+        p.space_after = Pt(0)
+        r = p.add_run()
+        r.text = pr["t"]
+        r.font.size = Pt(pr.get("size", size))
+        r.font.bold = pr.get("bold", False)
+        r.font.color.rgb = rgb(pr.get("color", color))
+
+
+for j, h in enumerate(["Stakeholder", "Kerninteressen", "Risiken und Zielkonflikte", "Förderhebel"]):
+    cell(tbl.cell(0, j), [{"t": h, "bold": True}], NAVY, WHITE, 12)
+for i, (name, sub, interest, risk, levers) in enumerate(rows, start=1):
+    bg = GREY1 if i % 2 else WHITE
+    if i == 6:  # Förderebene beginnt
+        bg = "E8EFF7"
+    elif i > 6:
+        bg = "E8EFF7" if i % 2 == 0 else "F3F7FB"
+    cell(tbl.cell(i, 0), [{"t": name, "bold": True, "color": NAVY, "size": 12}, {"t": sub, "size": 10, "color": "595959"}], bg)
+    cell(tbl.cell(i, 1), [{"t": interest}], bg)
+    cell(tbl.cell(i, 2), [{"t": risk}], bg)
+    cell(tbl.cell(i, 3), [{"t": levers, "bold": True, "color": BLUE, "size": 12}], bg)
+text(s, 0.57, 6.64, 12.18, 0.22, [{"runs": [
+    {"t": "Grau: ökonomisches Ökosystem · Blau hinterlegt: Förderebene · ", "color": "7F7F7F"},
+    {"t": "Nummern = Förderhebel auf den folgenden Folien (Ökosystem: überzeugt den Akteur; Förderebene: finanziert oder trägt er)",
+     "color": "7F7F7F"}], "size": 11}], name="Lesehilfe Stakeholder")
+
+# Folien 10 und 11: Förderhebel
+levers_a = [
+    (1, "GRUNDSTÜCK UND INFRASTRUKTUR", "Gestaffelter Erbpachtkanon",
+     "Niedrig in der Anlaufphase, danach steigend und an eine Nutzungsbindung gekoppelt. Senkt die Kosten der Investoren.",
+     "Gestaffelte Erbpacht nach Buch 3 ZGB; im SPI-Gebiet ist der Verkehrswert die Untergrenze",
+     ["Politik"], "Vorbild: Zürich – Baurecht und Unterbaurecht"),
+    (2, "GRUNDSTÜCK UND INFRASTRUKTUR", "Infrastruktur nicht umlegen",
+     "Die öffentliche Hand trägt Erschließung, Plätze, Mobilität und Entwicklungsmanagement, ohne sie auf Kanon oder Preis umzulegen.",
+     "SPI-Erschließung nach Dekret 2017 (65 % plus bis 20 Punkte), Infrastrukturplan der DG, EFRE",
+     ["Politik"], "Vorbild: Zürich 85,7 Mio. CHF; Cornell Tech 100 Mio. $"),
+    (3, "GRUNDSTÜCK UND INFRASTRUKTUR", "Grunderwerb und Brachen fördern",
+     "Zuschüsse für den Ankauf und die Sanierung untergenutzter Flächen senken die Kosten der Baulandentwicklung.",
+     "Dekret 2017: Grunderwerb in Wohn- und Sanierungsgebieten 50 %; Brachen gezielt sanieren",
+     ["Politik"], "Im Einzelfall rechtlich prüfen"),
+    (4, "GRUNDSTÜCK UND INFRASTRUKTUR", "Refinanzierung aus Wertsteigerung",
+     "Infrastruktur wird vorfinanziert und aus späteren Rückflüssen zurückgezahlt – Vorleistung statt verlorener Zuschuss.",
+     "Revolvierender Bodenfonds mit Rückflüssen aus Erbpacht und Verkäufen; städtebauliche Lasten",
+     ["Politik"], "Vorbild: Cortex St. Louis, Zürich"),
+    (5, "GEBÄUDE", "Ankermieter und Vorvermietung",
+     "Ein bonitätsstarker Mieter macht das Gebäude für Investoren finanzierbar.",
+     "Generalmietvertrag von WFG oder DG für das EMRIQ-Haus; Museum, Forschungsaußenstelle oder Projektbüro Einstein-Teleskop als Ankermieter",
+     ["Politik", "Forschung", "Unternehmen"], "Vorbild: Block71 Singapur, High Tech Campus Eindhoven"),
+    (6, "GEBÄUDE", "Gemeinsame Forschungsinfrastruktur",
+     "Zuschüsse oder Bürgschaften für Labore, Messtechnik und Geräte, die Investoren ungern finanzieren – für alle Mieter nutzbar.",
+     "Schwingungsarme Labore und Messplätze über EFRE und Interreg, mit RWTH oder Fraunhofer ILT",
+     ["Politik", "Forschung"], "Vorbild: Switzerland Innovation, Eindhoven"),
+]
+levers_b = [
+    (7, "NUTZER", "F&E-Kooperation und Steueranreize",
+     "Verbundprojekte der Mieter mit Forschung und Start-ups; steuerliche Förderung eigener Forschung.",
+     "Interreg-Verbundprojekte; belgischer Innovationsabzug und Teilbefreiung vom Berufssteuervorabzug für Forschende",
+     ["Politik", "Forschung", "Unternehmen"], "Vorbild: RWTH Aachen Campus"),
+    (8, "BETRIEB", "Mietgarantie in der Anlaufphase",
+     "Die öffentliche Hand sichert den Generalmietvertrag des Betreibers für die ersten Jahre ab und schließt so die Fristenlücke.",
+     "Befristete, gedeckelte Garantie von DG oder WFG gegenüber dem Investor des EMRIQ-Hauses",
+     ["Politik"], "Vorbild: Bürgschaftsmodell Switzerland Innovation"),
+    (9, "BETRIEB", "Investitions- und Betriebszuschüsse",
+     "Zuschüsse für Ausbau, Ausstattung und Anlaufkosten des Gründerzentrums.",
+     "Dekret 2017: Gründerzentrum bis 80 % (gedeckelt); EFRE 2028–2034; Betriebszuschuss der DG in der Anlaufphase",
+     ["Politik"], "Programmierung EFRE 2027 nutzen"),
+    (10, "BETRIEB", "Partner- und Mitgliedschaftsmodelle",
+     "Unternehmen zahlen Mitgliedschaften oder betreiben eigene Programme im Hub und finanzieren Betrieb und Angebote mit.",
+     "Partner wie HAHN Automation und Aachener Unternehmen mit eigenen Programmen",
+     ["Unternehmen"], "Vorbild: RWTH Campus, Station F Paris"),
+    (11, "GRÜNDUNG", "Direktförderung der Start-ups",
+     "Zuschüsse, Inkubatorprogramme und Wagniskapital direkt an die Gründungen.",
+     "Wagniskapital über Noshaq und Wallonie Entreprendre; EIC Accelerator; Programme der WFG",
+     ["Politik", "Unternehmen"], "Vorbild: Inkubatoren Israel, Cornell Tech"),
+    (12, "GRÜNDUNG", "Einstiegsmieten mit Verweildauer",
+     "Gestaffelte oder bezuschusste Mieten, befristet, damit Flächen rotieren und Wachstum im Quartier bleibt.",
+     "Verträge über drei bis fünf Jahre im EMRIQ-Haus, danach Anschlussflächen auf den Gewerbebaufeldern",
+     ["Politik", "Unternehmen"], "Vorbild: Block71 Singapur (3 Jahre, Firmen unter 5 Jahren)"),
+]
+
+
+def lever_slide(title, subtitle, notes, levers):
+    s = new_slide(title, subtitle, notes)
+    cw3, ch = 3.86, 2.30
+    for k, (n, stage, head, body, kelmis, who, ref) in enumerate(levers):
+        x = 0.57 + (k % 3) * (cw3 + 0.30)
+        y = 1.80 + (k // 3) * (ch + 0.18)
+        box(s, x, y, cw3, ch, GREY1, name=f"Hebel {n}")
+        num(s, x + 0.15, y + 0.15, n)
+        text(s, x + 0.65, y + 0.12, cw3 - 0.8, 0.2, [{"t": stage, "size": 9, "bold": True, "color": "7F7F7F"}],
+             name=f"Stufe {n}")
+        text(s, x + 0.65, y + 0.30, cw3 - 0.8, 0.28, [{"t": head, "size": 13, "bold": True, "color": NAVY}],
+             name=f"Titel Hebel {n}")
+        text(s, x + 0.15, y + 0.66, cw3 - 0.3, 1.2, [
+            {"t": body, "size": 11, "after": 3},
+            {"runs": [{"t": "In Kelmis: ", "bold": True, "color": BLUE}, {"t": kelmis}], "size": 11, "after": 2},
+            {"t": ref, "size": 10, "color": "7F7F7F"}], name=f"Text Hebel {n}")
+        chips(s, x + 0.15, y + ch - 0.32, who)
+    return s
+
+
+lever_slide("Förderhebel (1/2): Grundstück, Infrastruktur und Gebäude",
+            "Wo öffentliche Mittel die Baulandentwicklung und die ersten Gebäude finanzierbar machen",
+            "Die Hebel 1 bis 4 setzen bei der Entwicklungsgesellschaft an und entsprechen den Maßnahmen, mit denen die "
+            "Musterrechnung vom Basisszenario zum Zielbild kommt. Hebel 5 und 6 machen die Gebäude für Investoren "
+            "finanzierbar. Wichtig: Im geförderten SPI-Gewerbegebiet müssen Flächen mindestens zum Verkehrswert abgegeben "
+            "werden; Vergünstigungen laufen dort über Mieten oder Betrieb. Alle Angaben sind im Projekt zu prüfen.",
+            levers_a)
+s = lever_slide("Förderhebel (2/2): Nutzer, Betrieb und Gründung",
+                "Wo Zuschüsse und Partnerschaften den Betrieb des EMRIQ-Hauses und die Gründungen tragen",
+                "Die Hebel 7 bis 12 setzen beim Betrieb des EMRIQ-Hauses und bei den Gründungen an. Die Mietgarantie "
+                "(Hebel 8) ist der Schlüssel, damit ein Investor das EMRIQ-Haus finanziert. Beihilferecht mitdenken: "
+                "vergünstigter Kanon, Bürgschaften und Mietzuschüsse sind in der Regel Beihilfen; übliche Wege sind ein "
+                "Marktwertgutachten, De-minimis (bis 300.000 € je Unternehmen in drei Jahren) oder die AGVO.",
+                levers_b)
+FOOT_NOTE = ("Beihilferecht: Vergünstigter Kanon, Bürgschaften und Mietzuschüsse sind in der Regel Beihilfen – "
+             "Marktwertgutachten, De-minimis (300.000 € in drei Jahren) oder AGVO-Freistellung. Angaben im Projekt zu prüfen.")
+for sl in (prs.slides[-2], prs.slides[-1]):
+    text(sl, 0.57, 6.64, 12.18, 0.22, [{"t": FOOT_NOTE, "size": 10, "color": "7F7F7F"}], name="Hinweis Beihilferecht")
+
+# Folie 12: Strukturierungsvorschlag aus Vorbildern
+s = new_slide("Strukturierung: Was sich aus Vorbildern übertragen lässt",
+              "Fünf wiederkehrende Muster internationaler Innovationsstandorte und ihr Ansatz in Kelmis",
+              "Die Muster stammen aus dem Vergleich von Zürich, Cornell Tech, Cortex St. Louis, Block71, RWTH Campus, "
+              "Station F, den israelischen Inkubatoren und Eindhoven. Für Kelmis sind sie bewusst klein skaliert: Es geht "
+              "um ein Quartier mit einem Gründerzentrum, nicht um einen Großcampus. Die Struktur wird in AP 6 und AP 7 "
+              "ausgearbeitet und mit der DG abgestimmt.")
+text(s, 0.57, 1.80, 5.6, 0.3, [{"t": "Muster und Vorbilder", "size": 14, "bold": True, "color": NAVY}], name="Kopf Muster")
+text(s, 7.05, 1.80, 5.6, 0.3, [{"t": "Ansatz für das EMRIQ Kelmis", "size": 14, "bold": True, "color": NAVY}],
+     name="Kopf Kelmis")
+patterns = [
+    ("Die öffentliche Hand bleibt Eigentümerin und vergibt Baurecht oder Langzeitpacht",
+     "Zürich, Cornell Tech", "Baufelder in Erbpacht (15–99 Jahre) mit Nutzungsbindung und Heimfall; Wohnbaufelder bei Bedarf im Verkauf",
+     "Hebel 1"),
+    ("Infrastruktur wird vorfinanziert und über Rückflüsse refinanziert",
+     "Zürich, Cortex St. Louis", "Revolvierender Bodenfonds; Erschließung des Gewerbeteils mit SPI-Förderung",
+     "Hebel 2–4"),
+    ("Immobilie und Betrieb sind getrennt",
+     "Zürich, Station F, RWTH Campus", "Investoren bauen, die WFG betreibt das EMRIQ-Haus per Generalmietvertrag",
+     "Hebel 5, 8, 9"),
+    ("Gründerflächen sind befristet und an das Firmenalter gekoppelt",
+     "Block71, Gründerzentren", "Verträge über drei bis fünf Jahre; Anschlussflächen auf den Gewerbebaufeldern",
+     "Hebel 12"),
+    ("Unternehmen zahlen für Zugang",
+     "RWTH Campus, Station F, Eindhoven", "Partnerschaften mit regionalen Unternehmen, Programme, Ankermieten",
+     "Hebel 5, 10"),
+]
+for k, (pat, ex, kel, lev) in enumerate(patterns):
+    y = 2.25 + k * 0.86
+    box(s, 0.57, y, 12.18, 0.76, GREY1 if k % 2 == 0 else WHITE, name=f"Zeile Muster {k + 1}")
+    num(s, 0.72, y + 0.19, k + 1, color=NAVY)
+    text(s, 1.25, y + 0.08, 5.5, 0.62, [{"t": pat, "size": 13, "bold": True, "color": NAVY, "after": 1},
+                                        {"t": "Vorbilder: " + ex, "size": 11, "color": "7F7F7F"}],
+         anchor="m", name=f"Muster {k + 1}")
+    text(s, 7.05, y + 0.08, 4.4, 0.62, [{"t": kel, "size": 12}], anchor="m", name=f"Kelmis {k + 1}")
+    text(s, 11.55, y + 0.08, 1.1, 0.62, [{"t": lev, "size": 11, "bold": True, "color": BLUE}], anchor="m",
+         align="r", name=f"Hebelbezug {k + 1}")
+text(s, 0.57, 6.42, 12.18, 0.25, [{"t": "Quellen der Vorbilder: öffentliche Angaben der Standorte; einige Zahlen sind "
+                                        "Plan- oder Eröffnungswerte. Übertragbarkeit auf Belgien im Projekt prüfen.",
+                                   "size": 10, "color": "7F7F7F"}], name="Quellenhinweis Vorbilder")
+
 # ---------------------------------------------------------------- Folie 8: AP 7–8
 s = new_slide("AP 7–8: Umsetzung, Kommunikation und Vermarktung",
               "Priorisierte Roadmap und schlanke, verbindliche Abstimmungsformate",
