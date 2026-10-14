@@ -1,13 +1,14 @@
 {
- "kicker": "VERTRAULICH · NUR INTERN",
- "title": "Workshop-Briefing EMRIQ Kelmis",
- "subtitle": "Bewertungslogik, Wettbewerb, Ablaufplan, Musterlieferobjekte, Kalkulation und Drehbuch für den Workshop mit dem Ministerium der Deutschsprachigen Gemeinschaft",
+ "overline": "Vertraulich – nur zur internen Verwendung",
+ "title": "EMRIQ Kelmis",
+ "subtitle": "Vorbereitung des Workshops mit dem Ministerium der Deutschsprachigen Gemeinschaft",
+ "doctype": "Workshop-Briefing",
  "meta": [
-  ["Verfahren", "FbRAUM.KaR/39.02-01/26.128 (Verhandlungsverfahren ohne Bekanntmachung)"],
-  ["Stand", "14. Oktober 2026"],
-  ["Begleitdokument", "EMRIQ Kelmis – Endbericht (kundentauglich)"]
+  ["Verfahren", "FbRAUM.KaR/39.02-01/26.128, Verhandlungsverfahren ohne vorherige Bekanntmachung"],
+  ["Stand", "Oktober 2026"],
+  ["Begleitdokument", "EMRIQ Kelmis – Endbericht"]
  ],
- "note": "**Nicht an den Kunden weitergeben.** Dieses Briefing enthält Preis-, Wettbewerbs- und Verhandlungsüberlegungen. Wettbewerberangaben sind Hypothesen, Kalkulationswerte Orientierungsgrößen.",
- "headerRight": "Intern · Stand 14.10.2026",
- "footerLeft": "EMRIQ Kelmis – Workshop-Briefing · vertraulich"
+ "note": "Das Briefing enthält Überlegungen zu Preis, Wettbewerb und Verhandlung und ist nicht zur Weitergabe an den Auftraggeber bestimmt. Angaben zu Wettbewerbern sind Annahmen, Kalkulationswerte dienen der Orientierung.",
+ "headerRight": "Vertraulich",
+ "chapterBreaks": false
 }

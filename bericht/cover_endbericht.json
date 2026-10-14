@@ -1,14 +1,13 @@
 {
- "kicker": "EUREGIO MAAS-RHEIN INNOVATIONS-QUARTIER",
+ "overline": "Deutschsprachige Gemeinschaft Belgiens · Gemeinde Kelmis",
  "title": "EMRIQ Kelmis",
- "subtitle": "Standort-, Markt- und Branchenclusteranalyse · Strategische Quartiersentwicklung · Entwicklungsmodell und Kapitalmarktfähigkeit",
+ "subtitle": "Euregio Maas-Rhein Innovations-Quartier – Standort-, Markt- und Branchenanalyse, Quartiersentwicklung und Entwicklungsmodell",
+ "doctype": "Endbericht",
  "meta": [
-  ["Dokument", "Endbericht und Briefing"],
-  ["Bezug", "Lastenheft EMRIQ, Ministerium der DG, Ref. FbRAUM.KaR/39.02-01/26.128"],
-  ["Stand", "14. Oktober 2026"],
-  ["Status", "Arbeitsfassung"]
+  ["Auftraggeber", "Ministerium der Deutschsprachigen Gemeinschaft, Fachbereich Raumordnung"],
+  ["Bezug", "Verfahren FbRAUM.KaR/39.02-01/26.128"],
+  ["Stand", "Oktober 2026"]
  ],
- "note": "Dieser Bericht verdichtet die Teilanalysen 01–06 (Standort, Markt, Branchencluster, Förderung und Wirtschaftlichkeit, Kapitalmarkt, Bodenwerte und Recht). Belegte Fakten stehen mit Quelle in den Teilberichten. **Mengen-, Wert- und Kostenangaben sind Annahmen von Musterrechnungen** und werden im Projekt kalibriert.",
- "headerRight": "Endbericht · Stand 14.10.2026",
- "footerLeft": "EMRIQ Kelmis – Euregio Maas-Rhein Innovations-Quartier"
+ "note": "Der Bericht fasst die Teilberichte 01 bis 06 zusammen. Die Mengen-, Wert- und Kostenangaben der Musterrechnungen beruhen auf Annahmen und sind im weiteren Verfahren zu überprüfen.",
+ "headerRight": "Oktober 2026"
 }

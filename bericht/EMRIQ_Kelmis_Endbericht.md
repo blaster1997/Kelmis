@@ -2,705 +2,680 @@
 
 :::toc
 
-# Management Summary
+# Zusammenfassung
 
-:::kpi
-~11.350 | Einwohner – aber nur ~1.130 Arbeitsplätze in Kelmis
-4,25 / 5 | Score Hauptthema „Precision & Resilience Tech“
-~13 ha | Planbereich Museumsachse Lütticher Straße
-38–48 Mio. € | Investition Phase 1 (Musterrechnung)
-:::
+Die Deutschsprachige Gemeinschaft Belgiens (DG) beabsichtigt, in der Gemeinde Kelmis ein erstes Euregio Maas-Rhein Innovations-Quartier (EMRIQ) zu entwickeln. Das Quartier soll Forschung, Arbeit, Fertigung und Wohnen an einem Ort verbinden. Es soll thematisch klar ausgerichtet und in den Ort eingebunden sein und die Zusammenarbeit zwischen belgischen, deutschen und niederländischen Partnern stärken. Der vorliegende Bericht bündelt Standortanalyse, Marktanalyse und Branchenclusteranalyse und leitet daraus Empfehlungen für Themenprofil, Quartiersentwicklung, Entwicklungsmodell und Umsetzung ab.
 
-:::kpi
-59 % → 107 % | Refinanzierung der Baulandentwicklung: Basis → Zielbild mit vier Hebeln
-≈ 11 Mio. € | Spitzenkapitalbedarf revolvierender Bodenfonds (Basis)
-16.12.2026 | Frist Interreg-Call 8 „Innovation rund um das Einstein-Teleskop“
-2027 | Standortentscheidung Einstein-Teleskop
-:::
+Kelmis ist heute in erster Linie Wohnstandort. Rund 11.350 Einwohnern stehen nur etwa 1.130 Arbeitnehmerstellen gegenüber, das sind rd. 0,10 Stellen je Einwohner gegenüber rd. 0,28 im Durchschnitt der DG. Ein großer Teil der Erwerbstätigen pendelt nach Aachen. Die Lage zwischen den Hochschulstandorten Aachen, Lüttich und Maastricht ist ausgezeichnet, und das Kandidatengebiet für das Einstein-Teleskop grenzt unmittelbar an. Die Anbindung mit Bus und Bahn reicht jedoch für ein junges, hochschulnahes Publikum nicht aus: Der Bahnhof Hergenrath wird höchstens stündlich bedient, und die Buslinie nach Aachen benötigt rund 30 Minuten. Ein tragfähiges Mobilitätskonzept ist daher Voraussetzung für das Quartier.
 
-**Ausgangslage.** Die Deutschsprachige Gemeinschaft (DG) will in Kelmis das erste **Euregio Maas-Rhein Innovations-Quartier (EMRIQ)** entwickeln: ein themenspezifisches Quartier, das Forschung, Arbeit, Fertigung und Wohnen verbindet, im Ort verankert ist und als Brücke zwischen belgischen, deutschen und niederländischen Partnern wirkt. Gesucht ist kein weiteres Gutachten, sondern ein **vermarktungsfähiges, rechenbares und umsetzbares Konzept**.
+Die Marktanalyse zeigt einen Bedarf, den der Standort bedienen kann. In Aachen fehlen kleine und flexible Büro-, Labor- und Hallenflächen bis etwa 1.000 m². Wohnen ist in Kelmis um 15 bis 25 % günstiger als in Aachen, und Belgien bietet steuerliche Anreize für forschende Unternehmen. Kelmis kann sich damit als Standort für wachsende Technologieunternehmen und Pilotfertigung positionieren, der die Angebote in Aachen und Herzogenrath ergänzt und Wohnen einschließt.
 
-**Kernbefunde.**
+Für das Themenprofil wurden elf Branchencluster nach einheitlichen Kriterien bewertet. Empfohlen wird ein Profil für **Präzisions- und Resilienztechnologien**: hochgenaue Mess-, Sensor- und Photoniksysteme mit den Anwendungsfeldern Großforschung (Einstein-Teleskop), Raumfahrt und Schutz kritischer Infrastrukturen. Das Profil bleibt auch ohne Zuschlag für das Einstein-Teleskop tragfähig. Zirkulärer Holz-Hybridbau soll als Bauweise des Quartiers festgelegt werden, eine Energiegemeinschaft als Reallabor dienen. Damit erhalten die beiden prioritären Gewerbestandorte der DG unterschiedliche Profile: Kelmis für Präzisionstechnik und gemischtes Quartier, Kaiserbaracke für Holzwirtschaft und großflächiges Gewerbe.
 
-1. **Kelmis ist ein Wohnort ohne Arbeitsplatzbasis.** Auf rund 11.350 Einwohner kommen nur etwa 1.130 Arbeitnehmerstellen (≈ 0,10 je Einwohner gegenüber ≈ 0,28 im DG-Schnitt). Das EMRIQ kehrt die Pendlerlogik um: Arbeit kommt dorthin, wo Fachkräfte bereits wohnen.
-2. **Die Lage ist erstklassig, der Nahverkehr der Engpass.** Aachen liegt 8 km entfernt, das Kandidatengebiet des Einstein-Teleskops grenzt direkt an. Bahnhof Hergenrath (höchstens Stundentakt) und Buslinie 24 (≈ 30 Min., Tarifbruch an der Grenze) reichen für ein universitäres Publikum nicht aus. **Mobilität ist Standortbedingung.**
-3. **Es gibt ein echtes Marktfenster.** In Aachen fehlen kleine, flexible Büro-, Labor- und Hallenflächen bis 1.000 m². Belgien bietet starke Innovationssteueranreize, und Wohnen ist in Kelmis 15–25 % günstiger als in Aachen. Positionierung: **„Scale-up- und Pilotfertigungsquartier der Euregio – mit Wohnen“.**
-4. **Ein Thema, nicht ein Campus.** Aus elf bewerteten Clustern empfehlen wir **„Precision & Resilience Tech – Messen. Verstehen. Schützen.“**: Präzisions-, Sensor- und Photoniktechnik mit den Anwendungsmärkten Einstein-Teleskop, Space und zivile Resilienz. Das Profil ist zivil geführt und dual-use-fähig. Holz-Hybridbau wird Bauweise, eine Energiegemeinschaft Quartiersreallabor.
-5. **Das Quartier wird kapitalmarktfähig, wenn die öffentliche Hand Boden und Vertrauen entwickelt und der Markt das Quartier baut.**
-   - Der Initiator entwickelt bis Baurecht und Erschließung und vergibt Baufelder in drei Tranchen im **Sweet Spot**: nach Baurecht und Erschließungsbeginn, sobald ein Leuchtturm sichtbar ist.
-   - In der Ramp-up-Phase baut er eigene Leuchttürme (**„Skin in the Game“**): das EMRIQ-Haus mit Generalmietvertrag der WFG/DG und ein Boarding-Modul, das nach der Stabilisierung verkauft wird.
-6. **Die Refinanzierung gelingt mit vier Hebeln, nicht von allein.**
-   - Heute sind die Bodenwerte niedrig: Im Wohnungsneubau liegt der Residualwert nahe null.
-   - Im Basisszenario decken Baufelderlöse, Fördermittel und Eigentümerbeiträge **≈ 59 %** der Baulandentwicklungskosten (≈ 22 Mio. €).
-   - Das **Zielbild erreicht ≈ 107 %**, wenn vier Hebel greifen: Bodenwert und Dichte durch den Leuchtturm, SPI-Förderung des Gewerbeteils (65–85 %), kooperative Baulandentwicklung und schlanke Erschließung.
-   - Der revolvierende Bodenfonds braucht eine Kapazität von ≈ 11 Mio. € (Basis) bzw. ≈ 5–6 Mio. € (Zielbild).
-   - Gewerbe- und Laborflächen werden in **kapitalisierter Erbpacht** vergeben (Einmalzahlung, 5 % statt 12,5 % Registrierungsgebühr).
+Räumlich wird ein Kernquartier an der Lütticher Straße rund um das Museum Vieille Montagne empfohlen (Planbereich rd. 13 ha), ergänzt um einen zweiten Standort am Bahnhof Hergenrath und an der Hochheid für Mobilität und Werkstätten. Die erste Phase umfasst ein Technologie- und Gründerzentrum („EMRIQ-Haus“) mit 3.000 bis 4.800 m² Bruttogrundfläche sowie 40 bis 70 Wohneinheiten.
 
-> **Empfehlung in einem Satz:** Kelmis wird zum „neutralen Boden für präzises Wissen“. Die DG und die Gemeinde Kelmis entwickeln über einen revolvierenden Bodenfonds Baurecht, Erschließung und ein erstes EMRIQ-Haus am Museum Vieille Montagne. Danach vermarkten sie das Quartier in drei Tranchen an Entwickler und Investoren. Dieses Konzept wird 2027 erarbeitet und 2028 politisch beschlossen.
+Für die Umsetzung wird ein Entwicklungsmodell vorgeschlagen, in dem die öffentliche Hand die Rolle des Flächenentwicklers übernimmt. DG und Gemeinde schaffen Baurecht, sanieren und erschließen die Flächen und vergeben die Baufelder in drei Tranchen parallel zur Erschließung, sobald der Wertzuwachs erkennbar und das Risiko für Erwerber gesunken ist. In der Anlaufphase errichtet der Initiator selbst Pilotgebäude, um die Nachfrage nachzuweisen und Investoren zu gewinnen. Nach der Musterrechnung decken Baufelderlöse, Fördermittel und Beiträge privater Eigentümer im Basisszenario rd. 59 % der Kosten der Baulandentwicklung von rd. 22 Mio. €. Eine vollständige Refinanzierung (rd. 107 %) ist erreichbar, wenn vier Hebel zusammenwirken: höhere Bodenwerte und Dichte, Förderung des gewerblichen Teils über die SPI, kooperative Baulandentwicklung mit den Eigentümern und eine sparsame Erschließung.
 
-**Zeitfenster jetzt nutzen:**
+Die Gemeinde Kelmis kann aufgrund ihrer Haushaltslage keine zusätzlichen Folgekosten tragen. Da es in Belgien keine kommunale Gewerbesteuer gibt, gleicht erst der Wohnanteil die Folgekosten der Infrastruktur aus. Der Betrieb des Technologiezentrums benötigt in der Anlaufphase einen Zuschuss der DG oder der WFG.
 
-- OBL'EU-Ausstellung im Museum Vieille Montagne im **November 2026**
-- Interreg-Call 8 mit Frist **16.12.2026**
-- Redaktionsschluss des Einstein-Teleskop-Bid-Books im **Dezember 2026**
-- Programmierung der EU-Strukturfonds 2028–2034 im Jahr **2027**
+Zeitnah bieten sich mehrere Anknüpfungspunkte: die Ausstellung des Projekts OBL'EU im Museum Vieille Montagne im November 2026, die Frist des Interreg-Aufrufs 8 am 16.12.2026, der Redaktionsschluss für die Bewerbungsunterlagen zum Einstein-Teleskop im Dezember 2026 und die Programmierung der EU-Strukturfonds 2028–2034 im Jahr 2027.
 
-# Auftrag und Ausgangslage
-
-## Was das Ministerium erreichen will
-
-Das Ministerium der Deutschsprachigen Gemeinschaft (Fachbereich Raumordnung, Wohnen und Energie) lässt ein **städtebauliches Entwicklungskonzept mit Umsetzungsplan** für ein erstes EMRIQ in Kelmis erarbeiten (Verfahren FbRAUM.KaR/39.02-01/26.128, Laufzeit bis spätestens 31.10.2028). Die Leitplanken des Lastenhefts:
-
-- **Themenspezifisches Quartier statt Campusstrategie.** Ein Thema, das Forschung, Arbeit/Fertigung und Wohnen vereint und eine Brücke zwischen deutschen und belgischen Partnern in Wirtschaft und Innovation schlägt.
-- **Ökosphäre und Einbettung.** Lokale Unternehmen und Akteure werden eingebunden. Ein von Ort und Bevölkerung entkoppelter Standort ist ausdrücklich nicht gewünscht.
-- **Umsetzungsplan mit Wirtschaftlichkeitsbetrachtung.**
-  - Kostenschätzung je Maßnahme bzw. Phase, getrennt nach Infrastruktur und Gebäuden, möglichst **pro Gebäude**.
-  - Folgekosten für die Gemeinde sowie direkte und indirekte Einnahmen der öffentlichen Hand.
-- **Strukturplan.** Geschossigkeit, Höhen, Dachformen, Kantenlängen, Abstände, Verkehrsquerschnitte, Mobilitätskonzept, öffentlicher Raum, punktuelle 3D-Ansichten; GIS-fähig im belgischen Lambert-System.
-- **Vermarktungsfähige Lieferprodukte** in Deutsch, Französisch und Englisch für Investoren und Akteure.
-- **Kontext.** Europäische Industrie- und Sicherheitsstandorte, die Kandidatur für das Einstein-Teleskop und die Strategie „Euregio Meuse-Rhine Innovation District“.
-
-## Vorarbeiten als Startkapital
-
-| Vorarbeit | Relevanter Inhalt für das EMRIQ |
+Tab: Eckdaten im Überblick
+| Merkmal | Wert |
 |---|---|
-| Gewerbeflächenstrategie Ostbelgien (HJPplan+, 2024) | **Musterprojekt Kelmis** Lütticher Straße (132.511 m²): Unter- und Fehlnutzungen (Busbetriebshof, Baustoffhandel, ehemalige Tankstelle), Nachverdichtung, Technologie- und Gründerzentrum gegenüber dem Museum, AGR Kelmis als Pilotakteur |
-| OBL'EU – Ostbelgien als Raumlabor (MDG, RWTH, Parkstad) | Schlüsselprojekte Scale-up Innovation Center, Digital Hub, Radschnellweg Eupen–Aachen mit Abzweig Hergenrath, HOLZ+ Reallabor, Erbpacht-Modelle; Abschlussausstellung im Museum Vieille Montagne (Nov. 2026) |
-| Leitbild „Ostbelgien leben 2040“ | Leitziele Nachhaltige Wirtschafts- und Arbeitsregion, Viertelstunden-Region, resiliente Siedlungsentwicklung; Raumbild KOMMpaktLAND |
-| Modellvorhaben der Raumordnung (Deutschland) | Kelmis als grenzüberschreitender Potenzialstandort benannt |
+| Einwohner Kelmis (01.01.2024) | rd. 11.350 |
+| Arbeitnehmerstellen in Kelmis | rd. 1.130 |
+| Planbereich Kernquartier Lütticher Straße | rd. 13 ha |
+| Programm Phase 1 | 3.000–4.800 m² BGF Gewerbe, 40–70 Wohneinheiten |
+| Investition Phase 1 (Musterrechnung) | 38–48 Mio. € netto |
+| Kosten Baulandentwicklung (Basisszenario) | rd. 22 Mio. € |
+| Deckungsgrad Basisszenario / Zielbild | 59 % / 107 % |
+| Maximaler Kapitalbedarf Bodenfonds (Basisszenario) | rd. 11 Mio. € |
 
-**Folgerung:** Die Analyse muss nicht neu beginnen. Der Mehrwert des Konzepts liegt in **Fokus, Programm, Zahlen, Trägerschaft, Vermarktung und Kapitalmarktfähigkeit**.
+Quelle: eigene Berechnungen auf Grundlage der Teilberichte 01–06
 
-# Standortanalyse Kelmis
+Aus der Untersuchung ergeben sich folgende Empfehlungen:
 
-## Makrolage und Erreichbarkeit
+1. Themenprofil Präzisions- und Resilienztechnologien festlegen, ergänzt um Holz-Hybridbau als Bauweise und eine Energiegemeinschaft als Reallabor.
+2. Kernquartier an der Lütticher Straße entwickeln und den Teilbereich Süd als gemischtes Quartier mit Wohnanteil sichern.
+3. Mobilitätsangebot zwischen Bahnhof Hergenrath, Quartier und Aachen von Beginn an mitplanen.
+4. Projektallianz aus DG, Gemeinde (AGR Kelmis) und WFG bilden, die SPI für den gewerblichen Teil einbinden und einen revolvierenden Bodenfonds einrichten.
+5. Baufelder in Tranchen vergeben, Gewerbeflächen bevorzugt in kapitalisierter Erbpacht.
+6. EMRIQ-Haus und ein erstes Wohnmodul als Pilotgebäude in öffentlicher Verantwortung errichten.
+7. Das Vorhaben bereits 2026/2027 in die laufenden Förder- und Bewerbungsverfahren einbringen.
 
-- **Dreiländereck.**
-  - Aachen liegt rund 8 km entfernt, RWTH und Uniklinik 15–20 Pkw-Minuten.
-  - Maastricht/Heerlen, Lüttich (ULiège) und Eupen sind im Pendelradius.
-  - Die wallonischen Probebohrungen für das Einstein-Teleskop (2024) lagen in den Nachbargemeinden Plombières, Welkenraedt und Aubel. Der Güterbahnhof Montzen ist als Logistikdrehkreuz vorgesehen.
-- **Schiene.** Hergenrath wird nur von der Linie Aachen–Welkenraedt–Lüttich bedient, höchstens stündlich und störanfällig. Der Dreiländerzug hält dort nicht.
-- **Bus.** Linie 24 Aachen–Kelmis, rund 30 Minuten zum Bushof Aachen; an der Grenze bricht der Tarif.
-- **Straße und Rad.**
-  - A3/E40 in 5–9 km.
-  - Der Radschnellweg Eupen–Aachen mit Abzweig Hergenrath ist bis 2028 als Konzept und bis 2035 als Bau skizziert.
+# Anlass, Aufgabenstellung und Vorgehen
 
-## Bevölkerung, Arbeit und Identität
+## Anlass
 
-- **Bevölkerung.** Rund 11.350 Einwohner (1.1.2024), davon etwa 39 % Nicht-Belgier, überwiegend Deutsche. Hauptgrund ist die Grenzwanderung: Man wohnt in Belgien und arbeitet in Aachen.
-- **Arbeitsplätze.** 154 Arbeitgeber und rund 1.130 Arbeitnehmerstellen. Die Tagesbevölkerung ist gering, die Pendlerströme gehen nach Deutschland. Der Talentpool ist also bereits vor Ort.
-- **Identität.** Neutral-Moresnet (1816–1920), die Vieille Montagne (Zinkhütte mit Sozialsystem, Vorläufer von Umicore), Esperanto („Amikejo“, Ort der Freundschaft) und das Galmei ergeben ein in Europa einzigartiges Narrativ: **Materialien – Grenzen überwinden – Verständigung.** Das Museum Vieille Montagne liefert eine fertige Adresse.
+Seit dem 1. Januar 2020 ist die Deutschsprachige Gemeinschaft für Raumordnung, Wohnungswesen und Teile der Energiepolitik zuständig. Auf dieser Grundlage wurden das Fachgutachten zur Raumstrategie, die Gewerbeflächenstrategie Ostbelgien und das Leitbild „Ostbelgien leben 2040“ erarbeitet. Die Gewerbeflächenstrategie benennt Kelmis und Kaiserbaracke als prioritäre Standorte und enthält für Kelmis ein Musterprojekt an der Lütticher Straße. Parallel hat das Interreg-Projekt OBL'EU gemeinsam mit der RWTH Aachen und Parkstad Limburg Schlüsselprojekte für einen grenzüberschreitenden Innovationsraum entwickelt.
 
-## Restriktionen und Planungsrecht
+Vor diesem Hintergrund strebt die DG ein erstes Euregio Maas-Rhein Innovations-Quartier in Kelmis an. Begründet wird die Standortwahl mit der Lage zwischen den Universitätsstandorten Aachen, Lüttich und Maastricht, mit der Anbindung über den Bahnhof Hergenrath und die Buslinien nach Aachen sowie mit der Geschichte des Ortes als ehemaliges Neutral-Moresnet. Hinzu kommt die Nähe zum Kandidatengebiet für das Einstein-Teleskop.
 
-- **Kostentreiber.**
-  - Schwermetall- und Bergbau-Altlasten aus dem Zinkerzabbau
-  - Natura 2000 und Galmeirasen im Göhltal
-  - Hochwasser der Göhl (2021)
-  - Trinkwasserfassung „Casino“
+## Aufgabenstellung
 
-  In der ersten Projektphase ist deshalb ein **Boden- und Baugrundscreening** einzuplanen.
-- **Sektorenplan.** Der Teilbereich Lütticher Straße Nord ist gemischtes Gewerbegebiet, der Teilbereich Süd **Wohngebiet** mit real gewerblicher Nutzung.
-- **Zielkonflikt.** Die Gewerbeflächenstrategie empfiehlt, Süd zur Gewerbezone umzuwidmen. Für ein Quartier mit Wohnanteil, das auch fiskalisch auf Wohnen angewiesen ist (Kap. 7), wäre das kontraproduktiv. Wir empfehlen, **Süd als Mischquartier** zu entwickeln.
+Gefordert ist ein städtebauliches Entwicklungskonzept mit Umsetzungsplan einschließlich Wirtschaftlichkeitsbetrachtung. Aus dem Lastenheft ergeben sich folgende Anforderungen:
 
-## Suchräume und räumliche Empfehlung
+- Das Quartier soll thematisch klar ausgerichtet sein; eine Campusstrategie mit vielen Themen ist ausdrücklich nicht gewünscht.
+- Arbeit, Forschung, Unternehmensgründung und Wohnen sollen zu einem Quartier mit Lebensqualität verbunden werden. Lokale Unternehmen und Akteure sind einzubinden, ein vom Ort entkoppelter Standort ist zu vermeiden.
+- Der Umsetzungsplan muss Kostenschätzungen je Maßnahme und Phase enthalten, getrennt nach Infrastruktur und Gebäuden, sowie Folgekosten und Einnahmen der öffentlichen Hand.
+- Der Strukturplan soll Geschossigkeit, Höhen, Dachformen, Abstände, Verkehrswege, Mobilitätskonzept und öffentlichen Raum darstellen und GIS-fähig im belgischen Lambert-System vorliegen.
+- Die Ergebnisse sind in Deutsch, Französisch und Englisch in einer Form aufzubereiten, die sich zur Vermarktung des Standorts eignet.
 
-| Kriterium (1–5) | A Nord | B Süd | C Hergenrath | D Heimbach |
+## Grundlagen
+
+Tab: Ausgewertete Grundlagen
+| Grundlage | Relevante Inhalte |
+|---|---|
+| Gewerbeflächenstrategie Ostbelgien (HJPplan+, 2024) | Musterprojekt Kelmis Lütticher Straße (132.511 m²) mit Bestandsanalyse, Strukturkonzepten und Rahmenplan; Technologie- und Gründerzentrum gegenüber dem Museum; AGR Kelmis als möglicher Träger |
+| Projekt OBL'EU (MDG, RWTH Aachen, Parkstad Limburg, 2025–2026) | Schlüsselprojekte u. a. Scale-up Innovation Center, Digital Hub Ostbelgien, Radschnellweg Eupen–Aachen mit Abzweig Hergenrath, HOLZ+ Reallabor, Erbpachtmodelle; Abschlussausstellung im Museum Vieille Montagne im November 2026 |
+| Leitbild „Ostbelgien leben 2040“ (MDG, 2024) | Leitziele nachhaltige Wirtschafts- und Arbeitsregion, Viertelstunden-Region, resiliente Siedlungsentwicklung; Raumbild KOMMpaktLAND |
+| Lastenheft und Forum zum Verfahren FbRAUM.KaR/39.02-01/26.128 | Leistungsbild, Anforderungen an Wirtschaftlichkeitsbetrachtung und Strukturplan |
+
+Quelle: eigene Zusammenstellung
+
+## Vorgehen
+
+Die Untersuchung beruht auf der Auswertung der vorliegenden Planungen und Studien sowie auf öffentlich zugänglichen Statistiken, Marktberichten und Rechtsgrundlagen aus Belgien, Deutschland und den Niederlanden. Eigene Primärerhebungen wurden nicht durchgeführt. Der Standort wurde anhand von sieben Kriterien in vier Teilräumen bewertet. Für die Branchenclusteranalyse wurde eine gewichtete Bewertungsmatrix verwendet, die für alle Cluster gleich angewendet wurde. Kosten, Erlöse und Finanzierung wurden in Musterrechnungen mit Szenarien abgeschätzt. Alle Mengen- und Wertangaben dieser Musterrechnungen sind Annahmen und im weiteren Verfahren baufeldgenau zu überprüfen.
+
+# Standortanalyse
+
+## Lage und Erreichbarkeit
+
+Kelmis liegt im Dreiländereck rund 8 km von Aachen entfernt. Die RWTH Aachen und das Universitätsklinikum sind mit dem Pkw in 15 bis 20 Minuten erreichbar, Lüttich, Maastricht und Heerlen liegen im Pendelbereich. Die wallonischen Probebohrungen für das Einstein-Teleskop wurden 2024 in den Nachbargemeinden Plombières, Welkenraedt und Aubel durchgeführt. Der Güterbahnhof Montzen ist als Logistikstandort für das Vorhaben vorgesehen.
+
+Die Erreichbarkeit mit öffentlichen Verkehrsmitteln ist der wesentliche Engpass. Der Bahnhof Hergenrath wird nur von der Regionalverbindung Aachen–Welkenraedt–Lüttich bedient, höchstens im Stundentakt und in der Vergangenheit mit Ausfällen. Der grenzüberschreitende Dreiländerzug hält dort nicht. Die Buslinie 24 verbindet Kelmis in rund 30 Minuten mit Aachen. An der Grenze wechselt das Tarifsystem, und es ist zu klären, ob Deutschlandticket und Semesterticket auf belgischer Seite gelten. Die Autobahn A3/E40 ist in 5 bis 9 km erreichbar. Ein Radschnellweg Eupen–Aachen mit Abzweig nach Hergenrath soll bis 2028 konzipiert und bis 2035 gebaut werden.
+
+## Bevölkerung und Arbeitsplätze
+
+Kelmis hatte am 1. Januar 2024 rund 11.350 Einwohner. Rund 39 % der Bevölkerung besitzen nicht die belgische Staatsangehörigkeit, überwiegend handelt es sich um Deutsche. Ursache ist vor allem die Wanderung über die Grenze: Viele Haushalte wohnen in Kelmis und arbeiten in Aachen.
+
+Mit 154 Arbeitgebern und rund 1.130 Arbeitnehmerstellen ist die Arbeitsplatzdichte gering. Kelmis ist damit ein Wohnort mit hohem Auspendleranteil. Für das Quartier bedeutet das, dass qualifizierte Fachkräfte bereits vor Ort leben, aber überwiegend außerhalb der Gemeinde arbeiten.
+
+## Geschichte und Identität
+
+Zwischen 1816 und 1920 war das Gebiet um Kelmis als Neutral-Moresnet ein eigenständiges Territorium zwischen Preußen und den Niederlanden bzw. Belgien. Die Zinkhütte der Vieille Montagne, ein Vorläufer des heutigen Unternehmens Umicore, prägte den Ort mit einem eigenen Sozialsystem. Anfang des 20. Jahrhunderts gab es Bestrebungen, hier einen Esperanto-Staat („Amikejo“) zu gründen. Diese Geschichte verbindet die Themen Werkstoffe, Grenzüberschreitung und Verständigung und bietet einen glaubwürdigen Anknüpfungspunkt für ein grenzüberschreitendes Innovationsquartier. Mit dem Museum Vieille Montagne verfügt der Standort zudem über einen bekannten öffentlichen Ort, an dem das Quartier seine Adresse ausbilden kann.
+
+## Umweltbelange und Restriktionen
+
+Die Entwicklung wird durch mehrere Faktoren eingeschränkt, die Kosten und Zeitplan beeinflussen:
+
+- Böden mit Schwermetallbelastung und Altbergbau aus dem Zinkerzabbau
+- Natura-2000-Gebiete mit Galmeirasen im Göhltal sowie das Schutzgebiet am Casinoweiher
+- Hochwassergefahr an der Göhl (Ereignis 2021)
+- Trinkwasserfassung „Casino“
+
+Nach dem wallonischen Bodendekret ist vor jedem Verkauf ein Auszug aus der Bodenstandsbank vorzulegen; bei Verdachtsflächen ist im Genehmigungsverfahren eine Orientierungsstudie erforderlich. Es wird empfohlen, in der ersten Projektphase ein Boden- und Baugrundscreening für alle Teilflächen durchzuführen.
+
+## Planungsrechtliche Situation
+
+Der nördliche Teil des Planbereichs an der Lütticher Straße ist im Sektorenplan als gemischtes Gewerbegebiet ausgewiesen, der südliche Teil als Wohngebiet, wird aber überwiegend gewerblich genutzt. Die Gewerbeflächenstrategie regt an, den südlichen Teil als Gewerbegebiet auszuweisen. Für ein Quartier mit Wohnanteil wäre dies nachteilig, weil Wohnen im Gewerbegebiet grundsätzlich ausgeschlossen ist. Das Wohngebiet lässt dagegen nicht störende Forschung, Dienstleistung und Handwerk zu. Es wird daher empfohlen, den südlichen Teil als gemischtes Quartier zu entwickeln. Die Reform des Gesetzbuchs über die räumliche Entwicklung (Dok. 146) befand sich im Juni 2026 im parlamentarischen Verfahren; ihr Stand und ihre Instrumente sind zu prüfen.
+
+## Bewertung der Teilräume
+
+Vier Teilräume wurden nach sieben Kriterien auf einer Skala von 1 (ungünstig) bis 5 (günstig) bewertet.
+
+Tab: Bewertung der Teilräume
+| Kriterium | A Nord | B Süd | C Hergenrath | D Heimbach |
 |---|---|---|---|---|
-| ÖV-Erreichbarkeit | 3 | 3 | 5 | 2 |
+| Erreichbarkeit mit Bus und Bahn | 3 | 3 | 5 | 2 |
 | Flächengröße | 5 | 4 | 2 | 4 |
-| Verfügbarkeit / Eigentum | 2 | 3 | 2 | 1 |
+| Verfügbarkeit, Eigentum | 2 | 3 | 2 | 1 |
 | Restriktionen (5 = gering) | 3 | 3 | 3 | 2 |
-| Einbettung in den Ort | 4 | 5 | 3 | 3 |
-| Adresse / Sichtbarkeit | 5 | 4 | 3 | 3 |
+| Einbindung in den Ort | 4 | 5 | 3 | 3 |
+| Adressbildung, Sichtbarkeit | 5 | 4 | 3 | 3 |
 | Wohnanteil möglich | 2 | 5 | 3 | 2 |
 | **Summe (max. 35)** | **24** | **27** | **21** | **17** |
 
-*A = Museumsachse Nord (Lütticher Straße 257, Busbetriebshof, Bauhof) · B = Lütticher Straße Süd (Mischquartier) · C = Bahnhof Hergenrath / Hochheid · D = Lütticher Straße 63 (Heimbach).*
+Quelle: eigene Bewertung. A = Lütticher Straße Nord (Nr. 257, Busbetriebshof, Bauhof); B = Lütticher Straße Süd; C = Bahnhof Hergenrath und Hochheid; D = Lütticher Straße 63 (Heimbach)
 
-:::box Empfehlung: Zwei-Pole-Ansatz
-- **Pol 1 – Kernquartier „Museumsachse Lütticher Straße“ (A + B, ~13 ha Planbereich).**
-  - Nord ist Adresse und Arbeitsort: EMRIQ-Haus gegenüber dem Museum, Nachverdichtung des Bauhofs, später das Busbetriebshof-Areal.
-  - Süd ist Mischquartier für Wohnen, Werkstattwohnen, Quartiersplatz und Kita.
-- **Pol 2 – Gateway Bahnhof Hergenrath / Hochheid.** Mobilitätshub, kleines Arrival-Co-Working, Automations- und Werkstattlabor mit dem ansässigen Betrieb HAHN Automation.
-- **Innovationsachse (3–4 km).** On-Demand- bzw. Shuttle-Takt und eine hochwertige Radroute verbinden beide Pole.
-:::
+Der südliche Teil der Lütticher Straße erreicht die höchste Bewertung, gefolgt vom nördlichen Teil. Beide zusammen bilden mit rund 13 ha den größten zusammenhängenden Raum mit guter Adresse und Anbindung an den Ort. Der Bahnhof Hergenrath ist am besten erreichbar, bietet aber zu wenig Fläche für ein vollständiges Quartier. Das Betriebsgelände von Heimbach ist genutzt und kommt als Entwicklungsfläche nicht in Betracht; das Unternehmen sollte jedoch als Partner eingebunden werden.
 
-## SWOT
+Empfohlen wird daher eine Entwicklung an zwei Standorten. Das Kernquartier an der Lütticher Straße umfasst im Norden das EMRIQ-Haus gegenüber dem Museum, die Nachverdichtung des Bauhofs und später das Gelände des Busbetriebshofs. Im Süden entsteht ein gemischtes Quartier mit Wohnungen, Werkstätten, einem Quartiersplatz und einer Kindertagesstätte. Am Bahnhof Hergenrath und an der Hochheid entstehen ein Mobilitätsknoten, ein kleines Co-Working-Angebot und eine Werkstatt- und Automationseinheit, für die das dort ansässige Unternehmen HAHN Automation als Partner in Frage kommt. Beide Standorte werden über eine rund 3 bis 4 km lange Achse mit Shuttle- oder Rufbusverkehr und einer Radverbindung verknüpft.
 
+## Stärken und Schwächen
+
+Tab: Stärken-Schwächen-Analyse
 | Stärken | Schwächen |
 |---|---|
-| Lage zwischen drei Universitäten; Narrativ Neutral-Moresnet; Museum als Adresse; untergenutzte Flächen im Ortskern; Mehrsprachigkeit; günstigeres Wohnen; kurze Wege zwischen Gemeinde und DG | kaum Arbeitsplätze, kein Innovationsimage; ÖPNV-Takt und Tarifbruch; Altlasten, Natur- und Hochwasserrestriktionen; kleinteiliges Eigentum; Busbetriebshof als Fehlnutzung |
+| Lage zwischen drei Hochschulstandorten; Geschichte von Neutral-Moresnet; Museum als Adresse; untergenutzte Flächen im Ortskern; Mehrsprachigkeit; günstiges Wohnen; kurze Wege zwischen Gemeinde und DG | geringe Arbeitsplatzdichte, kein Innovationsprofil; Takt und Tarifgrenze im öffentlichen Verkehr; Altlasten, Natur- und Hochwasserrestriktionen; kleinteiliges Eigentum; Busbetriebshof als Fehlnutzung |
 | **Chancen** | **Risiken** |
-| Flächenengpass Aachen; Einstein-Teleskop; Hochlauf der EU-Mittel für Resilienz und Sicherheit; belgische Steueranreize; OBL'EU-Schlüsselprojekte; Radschnellweg | Zuschlag des Einstein-Teleskops an Sardinien/Lausitz; Konkurrenz TPH, Avantis, Brightlands, Liège Science Park; Akzeptanz; Legislaturwechsel; Finanzierungslücke Labor-Neubau |
+| Flächenknappheit in Aachen; Einstein-Teleskop; steigende EU-Mittel für Resilienz und Sicherheit; belgische Steueranreize; Projekte aus OBL'EU; Radschnellweg | Zuschlag des Einstein-Teleskops an einen anderen Standort; Konkurrenz durch etablierte Technologieparks; Akzeptanz in der Bevölkerung; Wechsel der politischen Mehrheiten; Finanzierungslücke bei Laborbauten |
+
+Quelle: eigene Darstellung
 
 # Marktanalyse
 
-## Wohnen
+## Wohnungsmarkt
 
-- **Preisgefälle.** Angebotsmieten in Aachen ≈ 11,4–11,9 €/m², in Kelmis ≈ 9–10 €/m² (Einzelinserate). Häuser in Kelmis 2025 überwiegend 180–255 T€. Beim Erwerb fallen in der Wallonie 3 % Registrierungsgebühr für die eigene Wohnung an, in NRW 6,5 % Grunderwerbsteuer.
-- **Lücke.**
-  - Kleine, möblierte und flexible Einheiten (Mikroapartments, Boarding, Co-Living)
-  - Gute Mietwohnungen für Doktoranden, Young Professionals, Gründende und internationale Forschende
-  - Später Familienwohnen für das Personal des Einstein-Teleskops
-- **Folgerung.** Der Preis allein trägt nicht. Das Quartier muss Qualität und Services bieten (Welcome Service, Kita, Mobilität).
+Die Angebotsmieten liegen in Aachen bei 11,40 bis 11,90 €/m², in Kelmis nach Einzelangeboten bei 9 bis 10 €/m². Einfamilienhäuser wurden in Kelmis 2025 überwiegend zu Preisen zwischen 180.000 und 255.000 € gehandelt. Beim Erwerb der eigenen, einzigen Wohnung fallen in der Wallonie seit 2025 3 % Registrierungsgebühren an, in Nordrhein-Westfalen 6,5 % Grunderwerbsteuer. Das Preisgefälle begünstigt den Zuzug aus Deutschland, ist aber nicht so groß, dass es allein Nachfrage erzeugt.
 
-## Gewerbe, Büro und Labor
+Für das Quartier sind vor allem kleine, möblierte und flexibel nutzbare Wohnungen relevant, etwa Apartments mit Serviceleistungen und gemeinschaftliche Wohnformen, außerdem Mietwohnungen in guter Qualität. Zielgruppen sind Doktorandinnen und Doktoranden, Berufseinsteiger, Gründer und Forschende aus dem Ausland. Familienwohnungen werden mit dem Betrieb des Einstein-Teleskops wichtiger, falls der Zuschlag in die Euregio geht.
 
-- **Engpass Aachen.** Kleine, flexible Flächen bis 1.000 m² sind laut Initiative Aachen „kaum vorhanden“. Büromieten in Aachen 6,50–22 €/m², in Herzogenrath < 6,50–10 €/m². Der Brightlands Maastricht Health Campus ist zu rund 95 % belegt.
-- **Bedarf von Hardware-Scale-ups.** 300–1.500 m² als Hybrid aus Büro, Labor und Halle, Werkstätten mit 6–8 m lichter Höhe, schwingungsarme Labore, geteilte Ausstattung.
-- **Positionierung.** Die Rollen sind komplementär:
-  - RWTH-Campus für Forschung und Gründung
-  - Technologiepark Herzogenrath als Inkubator
-  - EMRIQ für Wachstum, Hybridflächen, Doppelmarktzugang Deutschland und Belgien/Frankreich sowie Wohnen
+## Büro-, Labor- und Gewerbeflächen
 
-## Wettbewerb und Einstein-Teleskop
+In Aachen besteht nach Angaben der Initiative Aachen ein Mangel an kleinen und flexiblen Büro-, Werkstatt- und Produktionsflächen bis etwa 1.000 m². Die Büromieten reichen in Aachen von 6,50 bis 22 €/m², in Herzogenrath von unter 6,50 bis 10 €/m². Der Brightlands Maastricht Health Campus ist zu rund 95 % belegt. Technologieorientierte Unternehmen in der Wachstumsphase benötigen typischerweise 300 bis 1.500 m² gemischte Flächen aus Büro, Labor und Halle, häufig mit Werkstatthöhen von 6 bis 8 m und schwingungsarmen Laborräumen.
 
-| Standort | Profil | Stärke | Schwäche gegenüber Kelmis |
+Daraus ergibt sich eine Positionierung, die die bestehenden Angebote ergänzt. Der RWTH Aachen Campus ist auf Forschung und Industriekooperation ausgerichtet, der Technologiepark Herzogenrath auf Gründungen. Kelmis kann Flächen für die anschließende Wachstumsphase, für Pilotfertigung und für den Markteintritt in Belgien und Frankreich anbieten, verbunden mit Wohnungen im Quartier.
+
+## Wettbewerbsstandorte
+
+Tab: Wettbewerbsstandorte in der Euregio
+| Standort | Profil | Stärke | Nachteil gegenüber Kelmis |
 |---|---|---|---|
-| RWTH Aachen Campus | Forschungscluster, Industriepartner | Forschungsnähe, Marke | knapp, teuer, kaum Wohnen |
-| Technologiepark Herzogenrath | Gründer-/Technologiezentrum seit 1989 | Erfahrung, Netzwerk | Bestandsbauten, kein Wohnen |
-| Avantis (Aachen/Heerlen) | grenzüberschreitender Gewerbepark | Fläche, Grenzlage | langsame Vermarktung, heute v. a. Logistik |
-| Brightlands (Maastricht, Heerlen, Sittard) | Life Sciences, Digital, Chemie | Ökosystem, Kapital | anderes Thema, Engpass |
-| Liège Science Park | Biotech, Raumfahrt, Engineering | Größe, ULiège, Noshaq | frankophon, Distanz zu Aachen |
-| Kaiserbaracke / Eupen | klassische Gewerbegebiete | Fläche, Autobahn | kein Innovationsprofil, keine Bahn nach Aachen |
+| RWTH Aachen Campus | Forschungscluster, Industriepartner | Nähe zur Forschung, Bekanntheit | knappe und teure Flächen, kaum Wohnen |
+| Technologiepark Herzogenrath | Gründer- und Technologiezentrum seit 1989 | Erfahrung, Netzwerk | Bestandsgebäude, kein Wohnen |
+| Avantis (Aachen/Heerlen) | grenzüberschreitender Gewerbepark | Flächenangebot, Grenzlage | langsame Vermarktung, heute überwiegend Logistik |
+| Brightlands (Maastricht, Heerlen, Sittard) | Life Sciences, Digitalwirtschaft, Chemie | Ökosystem, Kapital | andere Themen, hohe Auslastung |
+| Liège Science Park | Biotechnologie, Raumfahrt, Ingenieurwesen | Größe, ULiège | französischsprachig, Entfernung zu Aachen |
+| Kaiserbaracke, Eupen | klassische Gewerbegebiete | Fläche, Autobahnanschluss | kein Innovationsprofil, keine Bahnverbindung nach Aachen |
 
-**Einstein-Teleskop.**
-- **Eckdaten:** Baukosten ≈ 2,3 Mrd. € (rund ein Drittel Vakuumsystem), ≈ 500 direkte und ≈ 1.150 indirekte Arbeitsplätze. Standortentscheidung in der 2. Jahreshälfte 2027, Bau ab ≈ 2028, Betrieb ≈ 2035.
-- **Wettbewerb:** Sardinien und die Lausitz bewerben sich gemeinsam.
-- **Nachfrage in drei Wellen:**
-  - Projektbüros 2026–2028
-  - Zulieferer und Boarding 2028–2035
-  - Forschende mit Familien ab 2035
-- **Umgang im Konzept:** Das Teleskop ist **Upside, nicht Voraussetzung**. Phase 1 muss auch ohne Zuschlag tragen.
+Quelle: eigene Darstellung nach Teilbericht 02
 
-## Nachfrage und Programm (Schätzung)
+Das Beispiel Avantis zeigt, dass eine zu enge Branchenvorgabe die Vermarktung eines grenzüberschreitenden Parks bremsen kann. Das Themenprofil des EMRIQ sollte deshalb als Leitlinie für die Vergabe dienen und nicht als ausschließliche Nutzungsbeschränkung.
 
-| | Phase 1 „Start“ | Phase 2 „Wachstum“ | Phase 3 „Skalierung“ (Option) |
+## Einstein-Teleskop
+
+Die Baukosten des Einstein-Teleskops werden mit rund 2,3 Mrd. € angegeben, wovon etwa ein Drittel auf das Vakuumsystem entfällt. Erwartet werden rund 500 direkte und 1.150 indirekte Arbeitsplätze. Die Standortentscheidung ist für die zweite Jahreshälfte 2027 vorgesehen; der Bau könnte etwa 2028 beginnen, der Betrieb um 2035. Neben der Euregio Maas-Rhein bewerben sich Sardinien und die Lausitz gemeinsam. Für Kelmis wäre in drei Stufen mit Nachfrage zu rechnen: zunächst durch Projektbüros (2026–2028), dann durch Zulieferer und Personal in der Bauphase (2028–2035) und schließlich durch Forschende mit ihren Familien. Das Konzept muss jedoch auch ohne Zuschlag tragfähig sein. Das Einstein-Teleskop wird daher als zusätzliche Chance behandelt, nicht als Voraussetzung.
+
+## Nachfrage und Raumprogramm
+
+Tab: Raumprogramm nach Phasen (Schätzung)
+| | Phase 1 | Phase 2 | Phase 3 (Option) |
 |---|---|---|---|
-| Zeitraum | Bau 2029–2031 | 2032–2036 (Busbetriebshof-Areal) | ab 2036, abhängig vom Einstein-Teleskop |
-| Gewerbe-BGF | 3.100–4.800 m² | 5.500–8.800 m² | 8.500–16.000 m² |
+| Zeitraum | Bau 2029–2031 | 2032–2036, Gelände Busbetriebshof | ab 2036, abhängig vom Einstein-Teleskop |
+| Bruttogrundfläche Gewerbe | 3.100–4.800 m² | 5.500–8.800 m² | 8.500–16.000 m² |
 | Wohneinheiten | 40–70 | 80–150 | 150–300 |
-| Arbeitsplätze (brutto) | 80–150 | 150–300 | 250–500 |
+| Arbeitsplätze | 80–150 | 150–300 | 250–500 |
 
-**Absorption gewerblicher Flächen:**
-- vorsichtig 300–500 m² pro Jahr
-- Basis 600–1.000 m² pro Jahr, mit Ankermieter und Kooperation RWTH/TPH/WFG
-- ambitioniert 1.500–2.500 m² pro Jahr, mit Zuschlag für das Einstein-Teleskop
+Quelle: eigene Schätzung
 
-Zum Vergleich: Der Technologiepark Herzogenrath wuchs um durchschnittlich rund 700 m² pro Jahr.
+Für die Vermarktung gewerblicher Flächen wurden drei Annahmen getroffen. Bei vorsichtiger Betrachtung ist mit 300 bis 500 m² im Jahr zu rechnen. Im Basisfall sind es 600 bis 1.000 m², wenn ein Ankermieter gewonnen wird und Kooperationen mit RWTH, Technologiepark Herzogenrath und WFG bestehen. Mit einem Zuschlag für das Einstein-Teleskop sind 1.500 bis 2.500 m² im Jahr möglich. Der Technologiepark Herzogenrath ist seit 1989 durchschnittlich um rund 700 m² im Jahr gewachsen.
 
 ## Zielgruppen
 
-| Zielgruppe | Arbeiten | Wohnen | Priorität |
+Tab: Zielgruppen und Anforderungen
+| Zielgruppe | Flächenbedarf | Wohnbedarf | Priorität |
 |---|---|---|---|
-| Gründende (RWTH, FH Aachen, ULiège, UM) | 20–150 m², Co-Working, Shared Lab | Co-Living, Mikroapartment | P1 |
-| Scale-ups (10–60 Beschäftigte) | 300–1.500 m² Hybridfläche | Mietwohnungen, Boarding | P1 |
-| KMU der DG mit Innovationsprojekten | 50–300 m² Projektbüro/Labor | ortsansässig | P1 |
-| Forschungseinrichtungen, Außenstellen, Einstein-Teleskop-Konsortium | 200–1.000 m², Prüfstände | Gästewohnungen | P1–P2 |
-| Satelliten von Großunternehmen (Photonik, Space, Dual-Use) | 500–3.000 m² | Firmenwohnungen | P2 |
-| Internationale Fachkräfte und Forschende | – | Familienwohnen, Serviced Apartments | P2–P3 |
+| Gründer aus RWTH, FH Aachen, ULiège, Universität Maastricht | 20–150 m², Co-Working, gemeinsames Labor | Apartment, gemeinschaftliches Wohnen | hoch |
+| Wachsende Technologieunternehmen (10–60 Beschäftigte) | 300–1.500 m² Büro, Labor, Halle | Mietwohnungen, Apartments | hoch |
+| Unternehmen aus der DG mit Innovationsprojekten | 50–300 m² Projektbüro oder Labor | vor Ort ansässig | hoch |
+| Forschungseinrichtungen, Projektbüros (z. B. Einstein-Teleskop) | 200–1.000 m², Prüfstände | Gästewohnungen | mittel bis hoch |
+| Niederlassungen größerer Unternehmen (Photonik, Raumfahrt, Sicherheitstechnik) | 500–3.000 m² | Firmenwohnungen | mittel |
+| Fachkräfte und Forschende aus dem Ausland | – | Familienwohnungen, möblierte Wohnungen | mittel |
 
-# Branchenclusteranalysen
+Quelle: eigene Darstellung
 
-## Methode
+# Branchenclusteranalyse
 
-Elf Cluster bzw. Teilcluster wurden mit einer einheitlichen, gewichteten Matrix bewertet:
+## Methodik
 
+Elf Branchencluster wurden mit derselben gewichteten Matrix bewertet. Vorab wurde geprüft, ob ein Cluster themenbildend ist, also Unternehmen gezielt an den Standort zieht, oder ob es sich um eine Querschnittsfunktion handelt, die jedes Quartier benötigt.
+
+Tab: Bewertungskriterien und Gewichtung
 | Kriterium | Gewicht |
 |---|---|
 | Regionale Kompetenzbasis | 20 % |
 | Markt- und Fördermitteldynamik | 20 % |
-| Grenzüberschreitender Brückeneffekt | 15 % |
+| Grenzüberschreitender Mehrwert | 15 % |
 | Städtebauliche Verträglichkeit im Ort | 15 % |
-| Flächen- und Investitionsrealismus in Kelmis | 10 % |
-| Narrativ / Alleinstellung | 10 % |
-| Akzeptanz / Risiko | 10 % |
+| Flächen- und Investitionsbedarf in Kelmis | 10 % |
+| Bezug zum Standort, Alleinstellung | 10 % |
+| Akzeptanz, Risiko | 10 % |
 
-Vorgeschaltet ist das K.-o.-Kriterium **„themenbildend“**: Zieht ein Feld Unternehmen gezielt nach Kelmis? Oder beschreibt es nur, wie ein Quartier funktioniert?
+Quelle: eigene Darstellung
 
-![Abbildung 1: Gewichtete Bewertung der Branchencluster (Teilberichte 03a/03b)](grafiken/01_cluster_scoring.png){16}
+## Ergebnisse
 
-## Ergebnis und Rollen
+![Gewichtete Bewertung der Branchencluster](grafiken/01_cluster_scoring.png){15}
 
-| Cluster | Score | Rolle im EMRIQ |
+Quelle: eigene Bewertung, Teilberichte 03a und 03b
+
+Tab: Bewertungsergebnis und vorgeschlagene Rolle der Cluster
+| Cluster | Punkte | Vorgeschlagene Rolle |
 |---|---|---|
-| Einstein-Teleskop & Präzisionstechnik | 4,25 | **Hauptthema (Technologiekern)**; ohne Zuschlag für das Einstein-Teleskop 3,80 |
-| Zirkuläres Bauen & Holz | 4,25 | **Verbindliche Bauweise und Demonstrator**; Alternativ-Hauptthema |
-| Smart Energy / Netze | 4,35 | Quartiersreallabor „Energiegemeinschaft Neutral-Moresnet“ |
-| Digital / KI / Software | 4,05 | Enabler: Grenzgänger-Co-Working, Satellit Digital Hub, digitaler Zwilling |
-| Space & Robotik / Automation | 3,65 | Anwendungsmarkt; Automationslabor mit HAHN in Hochheid |
-| Sicherheit / Dual-Use | 3,55 | zivil geführte Resilienzschicht mit Negativliste (keine Waffen, Munition, Explosivstoffe) |
-| Autonome Mobilität | 3,55 | Shuttle-Reallabor Hergenrath – Museum |
-| Kultur / Tourismus | 3,55 | Identität: Museum, Neutral-Moresnet, „Amikejo“ |
-| Health / MedTech | 3,50 | Nische „gesund wohnen und älter werden“ |
-| Wasserstoff | 3,20 | Netzwerkthema, kein Standortthema |
-| Advanced Materials / Kreislauf-Metalle | 3,15 | Narrativ (Zink → Umicore), Werkstofflabor |
+| Einstein-Teleskop, Präzisionstechnik | 4,25 | Hauptthema; ohne Zuschlag für das Einstein-Teleskop 3,80 |
+| Zirkuläres Bauen, Holz | 4,25 | verbindliche Bauweise des Quartiers; Alternative als Hauptthema |
+| Energie, Netze | 4,35 | Reallabor „Energiegemeinschaft“ für das Quartier |
+| Digitalwirtschaft, KI | 4,05 | Querschnittsthema: Co-Working, digitales Modell des Quartiers |
+| Raumfahrt, Robotik, Automation | 3,65 | Anwendungsfeld des Hauptthemas; Automationslabor an der Hochheid |
+| Sicherheit, Dual-Use | 3,55 | ziviles Anwendungsfeld mit festen Ausschlüssen |
+| Autonome Mobilität | 3,55 | Pilotverkehr zwischen Bahnhof Hergenrath und Museum |
+| Kultur, Tourismus | 3,55 | Identität und Lebensqualität (Museum, Neutral-Moresnet) |
+| Gesundheit, Medizintechnik | 3,50 | ergänzendes Wohnangebot für ältere Menschen |
+| Wasserstoff | 3,20 | Netzwerkthema ohne Standortbezug |
+| Werkstoffe, Kreislaufmetalle | 3,15 | historischer Bezug (Zink, Umicore), kleines Werkstofflabor |
+
+Quelle: eigene Bewertung
+
+Energie und Netze erzielen zwar die höchste Punktzahl, beschreiben aber eine Funktion, die jedes Quartier braucht; Unternehmen siedeln sich deswegen nicht gezielt in Kelmis an. Als themenbildend kommen Präzisionstechnik und zirkuläres Bauen in Betracht, die gleichauf liegen.
 
 ## Empfohlenes Themenprofil
 
-> **„Precision & Resilience Tech – Messen. Verstehen. Schützen.“** · FR: *Précision & Résilience – Mesurer. Comprendre. Protéger.* · EN: *Measure. Understand. Protect.*
->
-> **Kern:** hochpräzise Mess-, Sensor- und Photoniksysteme: Laser/Optik, Vakuum, Kryotechnik, Schwingungsisolation, Präzisionsmontage, Datenauswertung.
-> **Anwendungsmärkte:** Großforschung/Einstein-Teleskop, Space und Erdbeobachtung, zivile Resilienz (kritische Infrastruktur, Katastrophenschutz).
-> **Ortsnarrativ:** „Neutraler Boden für präzises Wissen“.
+Empfohlen wird das Themenprofil **Präzisions- und Resilienztechnologien** (Arbeitstitel). Den Kern bilden hochgenaue Mess-, Sensor- und Photoniksysteme mit den Schlüsseltechnologien Laser und Optik, Vakuum- und Kryotechnik, Schwingungsisolation, Präzisionsmontage und Datenauswertung. Anwendungsfelder sind die Großforschung mit dem Einstein-Teleskop, Raumfahrt und Erdbeobachtung sowie der Schutz kritischer Infrastrukturen und der Katastrophenschutz.
 
-**Warum Präzision vor Holz als Hauptthema?**
+Für dieses Profil sprechen vier Gründe. Es entspricht den Zielen des Lastenhefts, das auf europäische Industriestandorte, Sicherheit und das Einstein-Teleskop Bezug nimmt. Es erzeugt mehr Arbeitsplätze und Wertschöpfung je Quadratmeter als der Holzbau. Mit dem Fraunhofer ILT und der RWTH bestehen enge Bezüge nach Aachen, mit HAHN Automation gibt es einen Partner vor Ort. Schließlich ergänzt es die Ausrichtung des Standorts Kaiserbaracke auf die Holzwirtschaft, statt mit ihm zu konkurrieren.
 
-1. **Passung zum Lastenheft.** Einstein-Teleskop, europäische Industrie- und Sicherheitsstandorte, universitäres Gründerpublikum, Forschung plus Fertigung.
-2. **Wertschöpfung.** Mehr Arbeitsplätze und Wertschöpfung pro m².
-3. **Bezug zu Aachen und lokaler Anker.** Fraunhofer ILT und RWTH-Photonik in Aachen, HAHN Automation in Kelmis.
-4. **Klare Arbeitsteilung der beiden DG-Prioritätsstandorte.** Kelmis für Präzision und Quartier, Kaiserbaracke für Holz und Fläche.
+Sollte die DG ein Profil bevorzugen, das stärker auf vorhandene regionale Betriebe aufbaut, oder geht der Zuschlag für das Einstein-Teleskop 2027 nicht in die Euregio, bietet sich als Alternative ein Quartier für zirkuläres Bauen und Energie an.
 
-Das **Alternativszenario „Bauwende-Quartier“** (Holz plus Energie) bleibt als Option für den Fall, dass die DG ein endogenes Profil bevorzugt oder der Zuschlag für das Einstein-Teleskop 2027 nicht in die Euregio geht.
+## Umgang mit Sicherheits- und Verteidigungsthemen
 
-**Dual-Use politisch klug formulieren:** „Das EMRIQ Kelmis ist zivil geführt. Es entwickelt Präzisions- und Sensortechnologien, die Europa sicherer und widerstandsfähiger machen – für Forschung, Katastrophenschutz und kritische Infrastruktur und, wo Europa es braucht, auch für seine Verteidigungsfähigkeit. Waffen, Munition und Explosivstoffe sind ausgeschlossen.“
+Die Mittel für Sicherheit und Verteidigung steigen auf europäischer, belgischer und wallonischer Ebene deutlich. Belgien erhält aus dem Programm SAFE vorläufig 8,34 Mrd. €, und die Wallonie hat im Juni 2026 eine eigene Verteidigungsstrategie beschlossen. Zugleich ist das Thema in einer Wohngemeinde und vor dem Hintergrund der Geschichte von Neutral-Moresnet sensibel. Es wird empfohlen, das Quartier zivil zu führen und Anwendungen mit doppeltem Verwendungszweck nur in den Bereichen Sensorik, Software, Werkstoffe und Präzisionstechnik zuzulassen. Waffen, Munition und Explosivstoffe sollten ausdrücklich ausgeschlossen werden. Diese Regeln sollten in Erbpacht- und Mietverträgen verankert und durch einen Quartiersbeirat mit Beteiligung der Bevölkerung begleitet werden.
 
 # Strategische Quartiersentwicklung
 
 ## Leitbild
 
-> **EMRIQ Kelmis – wo Europa präzise zusammenarbeitet.** Auf dem Boden des einstigen Neutral-Moresnet entsteht ein Quartier, in dem Forschende, Gründende und Unternehmen aus Belgien, Deutschland und den Niederlanden Präzisionstechnologien für Wissenschaft, Raumfahrt und eine widerstandsfähige Gesellschaft entwickeln und dort wohnen, wo sie arbeiten. Mit Museum, Seen und Göhltal vor der Tür und Aachen um die Ecke.
+Auf dem Boden des früheren Neutral-Moresnet entsteht ein Quartier, in dem Forschende, Gründer und Unternehmen aus Belgien, Deutschland und den Niederlanden an Präzisionstechnologien für Wissenschaft, Raumfahrt und den Schutz kritischer Infrastrukturen arbeiten und in der Nähe ihres Arbeitsplatzes wohnen. Museum, Seen und Göhltal prägen das Umfeld, Aachen ist in wenigen Minuten erreichbar.
 
-## Fünfzehn strategische Hebel
+## Handlungsansätze
 
-Die Hebel sind in vier Handlungsfelder gegliedert. Sie ergänzen das Themenprofil um das, was ein Quartier von einem Gewerbepark unterscheidet, und sie zahlen direkt auf die Kapitalmarktfähigkeit ein (Kap. 6).
+Die folgenden Handlungsansätze ergänzen das Themenprofil um die Elemente, die ein Quartier von einem Gewerbegebiet unterscheiden. Sie sind zugleich Voraussetzung dafür, dass Investoren und Projektentwickler das Vorhaben als marktfähig einschätzen (vgl. Kapitel 7).
 
-### A – Aktivieren und Ankern
+### Aktivierung und Ankernutzer
 
-1. **Quartier vor Gebäuden („Pre-Quartier“ ab 2027).**
-   - Pop-up-Co-Working und Maker-Lab in einem leerstehenden Bestandsgebäude an der Lütticher Straße bzw. im Museum.
-   - „EMRIQ Lab Days“ und Summer Schools mit RWTH, ULiège und Fraunhofer; die OBL'EU-Ausstellung im November 2026 als Startsignal.
-   - Ziel: Community, Nachfragebelege und Sichtbarkeit, bevor der erste Euro in Hochbau fließt.
-2. **Drei-Anker-Strategie.** Jeder Anker unterzeichnet vor dem Baubeschluss eine Absichtserklärung:
-   - Wissensanker: Außenstelle eines Fraunhofer- oder RWTH-Instituts, Projektbüro des Einstein-Teleskops
-   - Unternehmensanker: HAHN Automation, Heimbach, Satellit eines Photonik- oder Space-Unternehmens
-   - Lebensanker: Museum, Kita, Café/Kantine, Quartiersplatz
-3. **Soft-Landing-Zone „Gateway to Belgium & France“.** Service für deutsche und niederländische Scale-ups, die den belgischen und frankophonen Markt erschließen:
-   - Gesellschaftsgründung in Belgien
-   - Innovationsabzug und Forscher-Lohnsteuerbefreiung
-   - Fördermittelberatung
-   - Verwaltung auf Deutsch, Rechtsraum Belgien
-4. **Bestandsunternehmen als Partner.**
-   - Win-win-Verlagerungen: Busbetriebshof in ein E-Bus-Depot am Ortsrand, Baustoffhandel in einen Gewerbehof.
-   - Heimbach als Technologiepartner (technische Textilien, Filtration).
+Das Quartier sollte bereits sichtbar werden, bevor neu gebaut wird. Ab 2027 kann in einem leerstehenden Gebäude an der Lütticher Straße oder im Museum ein vorläufiges Angebot mit Co-Working und Werkstattlabor eingerichtet werden. Veranstaltungen und Sommerschulen mit RWTH, ULiège und Fraunhofer schaffen Kontakte und geben Hinweise auf die tatsächliche Nachfrage. Die Ausstellung des Projekts OBL'EU im November 2026 eignet sich als Auftakt.
 
-### B – Talente und Leben
+Vor dem Baubeschluss sollten Absichtserklärungen von Ankernutzern aus drei Bereichen vorliegen:
 
-5. **Grenzgänger-Arbeitsplätze „15 statt 45 Minuten“.** Co-Working-Abo für Aachen-Pendler und Satellitenbüros von Aachener Firmen. Beratung zu Telearbeitsgrenzen bei Steuer und Sozialversicherung über den GrenzInfoPunkt.
-6. **Talentwohnen als Produkt.**
-   - Boarding, Co-Living und Gästeapartments ab Phase 1, Familienwohnen ab Phase 2
-   - Belegungsrechte für Ankerunternehmen („Wohnungsgarantie“)
-   - Welcome Service, Kita, Kooperation mit internationalen Schulen in Aachen
-7. **Community Benefit für Kelmis.**
-   - MINT-Labor für Schulen im EMRIQ-Haus, Ausbildungslabor mit HAHN und ZAWM
-   - Quartiersplatz und Kita für alle
-   - Das sichert Akzeptanz und bindet die Opposition ein.
+- Forschung: Außenstelle eines Fraunhofer- oder RWTH-Instituts, Projektbüro für das Einstein-Teleskop
+- Unternehmen: HAHN Automation, Heimbach, Niederlassung eines Photonik- oder Raumfahrtunternehmens
+- Alltag: Museum, Kindertagesstätte, Gastronomie
 
-### C – Produkt und Bauweise
+Ein Ansiedlungsservice kann deutsche und niederländische Unternehmen unterstützen, die über Kelmis den belgischen und französischsprachigen Markt erschließen wollen. Dazu gehören Hilfe bei der Gründung einer belgischen Gesellschaft, Beratung zu Innovationsabzug und Lohnsteuerbefreiung für Forschende sowie Fördermittelberatung, jeweils in deutscher Sprache. Bestehende Betriebe sollten als Partner gewonnen werden. Für den Busbetriebshof und den Baustoffhandel sind einvernehmliche Verlagerungen anzustreben, etwa in ein Depot für Elektrobusse am Ortsrand oder in einen Gewerbehof.
 
-8. **Mobilität als Produkt statt Stellplatz.**
-   - Mobilitätsabo im Miet- bzw. Kaufpreis: ÖPNV, Shuttle Hergenrath, E-Bike, Carsharing.
-   - Quartiersgarage statt Tiefgaragen, reduzierter Stellplatzschlüssel (0,5–0,7 je Wohnung).
-   - Jeder nicht gebaute Stellplatz spart rund 20–30 T€ und erhöht den Bodenwert.
-9. **Energie als Produkt.** Die Energiegemeinschaft Neutral-Moresnet liefert günstigen, grünen Quartiersstrom und planbare Nebenkosten. Das ist ein Vermarktungs- und ESG-Argument für Mieter und Investoren.
-10. **Bauen als Demonstrator.**
-    - Serieller Holz-Hybridbau verkürzt die Bauzeit und senkt damit die Finanzierungskosten.
-    - Er verbessert die CO₂-Bilanz (EU-Taxonomie) und schafft regionale Wertschöpfung mit Holzbetrieben aus Ostbelgien.
-11. **Flexible Baufelder („Loose Fit“).**
-    - Nutzungskorridore je Baufeld: Wohnen, Büro und Labor austauschbar.
-    - Konstruktionsraster 7,5–8,1 m, Geschosshöhen 3,5–4,2 m im Erdgeschoss und 1. Obergeschoss, aktive Erdgeschosszonen.
-    - Drittverwendungsfähigkeit ist Kapitalmarktfähigkeit.
+### Fachkräfte und Wohnen
 
-### D – Steuerung und Governance
+Viele Einwohner von Kelmis pendeln täglich nach Aachen. Ein Co-Working-Angebot im EMRIQ-Haus und Büros Aachener Unternehmen im Quartier können einen Teil dieser Arbeitswege verkürzen. Die steuer- und sozialversicherungsrechtlichen Grenzen der Telearbeit für Grenzpendler sind dabei zu beachten; der GrenzInfoPunkt Aachen-Eurode kann hierzu beraten.
 
-12. **Konzeptvergabe und Gestaltungsleitfaden statt Satzungsdichte.** Qualitätsziele, Positiv-/Negativliste, Bauverpflichtung, dreisprachige „Baufeldpässe“. Lehre aus Avantis: Das Thema ist Profil, keine exklusive Nutzungsbeschränkung.
-13. **„Fast Lane“-Genehmigung.**
-    - Ein Orientierungsschema mit vorabgestimmten Baufeldpässen verkürzt die Genehmigung auf wenige Monate.
-    - Ein One-Stop-Shop bündelt DG-Fachbereich Raumordnung, Gemeinde und WFG.
-    - Planungssicherheit senkt die Risikoprämie der Investoren.
-14. **Euregio-Beirat und Marke.**
-    - EMRIQ-Beirat mit Aachen (StädteRegion, RWTH Innovation, AGIT), Lüttich (Noshaq, ULiège) und Limburg (LIOF/Brightlands).
-    - Marke „Amikejo – Neutral Ground for Precision“ (Arbeitstitel).
-15. **Realoption Einstein-Teleskop.**
-    - Flächen für Phase 3 werden als Option gehalten (Zwischennutzung, Grün).
-    - Nach der Entscheidung 2027 wird skaliert oder umgewidmet.
-    - Kein Vorratsbau auf Verdacht.
+Das Wohnangebot sollte ab der ersten Phase möblierte Apartments, gemeinschaftliche Wohnformen und Gästewohnungen umfassen, ab der zweiten Phase auch Familienwohnungen. Für Ankerunternehmen können Belegungsrechte vereinbart werden. Ein Willkommensservice, eine Kindertagesstätte und die Zusammenarbeit mit internationalen Schulen in Aachen erleichtern die Gewinnung von Fachkräften. Damit das Quartier auch der Bevölkerung von Kelmis nützt, sollten ein Schülerlabor, ein Ausbildungslabor mit HAHN Automation und dem ZAWM sowie öffentlich nutzbare Freiräume vorgesehen werden.
 
-## Ankerprojekte
+### Produkt und Bauweise
 
-| # | Ankerprojekt | Ort / Phase | Inhalt |
-|---|---|---|---|
-| 1 | **EMRIQ-Haus / Precision Lab** | gegenüber dem Museum, Phase 1 | 3–4 Geschosse in Holz-Hybridbauweise. Erdgeschoss mit Co-Working, Café und Event; darüber Büromodule von 20–200 m² und schwingungsarme Labore; rückwärtig skalierbare Hallen für Prototyping und Pilotfertigung |
-| 2 | **ET-Gateway am Museum Vieille Montagne** | Museum, ab 2027 | Industrie- und Besucherschaufenster, Matchmaking-Büro für Zulieferer, Welcome Service; Museum als Ankermieter |
-| 3 | **Automation for Precision** | Hochheid, Phase 1–2 | Integrations- und Ausbildungslabor für automatisierte Präzisionsmontage mit HAHN, FH Aachen und ZAWM |
-| 4 | **Resilience Sensing Lab** | Phase 2 | Sensorfusion, Erdbeobachtung, Resilienz für Netze und Wasser (Bezug zur Flut 2021); zivil geführt |
-| 5 | **Amikejo Living** | Süd, Phase 1–2 | Boarding, Co-Living, Gästeapartments und Familienwohnen in Holzbau; Modul für gesundes Altern |
-| 6 | **Energiegemeinschaft Neutral-Moresnet** | gesamter Planbereich | PV auf Hallendächern, Wärmenetz, Speicher, Energy Sharing; Reallabor mit FZ Jülich und Kabelwerk Eupen |
-| 7 | **Innovationsachse Hergenrath – Museum** | öffentlicher Raum | Mobilitätshub am Bahnhof, On-Demand- bzw. autonomes Shuttle, Abzweig Radschnellweg, Pilot für einen Euregio-Tarif |
-| 8 | **Grenzgänger-Co-Working / Satellit Digital Hub** | EMRIQ-Haus Erdgeschoss | „15 statt 45 Minuten“, inklusive Beratung zur Telearbeit |
+Statt die Zahl der Stellplätze am bisherigen Bedarf auszurichten, sollte Mobilität als Dienstleistung angeboten werden: ein Mobilitätsabonnement mit Nahverkehr, Shuttle zum Bahnhof Hergenrath, Leihrädern und Carsharing. Die Stellplätze werden in einer Quartiersgarage gebündelt, der Stellplatzschlüssel kann auf 0,5 bis 0,7 je Wohnung sinken. Jeder nicht gebaute Tiefgaragenstellplatz spart rund 20.000 bis 30.000 € und verbessert die Wirtschaftlichkeit der Baufelder. Eine Energiegemeinschaft mit Photovoltaik auf den Hallendächern, Wärmenetz und Speicher senkt die Nebenkosten und verbessert die Bewertung des Quartiers nach Nachhaltigkeitskriterien.
 
-## Städtebauliche Prinzipien
+Serieller Holz-Hybridbau verkürzt die Bauzeit, verbessert die CO₂-Bilanz und stärkt die regionale Holzwirtschaft. Die Baufelder sollten so zugeschnitten werden, dass Gebäude später anders genutzt werden können: mit Nutzungsspielräumen zwischen Wohnen, Büro und Labor, Konstruktionsrastern von 7,5 bis 8,1 m und Geschosshöhen von 3,5 bis 4,2 m in den unteren Geschossen. Diese Flexibilität erhöht den Wert der Gebäude für spätere Käufer.
 
-- **Innen- vor Außenentwicklung (KOMMpaktLAND).** Nachverdichtung und Stapelung (Ziel-GFZ netto 1,0–1,5 statt heute ≈ 0,3); Geländeversprünge erschließen Obergeschosse.
-- **Erschließung und Adresse.** Parallelerschließung in „2. Reihe“, Quartiersgarage bzw. Mobilitätshub, Adresse am Museum, Quartiersplatz als Bindeglied zum Ort.
-- **Klimaanpassung.** Schwammquartier, Entsiegelung, Retention an der Göhl, Galmeiflora als gestalterisches Motiv.
-- **Bausteine des Strukturplans.** Baufelder mit Baufeldpass, also Nutzungskorridor, Kubatur, Freiraum- und Energiestandard.
+### Steuerung und Zusammenarbeit
+
+Die Grundstücke sollten im Wege der Konzeptvergabe vergeben werden. Ein Gestaltungsleitfaden und Baufeldpässe in drei Sprachen beschreiben Nutzung, Kubatur, Freiraum- und Energiestandard. Ein Orientierungsschema mit vorab abgestimmten Baufeldern ermöglicht kurze Genehmigungszeiten; eine gemeinsame Anlaufstelle von Fachbereich Raumordnung der DG, Gemeinde und WFG erleichtert die Abstimmung. Ein Beirat mit Vertretern aus Aachen (StädteRegion, RWTH, AGIT), Lüttich (Noshaq, ULiège) und Limburg (LIOF, Brightlands) verankert das Quartier in der Euregio. Flächen für eine dritte Phase sollten bis zur Entscheidung über das Einstein-Teleskop freigehalten und bis dahin zwischengenutzt werden.
+
+## Schlüsselprojekte
+
+Tab: Schlüsselprojekte
+| Projekt | Standort, Phase | Inhalt |
+|---|---|---|
+| EMRIQ-Haus | gegenüber dem Museum, Phase 1 | Technologie- und Gründerzentrum mit drei bis vier Geschossen in Holz-Hybridbauweise; im Erdgeschoss Co-Working, Gastronomie und Veranstaltungsfläche, darüber Büros von 20 bis 200 m² und schwingungsarme Labore, rückwärtig teilbare Hallen |
+| Informations- und Kontaktstelle Einstein-Teleskop | Museum Vieille Montagne, ab 2027 | Ausstellung, Kontaktvermittlung für Zulieferer, Willkommensservice; Museum als Mieter |
+| Automationslabor | Hochheid, Phase 1–2 | Integrations- und Ausbildungslabor für automatisierte Präzisionsmontage mit HAHN Automation, FH Aachen und ZAWM |
+| Labor für Sensorik und Infrastrukturschutz | Phase 2 | Sensorik, Erdbeobachtung, Schutz von Netzen und Wasserversorgung; zivil geführt |
+| Wohnen für Forschende und Gründer | Lütticher Straße Süd, Phase 1–2 | Apartments, Gästewohnungen und Familienwohnungen in Holzbauweise |
+| Energiegemeinschaft | gesamter Planbereich | Photovoltaik, Wärmenetz, Speicher; Reallabor mit Forschungspartnern |
+| Verbindung Hergenrath–Museum | öffentlicher Raum | Mobilitätsknoten am Bahnhof, Shuttle oder Rufbus, Anschluss an den Radschnellweg |
+
+Quelle: eigene Darstellung
+
+## Städtebauliche Grundsätze
+
+Die Entwicklung folgt dem Grundsatz der Innenentwicklung. Durch Nachverdichtung und Stapelung von Nutzungen soll die Geschossflächenzahl der Baufelder von heute rund 0,3 auf 1,0 bis 1,5 steigen; Geländesprünge können für die Erschließung oberer Geschosse genutzt werden. Die rückwärtigen Flächen werden über eine parallel zur Lütticher Straße verlaufende Erschließung angebunden. Am Museum entsteht die Adresse des Quartiers, ein Quartiersplatz verbindet es mit dem Ort. Regenwasser wird im Quartier zurückgehalten, versiegelte Flächen werden reduziert, und die Galmeiflora wird in die Freiraumgestaltung aufgenommen.
 
 # Entwicklungsmodell und Kapitalmarktfähigkeit
 
-## Leitidee: Die öffentliche Hand als Master Developer
+## Grundprinzip
 
-> **Der Initiator entwickelt Boden und Vertrauen – der Markt baut das Quartier.**
-> Die DG und die Gemeinde Kelmis (über die AGR bzw. später eine Entwicklungsgesellschaft, für den Gewerbeteil gemeinsam mit der SPI) übernehmen die Schritte, die der Markt an einem unerprobten Standort nicht übernimmt: Baurecht, Bodensanierung, Erschließung und den ersten Beweis in Form eines Leuchtturms. Die Wertsteigerung, die dabei entsteht, holen sie über Baufeldvergaben zurück und setzen sie in der nächsten Phase erneut ein.
+An einem Standort ohne Marktreferenzen sind private Projektentwickler in der Regel nicht bereit, Planungs-, Boden- und Vermarktungsrisiken zu übernehmen, oder sie preisen diese mit hohen Abschlägen ein. Es wird daher ein Modell vorgeschlagen, in dem die öffentliche Hand die Rolle des Flächenentwicklers übernimmt. DG und Gemeinde Kelmis entwickeln über die AGR, später über eine Entwicklungsgesellschaft und für den gewerblichen Teil gemeinsam mit der SPI, die Flächen bis zur Baureife. Sie schaffen Baurecht, sanieren die Böden, erschließen die Flächen und errichten die ersten Gebäude. Die Bebauung der übrigen Baufelder übernehmen Bauträger, Investoren und Unternehmen.
 
-Das Modell hat drei Funktionen:
+Das Modell erfüllt drei Aufgaben. Erstens werden die Risiken abgebaut, für die Investoren an einem neuen Standort hohe Abschläge verlangen würden. Zweitens fließt die Wertsteigerung der Grundstücke, die durch Baurecht, Erschließung und Quartiersqualität entsteht, über Verkaufserlöse, Erbpacht und Beiträge der Eigentümer an die öffentliche Hand zurück. Drittens werden die Erlöse über einen revolvierenden Bodenfonds für die nächste Phase eingesetzt.
 
-1. **De-Risking.** Planungsrecht, Bodenattest, Erschließung und Nachfragebelege (Ankermieter, Absichtserklärungen) beseitigen die Risiken, für die Investoren in einem neuen Standort hohe Abschläge verlangen.
-2. **Value Capture.** Die Bodenwertsteigerung aus Baurecht, Erschließung und Quartiersqualität fließt über Baufeldverkäufe, kapitalisierte Erbpacht, städtebauliche Lasten und Eigentümerbeiträge an den Initiator zurück und nicht als Planungsgewinn an Dritte.
-3. **Kapitalrecycling.** Ein revolvierender Bodenfonds finanziert die nächste Phase aus den Erlösen der vorherigen. Leuchtturm-Gebäude werden nach der Stabilisierung verkauft oder über einen Generalmietvertrag refinanziert.
+## Prüfung des Ansatzes
 
-:::box Bewertung der Entwicklungsthese
-**These:**
-- Bis Baurecht und Erschließung entwickeln.
-- Baufelder parallel zur Erschließung im Sweet Spot vergeben und damit Infrastruktur und Baurecht refinanzieren.
-- In der Ramp-up-Phase selbst Leuchttürme bauen.
+Geprüft wurde der Ansatz, das Quartier bis zu Baurecht und Erschließung zu entwickeln, die Baufelder parallel zur Erschließung zum günstigsten Zeitpunkt zu vergeben und damit die Kosten für Infrastruktur und Baurecht zu refinanzieren. In der Anlaufphase soll der Initiator zudem eigene Gebäude errichten.
 
-**Urteil: Die These trägt als Strategie und wird in Kelmis zum Refinanzierungsmodell, wenn vier Hebel zusammenwirken.**
-1. **Heute sind die Bodenwerte niedrig.**
-   - Baulandpreise in der Provinz Lüttich ≈ 137 €/m² (2023); für Kelmis werden 120–190 €/m² angenommen.
-   - Im Wohnungsneubau liegt der Residualwert bei heutigen Preisen nahe null.
-   - Im Basisszenario decken Baufelderlöse allein nur **≈ 23 %** der Baulandentwicklungskosten. Mit Fördermitteln und Eigentümerbeiträgen sind es **≈ 59 %**.
-2. **Mit den vier Hebeln erreicht das Zielbild ≈ 107 %:**
-   - Bodenwert und Dichte durch Leuchtturm und Quartier
-   - SPI-Förderung des Gewerbeteils mit 65–85 %
-   - kooperative Baulandentwicklung
-   - schlanke Erschließung
-3. **Leuchttürme sind nötig, aber nicht frei handelbar.** Ein Technologiezentrum braucht bei 7,6 % Spitzenrendite (Regionalbüros Wallonie) rund 26 €/m² Monatsmiete. Marktüblich sind 6,50–18 €/m². Ohne Generalmietvertrag von WFG/DG und Kapitalzuschuss ist es nicht investorenfähig.
-4. **Der Markt ist klein.** Primäre Abnehmer sind regionale Bauträger, Aachener und Lütticher Entwickler, Eigennutzer und halböffentliche Finanzierer. Institutionelle Investoren kommen erst für stabilisierte Pakete ab ≈ 15 Mio. € in Phase 2.
-:::
+Der Ansatz ist für Kelmis geeignet, trägt sich aber nicht von selbst. Die Bodenwerte sind derzeit niedrig. Baugrundstücke kosteten in der Provinz Lüttich 2023 im Mittel 137 €/m²; für Kelmis werden 120 bis 190 €/m² angenommen. Im Wohnungsneubau liegen erzielbare Preise und Baukosten so nah beieinander, dass kaum ein Bodenwert verbleibt. Im Basisszenario decken die Baufelderlöse allein nur rd. 23 % der Kosten der Baulandentwicklung, zusammen mit Fördermitteln und Beiträgen der Eigentümer rd. 59 %. Ein Deckungsgrad von rd. 107 % wird erreicht, wenn die vier in Abschnitt 7.5 beschriebenen Maßnahmen zusammenwirken.
 
-## Wertschöpfungsstufen und Sweet Spot
+Für die eigenen Gebäude des Initiators gilt eine weitere Einschränkung. Ein Technologiezentrum müsste bei der derzeitigen Spitzenrendite für Büros in der Wallonie von 7,6 % eine Monatsmiete von rund 26 €/m² erzielen, um für einen privaten Investor wirtschaftlich zu sein. Marktüblich sind 6,50 bis 18 €/m². Ohne langfristigen Generalmietvertrag der WFG oder der DG und ohne Investitionszuschuss ist ein solches Gebäude nicht an Investoren zu veräußern. Wegen der geringen Marktgröße kommen als Erwerber in erster Linie regionale Bauträger, Projektentwickler aus Aachen und Lüttich, Unternehmen als Eigennutzer und halböffentliche Finanzierer in Betracht. Institutionelle Investoren werden erst für vermietete Bestände ab etwa 15 Mio. € in der zweiten Phase erreichbar sein.
 
-![Abbildung 2: Wertschöpfungsstufen der Baulandentwicklung und Sweet Spot (illustrativer Index; typische Bandbreiten, im Projekt zu kalibrieren)](grafiken/02_wertschoepfung_sweetspot.png){16}
+## Wertentwicklung und Vermarktungszeitpunkt
 
-Der Bodenwert steigt in Stufen: Mit jedem Schritt fällt ein Risiko weg, und die Erwerber preisen das ein. Der **Sweet Spot** liegt zwischen „Erschließung im Bau + Bodenattest“ und „Leuchtturm in Betrieb + Ankermieter“. Dort treffen drei Bedingungen zusammen:
+![Wertentwicklung der Grundstücke nach Entwicklungsstufen (Index, schematisch)](grafiken/02_wertschoepfung_sweetspot.png){15}
 
-- Die Wertsprünge aus Baurecht und Erschließung sind realisiert, und das Restrisiko ist für regionale Entwickler tragbar.
-- Die Kapitalbindung des Initiators ist noch begrenzt. Erschließung und Vergabe laufen parallel, Erlöse fließen schon während des Infrastrukturbaus zurück.
-- Erste Markt-Evidenz liegt vor (Belegung des EMRIQ-Hauses, Absichtserklärungen, Warteliste). Damit lassen sich höhere Preise begründen.
+Quelle: eigene Darstellung; Indexwerte sind typische Größenordnungen und im Projekt zu kalibrieren
 
-Wer **vor dem Baurecht** verkauft, verschenkt den Planungswert. Wer **zu spät** verkauft, bindet Kapital und verpasst Zeitfenster wie das Einstein-Teleskop. Deshalb: **in Tranchen vergeben und eine Wertreserve halten.** Je Nutzung liegt der Sweet Spot unterschiedlich:
+Der Grundstückswert steigt mit jeder Entwicklungsstufe, weil jeweils ein Risiko entfällt. Der günstigste Zeitpunkt für die Vergabe der Baufelder („Sweet Spot“) liegt zwischen dem Beginn der Erschließung und der Inbetriebnahme des ersten Gebäudes. Zu diesem Zeitpunkt ist der Wertzuwachs aus Baurecht und Erschließung bereits eingetreten, das verbleibende Risiko ist für regionale Bauträger tragbar, und der Kapitaleinsatz des Initiators ist noch begrenzt, weil Erschließung und Vergabe parallel laufen. Mit der Belegung des EMRIQ-Hauses liegen zudem erste Marktdaten vor, die höhere Preise begründen.
 
-- **Wohnen** nach Planungsrecht und Erschließungsbeginn an Bauträger
-- **Gewerbe und Labor** an Eigennutzer, sobald das EMRIQ-Haus belegt ist
-- **Institutionelle Pakete** erst nach Stabilisierung
+Wird zu früh verkauft, verbleibt die Wertsteigerung aus der Planung bei den Erwerbern. Wird zu spät verkauft, bleibt Kapital über Jahre gebunden. Die Baufelder sollten daher in Tranchen vergeben werden; ein Teil der Flächen wird als Reserve zurückgehalten. Wohnbaufelder eignen sich für die Vergabe nach Baurecht und Beginn der Erschließung, Gewerbe- und Laborflächen für die Vergabe an Eigennutzer, sobald das EMRIQ-Haus belegt ist. Größere Pakete für institutionelle Investoren kommen erst nach Fertigstellung und Vermietung in Frage.
 
-## Baufeldstrategie, Vergabeformen und Tranchen
+## Baufeldstrategie und Vergabeformen
 
+Tab: Baufeldtypen und Vergabeformen
 | Baufeldtyp | Lage | Vergabeform | Begründung |
 |---|---|---|---|
-| **W – Wohnbaufelder (Eigentum)** | Süd | Verkauf an Bauträger über Konzeptvergabe (Preis 50 % / Qualität 50 %) | Eigennutzer zahlen 3 % Registrierungsgebühr; Erbpacht ist bei Wohnungen schwer vermittelbar |
-| **R – Mietwohnungen / ÖWOB** | Süd | Erbpacht mit jährlichem Kanon (≈ 3–3,5 % des Bodenwerts, indexiert) | langfristige Einnahmen, erschwinglicher Wohnraum |
-| **M – Mischbaufelder** | Front Lütticher Straße | kapitalisierte Erbpacht oder Verkauf | Adresse, aktive Erdgeschosse |
-| **I – Innovations- und Gewerbebaufelder** | Nord / Busbetriebshof-Areal (SPI-Perimeter) | **Erbpacht 50–99 Jahre mit kapitalisiertem Kanon** (85–95 % des Werts vorab) | Liquidität wie beim Verkauf, Steuerung über Heimfall, 5 % statt 12,5 % Registrierungsgebühr |
-| **L – Leuchtturmbaufelder** | am Museum, Süd | Erbbaurecht zugunsten der Projektgesellschaft (AGR/WFG) | trennt Boden- und Gebäudefinanzierung, späterer Verkauf möglich |
-| **O – Optionsflächen** | Randlagen Phase 3 | halten, Zwischennutzung | Realoption Einstein-Teleskop, Wertreserve |
+| Wohnungseigentum | Süd | Verkauf an Bauträger über Konzeptvergabe (Preis und Qualität je zur Hälfte) | geringe Registrierungsgebühren für Eigennutzer (3 %); Erbpacht bei Eigentumswohnungen schwer vermittelbar |
+| Mietwohnungen, öffentlicher Wohnungsbau | Süd | Erbpacht mit jährlichem Kanon (rd. 3–3,5 % des Bodenwerts, indexiert) | laufende Einnahmen, dauerhaft erschwinglicher Wohnraum |
+| Gemischte Nutzung | Lütticher Straße | kapitalisierte Erbpacht oder Verkauf | Adresse, belebte Erdgeschosse |
+| Innovation und Gewerbe | Nord, Gelände Busbetriebshof | Erbpacht über 50 bis 99 Jahre mit Einmalzahlung (85–95 % des Werts) | Erlös wie beim Verkauf, Steuerung über Heimfall, 5 % statt 12,5 % Registrierungsgebühr |
+| Gebäude des Initiators | am Museum, Süd | Erbbaurecht für die Projektgesellschaft (AGR, WFG) | Trennung von Boden und Gebäude, späterer Verkauf möglich |
+| Reserveflächen | Randbereiche Phase 3 | halten, zwischennutzen | Option für das Einstein-Teleskop |
 
-| Tranche | Auslöser (Zeitpunkt) | Anteil Baufelder | Preislogik |
+Quelle: eigene Darstellung nach Teilbericht 06b
+
+Tab: Vergabe in Tranchen
+| Tranche | Zeitpunkt | Anteil der Baufelder | Preisbildung |
 |---|---|---|---|
-| **T1 „Marktöffner“** | Baurecht rechtskräftig, Erschließung beginnt (≈ 2029) | 25–30 % | moderater Einstiegspreis, mindestens Verkehrswert, strenge Bauverpflichtung |
-| **T2 „Wertabschöpfung“** | Erschließung fertig, EMRIQ-Haus in Betrieb (≈ 2031–2033) | 35–40 % | Marktpreis + Lagezuschlag, Konzeptvergabe |
-| **T3 „Premium & Reserve“** | Quartier etabliert, Entscheidung zum Einstein-Teleskop (≈ 2034+) | 15–25 % + Optionsflächen | höchster Wert; Erbpacht oder Verkauf je nach Nachfrage |
+| 1 | Baurecht rechtskräftig, Beginn der Erschließung (etwa 2029) | 25–30 % | mindestens Verkehrswert, strenge Bauverpflichtung |
+| 2 | Erschließung fertig, EMRIQ-Haus in Betrieb (etwa 2031–2033) | 35–40 % | Marktpreis mit Lagezuschlag, Konzeptvergabe |
+| 3 | Quartier etabliert, Entscheidung zum Einstein-Teleskop (ab etwa 2034) | 15–25 % sowie Reserveflächen | höchster Wert; Erbpacht oder Verkauf nach Nachfrage |
 
-**Klauselset** (Standard in allen Verträgen):
+Quelle: eigene Darstellung
 
-- Bauverpflichtung von 2–3 Jahren, Aufnahme der Tätigkeit innerhalb von 5 Jahren, Wiederkaufsrecht bzw. Heimfall
-- Mehrerlösklausel über 10–15 Jahre
-- Branchenfokus über die Positiv-/Negativliste, Zustimmungsvorbehalt bei Weitergabe
-- Bodenklausel: Status in der Bodenstandsbank (BDES) und Kostenzuordnung
-- Energie- und Mobilitätsauflagen, Belegungsrechte für Ankerunternehmen und erschwinglichen Wohnraum
-- Im geförderten Gewerbeperimeter gilt: Abgabe mindestens zu Verkehrswert und Kosten (Dekret 2017). **Die Förderung senkt die Erschließungskosten, nicht den Grundstückspreis.** Gründerrabatte laufen über die Mieten im EMRIQ-Haus.
+Seit Inkrafttreten von Buch 3 des belgischen Zivilgesetzbuchs am 1. September 2021 kann die Erbpacht für 15 bis 99 Jahre vereinbart werden. Der Kanon ist kein zwingendes Merkmal mehr und kann zu Beginn in einer Summe gezahlt werden. Die Registrierungsgebühr beträgt seit 2024 5 % gegenüber 12,5 % beim Kauf. Die kapitalisierte Erbpacht verbindet damit den frühen Erlös eines Verkaufs mit den Steuerungsmöglichkeiten einer Erbpacht. Die SPI vergibt neue Gewerbeflächen seit 2017 ausschließlich in Erbpacht.
 
-| Instrument | Vorteil | Nachteil | Einsatz im EMRIQ |
-|---|---|---|---|
-| **Verkauf** | sofortige Liquidität, für Bauträger und Banken am einfachsten | Steuerung nur über Klauseln; 12,5 % Registrierungsgebühr (3 % beim eigenen, einzigen Wohnhaus) | Wohnbaufelder |
-| **Erbpacht mit jährlichem Kanon** | Boden bleibt öffentlich, laufende Einnahmen | wenig Anfangsliquidität, Bankfinanzierung aufwendiger | Mietwohnungen, ÖWOB |
-| **Kapitalisierte Erbpacht** (seit Buch 3 ZGB zulässig, Laufzeit 15–99 Jahre) | Liquidität wie beim Verkauf, Steuerung wie bei der Erbpacht, nur 5 % Registrierungsgebühr | Abschlag gegenüber Volleigentum | Gewerbe, Labor, Mischbaufelder, Pakete |
-| **Joint Venture / Sacheinlage Boden** | Teilhabe an der Entwicklungsmarge | Komplexität, Beihilfe- und Vergaberecht | Phase 2/3 (Busbetriebshof-Areal) |
+In allen Verträgen sollten folgende Regelungen enthalten sein: eine Bauverpflichtung von zwei bis drei Jahren, die Aufnahme der Tätigkeit innerhalb von fünf Jahren, ein Wiederkaufsrecht oder Heimfall, eine Mehrerlösklausel für zehn bis fünfzehn Jahre, die Bindung an das Themenprofil mit Zustimmungsvorbehalt bei Weitergabe, eine Regelung zum Bodenzustand sowie Vorgaben zu Energie und Mobilität. Im geförderten Gewerbegebiet müssen die Flächen nach dem Dekret von 2017 mindestens zum Verkehrswert und zu den Kosten des Betreibers abgegeben werden. Die Förderung senkt also die Erschließungskosten, nicht den Grundstückspreis. Vergünstigungen für Gründer sollten deshalb über die Mieten im EMRIQ-Haus gewährt werden.
 
-**Perimeter teilen:**
-- **Gewerbeteil:** wird als Gewerbegebiet nach dem wallonischen Dekret 2017 über die SPI entwickelt (Kategorien „durable“, „spécialisé“, ggf. Sanierungsgebiet). Die Erschließungsförderung beträgt 65 % plus bis zu 20 Prozentpunkte.
-- **Wohnteil:** finanziert sich über Baufelderlöse und städtebauliche Lasten.
-- **Gemeinsam:** Orientierungsschema, Gestaltungsleitfaden und Erschließungsträgerschaft (Vertrag AGR–SPI).
+Für den gewerblichen Teil wird empfohlen, ein Gewerbegebiet nach dem wallonischen Dekret über die Gewerbegebiete von 2017 mit der SPI als Betreiberin auszuweisen. In Frage kommen die Kategorien „durable“ (kleinere Gebiete im Siedlungsraum) und „spécialisé“ sowie gegebenenfalls ein Sanierungsgebiet. Die Erschließung wird dort mit 65 % zuzüglich bis zu 20 Prozentpunkten gefördert. Der Wohnteil ist nicht förderfähig und finanziert sich über Baufelderlöse und städtebauliche Lasten. Orientierungsschema, Gestaltungsleitfaden und Erschließung werden gemeinsam geplant; die Zusammenarbeit zwischen AGR und SPI wird vertraglich geregelt.
 
 ## Refinanzierung der Baulandentwicklung
 
-Das **Baulandentwicklungskonto** fasst alle Kosten bis zum vergabefähigen Baufeld zusammen:
+Die Kosten der Baulandentwicklung umfassen alle Aufwendungen bis zum vergabefähigen Baufeld: Grunderwerb und Bodenordnung, Verlagerung des Busbetriebshofs, Abriss und Altlastensanierung, Erschließung und öffentlichen Raum, Planung und Verfahren sowie Vermarktung und Finanzierung. Dem stehen Erlöse aus Verkauf und kapitalisierter Erbpacht, Fördermittel für Erschließung und Sanierung sowie Beiträge privater Eigentümer gegenüber. Letztere können über städtebauliche Lasten oder städtebauliche Verträge vereinbart werden, da es in der DG kein Instrument zur Abschöpfung von Planungsgewinnen gibt. Hochbauten sind in dieser Rechnung nicht enthalten.
 
-- Grunderwerb und Bodenordnung
-- Verlagerung des Busbetriebshofs
-- Abriss und Altlasten
-- Erschließung und öffentlicher Raum
-- Planung und Verfahren
-- Vermarktung und Finanzierung
-
-Ihnen stehen Baufelderlöse (Verkauf und kapitalisierte Erbpacht), Fördermittel für Erschließung und Sanierung sowie Beiträge privater Eigentümer gegenüber. Die Beiträge entstehen über städtebauliche Lasten bzw. einen städtebaulichen Vertrag, denn ein Instrument zur Abschöpfung von Planungsmehrwert gibt es in der DG nicht. Hochbauten sind nicht enthalten.
-
-| Annahmen und Ergebnis (Musterrechnung) | Konservativ | Basis | Zielbild (vier Hebel) |
+Tab: Musterrechnung der Baulandentwicklung nach Szenarien
+| | Konservativ | Basis | Zielbild |
 |---|---|---|---|
 | Entwicklungsfläche brutto / Nettobauland | 8,0 / 6,0 ha | 8,0 / 6,0 ha | 8,0 / 6,0 ha |
-| GFZ netto · BGF gesamt | 0,75 · 45.000 m² | 1,0 · 60.000 m² | 1,25 · 75.000 m² |
+| Geschossflächenzahl netto | 0,75 | 1,0 | 1,25 |
+| Bruttogrundfläche gesamt | 45.000 m² | 60.000 m² | 75.000 m² |
 | Grundstückswertanteil Wohnen (€/m² BGF) | 60 | 110 | 180 |
-| Grundstückswertanteil Gewerbe/Labor (€/m² BGF) | 30 | 55 | 80 |
-| Förderquote Erschließung + Altlasten | 40 % | 50 % | 70 % (SPI-Perimeter) |
-| Grunderwerb · Erschließung & öffentlicher Raum | 4,0 · 10,0 Mio. € | 4,0 · 10,0 Mio. € | 2,5 · 8,5 Mio. € |
+| Grundstückswertanteil Gewerbe, Labor (€/m² BGF) | 30 | 55 | 80 |
+| Förderquote Erschließung und Altlasten | 40 % | 50 % | 70 % |
+| Grunderwerb | 4,0 Mio. € | 4,0 Mio. € | 2,5 Mio. € |
+| Erschließung und öffentlicher Raum | 10,0 Mio. € | 10,0 Mio. € | 8,5 Mio. € |
 | **Kosten Baulandentwicklung** | **22,3 Mio. €** | **22,3 Mio. €** | **19,3 Mio. €** |
-| Baufelderlöse | 2,1 Mio. € | 5,1 Mio. € | 10,1 Mio. € |
+| Erlöse Baufelder | 2,1 Mio. € | 5,1 Mio. € | 10,1 Mio. € |
 | Fördermittel | 5,2 Mio. € | 6,5 Mio. € | 8,1 Mio. € |
-| Beiträge privater Eigentümer / städtebauliche Lasten | 0,5 Mio. € | 1,5 Mio. € | 2,5 Mio. € |
+| Beiträge Eigentümer, städtebauliche Lasten | 0,5 Mio. € | 1,5 Mio. € | 2,5 Mio. € |
 | **Saldo** | **−14,5 Mio. €** | **−9,2 Mio. €** | **+1,4 Mio. €** |
 | **Deckungsgrad** | **35 %** | **59 %** | **107 %** |
-| Spitzenkapitalbedarf (Jahr) | −15,0 Mio. € (2033) | −10,8 Mio. € (2031) | −5,4 Mio. € (2031) |
+| Maximaler Kapitalbedarf (Jahr) | 15,0 Mio. € (2033) | 10,8 Mio. € (2031) | 5,4 Mio. € (2031) |
 
-![Abbildung 3: Refinanzierung der Baulandentwicklung nach Szenarien (Musterrechnung, nominal)](grafiken/03_refinanzierung_szenarien.png){16}
+Quelle: eigene Musterrechnung; weitere Kostenpositionen: Verlagerung Busbetriebshof 2,5 Mio. €, Abriss und Altlasten 3,0 Mio. €, Planung 1,3 Mio. €, Vermarktung und Finanzierung 1,5 Mio. €
 
-![Abbildung 4: Brückenrechnung vom Basisszenario zum Zielbild – vier Hebel zur Vollrefinanzierung (Mio. €)](grafiken/06_bruecke_refinanzierung.png){16}
+![Refinanzierung der Baulandentwicklung nach Szenarien](grafiken/03_refinanzierung_szenarien.png){15}
 
-:::box Die vier Hebel zur Vollrefinanzierung
-1. **Bodenwert und Dichte (+5,0 Mio. €).** Leuchtturm, Adresse, Mobilitäts- und Energieprodukt heben den Grundstückswertanteil. Stapelung und Topografie erhöhen die GFZ von 1,0 auf 1,25.
-2. **Förderung des Gewerbeteils über die SPI (+1,6 Mio. €).** Die Erschließung des Innovations- und Gewerbeteils wird als „parc durable/spécialisé“ mit 65–85 % gefördert; die Gesamtquote steigt von 50 % auf 70 %. Voraussetzung: Die SPI wird Operatorin, die AGR Partnerin.
-3. **Kooperative Baulandentwicklung (+2,5 Mio. €).** Eigentümer wie Baustoffhandel oder Tankstellenfläche erhalten Baurecht gegen Flächenabtretung und Kostenbeteiligung. Das spart Grunderwerb und erhöht die Beiträge. Instrumente sind städtebauliche Lasten bzw. ein städtebaulicher Vertrag, ein Vorkaufsrecht für Schlüsselparzellen und der Ankauf zum Wert „Brache minus Sanierung“.
-4. **Schlanke Erschließung (+1,5 Mio. €).** Die Lütticher Straße wird als Hauptadresse genutzt, die „2. Reihe“ minimal dimensioniert, die Retention ins Grün gelegt und die Stellplätze in einer Quartiersgarage gebündelt.
+Quelle: eigene Musterrechnung (nominal, ohne Mehrwertsteuer)
 
-**Nicht eingerechnete Upsides** (zu prüfen):
-- 6 % MwSt. statt 21 % bei Abriss und Wiederaufbau von Wohnungen (seit 01.07.2025 dauerhaft, bis 175 m², auch bei Bauträgerverkauf). Auf Brownfield-Baufeldern könnte das den Residualwert Wohnen um eine Größenordnung von 200–300 €/m² BGF heben.
-- Der Zuschlag für das Einstein-Teleskop.
-- 50 % Förderung des Grunderwerbs in Wohn- oder Sanierungsgebieten nach dem Dekret 2017.
-:::
+Der Unterschied zwischen Basisszenario und Zielbild ergibt sich aus vier Maßnahmen, deren Wirkung die folgende Abbildung zeigt.
 
-![Abbildung 5: Kumulierter Cashflow des Baulandentwicklungskontos – Dimensionierung eines revolvierenden Bodenfonds (Musterrechnung, nominal, ohne Zinsen)](grafiken/04_cashflow_bodenfonds.png){16}
+![Überleitung vom Basisszenario zum Zielbild (Mio. €)](grafiken/06_bruecke_refinanzierung.png){15}
 
-**Lesart.**
+Quelle: eigene Musterrechnung
 
-- **Bodenfonds dimensionieren.** Im Basisszenario braucht der Bodenfonds eine Kapazität von ≈ 11 Mio. € (Spitze 2031). Im Zielbild halbiert sich der Bedarf auf ≈ 5–6 Mio. €, und der Fonds wird ab ≈ 2035 wieder positiv.
-- **Restlücke einordnen.** Die verbleibende Lücke im Basisszenario ist als Wirtschaftsförderung begründbar, denn klassische Gewerbegebiete werden weit überwiegend öffentlich finanziert.
-- **Ziel des Konzepts** ist es, die vier Hebel verbindlich zu machen.
+Den größten Beitrag (rd. 5,0 Mio. €) leisten höhere Bodenwerte und eine höhere Dichte. Pilotgebäude, Adresse, Mobilitäts- und Energieangebot steigern die Grundstückswerte, und durch Stapelung von Nutzungen und Ausnutzung der Topografie steigt die Geschossflächenzahl von 1,0 auf 1,25. Die Förderung des gewerblichen Teils über die SPI erhöht die gesamte Förderquote von 50 auf 70 % und bringt rd. 1,6 Mio. €. Eine kooperative Baulandentwicklung mit den Eigentümern, etwa des Baustoffhandels oder der ehemaligen Tankstelle, verringert den Grunderwerb und erhöht die Beiträge der Eigentümer um zusammen rd. 2,5 Mio. €. Die Eigentümer erhalten dabei Baurecht und treten im Gegenzug Flächen ab oder beteiligen sich an den Kosten. Schließlich spart eine sparsame Erschließung rd. 1,5 Mio. €, wenn die Lütticher Straße als Hauptadresse genutzt, die rückwärtige Erschließung knapp bemessen und das Regenwasser in Grünflächen zurückgehalten wird.
 
-## Skin in the Game – Leuchtturm-Hochbauten des Initiators
+Nicht eingerechnet sind weitere Möglichkeiten, die noch zu prüfen sind. Für Abriss und Wiederaufbau von Wohngebäuden gilt seit dem 1. Juli 2025 dauerhaft ein ermäßigter Mehrwertsteuersatz von 6 % für Wohnungen bis 175 m², auch beim Verkauf durch Bauträger. Auf den bebauten Flächen im Süden könnte dies den Grundstückswertanteil für Wohnen um 200 bis 300 €/m² Bruttogrundfläche erhöhen. Das Dekret von 2017 sieht außerdem in Wohn- und Sanierungsgebieten eine Förderung des Grunderwerbs von 50 % vor.
 
-In der Ramp-up-Phase muss der Initiator selbst bauen. Investoren folgen dem Beweis, nicht der Ankündigung. Ein eigener Leuchtturm wirkt fünffach:
+![Kumulierter Kapitalbedarf der Baulandentwicklung](grafiken/04_cashflow_bodenfonds.png){15}
 
-1. **Beweis der Nachfrage.** Mieten, Belegung und Wartelisten werden zur Markt-Evidenz für die Baufeldpreise der Tranchen T2 und T3.
-2. **Adresse vor dem Markt.** Das Quartier ist sichtbar, bevor Dritte investieren.
-3. **Qualitäts- und ESG-Benchmark.** Holz-Hybridbau, Energiestandard und Gestaltung setzen den Maßstab für die Konzeptvergaben.
-4. **Signal.** Öffentliches Kapital im Risiko senkt die Risikoprämie privater Erwerber.
-5. **Werkzeug für Value Capture.** Hebel 1 der Brückenrechnung (+5,0 Mio. €) entsteht im Wesentlichen durch den Leuchtturm-Effekt.
+Quelle: eigene Musterrechnung (nominal, ohne Zinsen)
 
-| Leuchtturm | Investition (Annahme) | Finanzierung | Exit / Recycling |
+Der Verlauf des Kapitalbedarfs bestimmt die Ausstattung des Bodenfonds. Im Basisszenario wird der höchste Bedarf 2031 mit rd. 11 Mio. € erreicht, im Zielbild mit rd. 5 bis 6 Mio. €. Im Zielbild ist der Fonds ab etwa 2035 wieder ausgeglichen. Die im Basisszenario verbleibende Lücke ist als Wirtschaftsförderung zu verstehen; klassische Gewerbegebiete werden in der Wallonie weit überwiegend aus öffentlichen Mitteln finanziert.
+
+## Eigene Hochbauten des Initiators
+
+In der Anlaufphase sollte der Initiator selbst bauen. Investoren und Bauträger entscheiden auf Grundlage nachgewiesener Nachfrage, und ein eigenes Gebäude liefert diesen Nachweis über Mieten, Belegung und Wartelisten. Es macht das Quartier sichtbar, bevor Dritte investieren, und setzt einen Maßstab für Gestaltung, Bauweise und Energiestandard, an dem sich spätere Konzeptvergaben orientieren. Zugleich zeigt der Einsatz öffentlichen Kapitals, dass der Initiator Risiken mitträgt („Skin in the Game“). Das senkt die Risikoaufschläge privater Erwerber. Der Wertzuwachs der Grundstücke, den die Pilotgebäude auslösen, fließt über die zweite und dritte Tranche an den Initiator zurück.
+
+Tab: Eigene Gebäude des Initiators in der Anlaufphase
+| Gebäude | Investition (Annahme) | Finanzierung | Verwertung |
 |---|---|---|---|
-| **L0 Pre-Quartier** (Pop-up-Labor und Co-Working im Bestand, 2027) | 0,3–0,8 Mio. € | DG, Interreg-Pilot, AGR | Zwischennutzung, geht im EMRIQ-Haus auf |
-| **L1 EMRIQ-Haus / Precision Lab** (4.000–5.000 m² BGF) | 13–16,5 Mio. € | EFRE/DG-Zuschuss, Trägerdarlehen; Betrieb WFG; Fördersatz Gründerzentrum nach Dekret 2017 (80 %, gedeckelt) prüfen | nach Stabilisierung Sale-and-Leaseback bzw. Forward-Deal **mit 15–20-jährigem Generalmietvertrag WFG/DG** („Staatsanleihe-Profil“). Recycling nur teilweise; der Zuschuss ist Wirtschaftsförderung |
-| **L2 Amikejo Boarding Modul 1** (≈ 40–60 Apartments, Holzmodulbau) | 5–8 Mio. € | Bodenfonds/AGR + Bankdarlehen; Betreibervertrag (AGR betreibt bereits ein Hotel) | **Build–Stabilize–Sell** nach 2–3 Jahren an einen spezialisierten Investor; Recycling ≈ 70–90 % des Kapitals (Annahme) |
-| **L3 Mobilitätshub / Quartiersgarage** (modular) | 3–6,5 Mio. € | DG/Wallonie Mobilität, Stellplatzablösen | Betrieb über Mobilitätsabo; Erweiterung nach Bedarf |
+| Zwischennutzung im Bestand (Co-Working, Werkstattlabor, ab 2027) | 0,3–0,8 Mio. € | DG, Interreg, AGR | geht im EMRIQ-Haus auf |
+| EMRIQ-Haus (4.000–5.000 m² BGF) | 13–16,5 Mio. € | EFRE- und DG-Zuschuss, Darlehen; Betrieb durch die WFG; Förderung als Gründerzentrum nach Dekret 2017 prüfen | nach Vermietung Verkauf mit 15- bis 20-jährigem Generalmietvertrag der WFG bzw. DG; Rückfluss nur teilweise, der Zuschuss bleibt Wirtschaftsförderung |
+| Wohnmodul für Forschende und Gründer (40–60 Apartments, Holzmodulbau) | 5–8 Mio. € | Bodenfonds, AGR, Bankdarlehen; Betreibervertrag (die AGR betreibt bereits ein Hotel) | Verkauf an einen Investor nach zwei bis drei Jahren Vermietung; Rückfluss rd. 70–90 % des eingesetzten Kapitals (Annahme) |
+| Mobilitätsknoten, Quartiersgarage (modular) | 3–6,5 Mio. € | DG, Wallonie (Mobilität), Stellplatzablösen | Betrieb über Mobilitätsabonnement, Erweiterung nach Bedarf |
 
-**Grundsätze für den Initiator-Hochbau.**
+Quelle: eigene Annahmen nach Teilberichten 04 und 06a
 
-- **So viel wie nötig, so wenig wie möglich.** Der Initiator hält in Phase 1 höchstens 25–30 % der BGF; ab Phase 2 bauen Dritte.
-- **Boden halten, Gebäude finanzieren.** Erbbaurecht für die Projektgesellschaft; der Verkauf des Gebäudes bleibt offen.
-- **Kapital recyceln.** Boarding und Wohnen nach der Stabilisierung verkaufen. Das EMRIQ-Haus über einen Generalmietvertrag zum Core+-Produkt machen.
-- **Professionell bauen.**
-  - Projektsteuerung mit Erfahrung
-  - Generalunternehmer mit Pauschalfestpreis bzw. garantiertem Maximalpreis
-  - serieller Holzbau gegen Zins- und Bauzeitrisiko
-  - Beihilfecheck (AGVO Art. 56)
-- **Mehrwertsteuer beachten.** Verkauft die AGR als mehrwertsteuerpflichtige Bauherrin Neubauten, ist die Struktur vorab steuerlich zu prüfen.
+Für die eigenen Gebäude sollten folgende Grundsätze gelten. Der Initiator errichtet in der ersten Phase höchstens 25 bis 30 % der Bruttogrundfläche selbst; ab der zweiten Phase bauen Dritte. Der Boden bleibt in öffentlicher Hand, die Gebäude werden über ein Erbbaurecht der Projektgesellschaft errichtet, damit ein späterer Verkauf möglich bleibt. Für Planung und Bau sind eine erfahrene Projektsteuerung, Generalunternehmerverträge mit Festpreis oder garantiertem Höchstpreis, serielle Holzbauweise und eine frühzeitige beihilferechtliche Prüfung (AGVO Art. 56) vorzusehen. Verkauft die AGR als mehrwertsteuerpflichtige Bauherrin Neubauten, ist die steuerliche Struktur vorab zu prüfen.
 
-## Marktsignale, Produkte und Investorengruppen
+## Marktumfeld und Investorengruppen
 
-| Marktsignal (2025/2026) | Wert |
+Tab: Marktdaten 2025/2026
+| Kennwert | Wert |
 |---|---|
-| Spitzenrendite Regionalbüros Wallonie (Flandern) | 7,60 % (6,60 %) |
-| Spitzenmiete Büro Lüttich | ≈ 215 €/m²/Jahr (≈ 17,9 €/Monat) |
-| Investmentvolumen Regionalbüros außerhalb Brüssels, H1 2026 | 76,2 Mio. € in 8 Transaktionen – ein dünner Markt |
-| Science Parks Niederlande (Rendite) | 6,8 % (2022) → 7,5 % (2025); Wertverlust nur ≈ 10 % gegenüber ≈ 40 % bei Prime-Büros („sticky tenants“) |
-| Wohnen Belgien (aggressivste Investoren) | ≈ 4,5 %; Kelmis-Neubau mit ≈ 9,5 €/m² Miete erreicht heute nur ≈ 3,3 % Anfangsrendite |
-| Bodenrichtwerte Aachen (Vergleich) | Wohnen ≈ 309–505 €/m², Gewerbe ≈ 66–81 €/m² |
+| Spitzenrendite Büro, Regionalstädte Wallonie (Flandern) | 7,60 % (6,60 %) |
+| Spitzenmiete Büro Lüttich | rd. 215 €/m² im Jahr (rd. 17,90 €/m² im Monat) |
+| Investitionsvolumen Büro außerhalb Brüssels, 1. Halbjahr 2026 | 76,2 Mio. € in 8 Transaktionen |
+| Rendite Science Parks Niederlande | 6,8 % (2022), 7,5 % (2025) |
+| Rendite Wohnen Belgien (Untergrenze der Investorenerwartung) | rd. 4,5 % |
+| Anfangsrendite Mietwohnungsneubau Kelmis (rd. 9,50 €/m², rd. 259.000 € je Wohnung) | rd. 3,3 % |
+| Bodenrichtwerte Aachen (Vergleich) | Wohnen 309–505 €/m², Gewerbe 66–81 €/m² |
 
-| Produkt | Zielgruppe | Ticket (Annahme) | Was die Zielgruppe braucht |
+Quelle: Cushman & Wakefield, BNP Paribas Real Estate, CBRE, a.s.r., BORIS NRW; eigene Berechnung
+
+Tab: Angebotsformen und Zielgruppen
+| Angebot | Zielgruppe | Volumen (Annahme) | Voraussetzungen |
 |---|---|---|---|
-| Wohnbaufelder (10–40 Wohnungen) | regionale Bauträger, Handwerksbetriebe (DG, Lüttich, Aachen) | 1–5 Mio. € | Baurecht, Bodenattest, klare Konzeptvergabe |
-| Gewerbe- und Laborbaufelder für Eigennutzer | Scale-ups aus EMRIQ-Haus, TPH, RWTH; Satelliten | 2–8 Mio. € | kapitalisierte Erbpacht, schnelle Genehmigung, Fördermittelberatung |
-| Mischbaufelder Lütticher Straße | belgische und Aachener Projektentwickler | 5–15 Mio. € | Lagequalität, Nutzungskorridor, Erdgeschosskonzept |
-| EMRIQ-Haus mit Generalmietvertrag (15–20 Jahre) | Noshaq Immo, Belfius, Investoren mit Langfristprofil | 12–18 Mio. € | bonitätsstarker Mieter, Drittverwendungsfähigkeit, ESG-Zertifikat |
-| Wohn- und Boarding-Paket (≥ 55–80 Einheiten) | regulierte Immobiliengesellschaften, FIIS, deutsche Spezialfonds (Forward Funding) | ≥ 15 Mio. € | Betreibervertrag, Vermietungsnachweis, Paketgröße |
-| Energiegemeinschaft | Infrastrukturinvestoren, Bürgergenossenschaft | 1–4 Mio. € | stabile Abnahme, Energy-Sharing-Rahmen |
-| Bodenfonds / Co-Investment-Pool | SPI, Noshaq, Belfius (Green Loan), EIB/InvestEU | 5–10 Mio. € | Geschäftsplan, Boden als Sicherheit, öffentliche Garantie |
+| Wohnbaufelder (10–40 Wohnungen) | regionale Bauträger und Handwerksbetriebe aus der DG, Lüttich und Aachen | 1–5 Mio. € | Baurecht, Bodenattest, klare Konzeptvergabe |
+| Gewerbe- und Laborbaufelder | wachsende Unternehmen aus EMRIQ-Haus, Technologiepark Herzogenrath und RWTH; Niederlassungen | 2–8 Mio. € | kapitalisierte Erbpacht, kurze Genehmigungszeiten |
+| Baufelder mit gemischter Nutzung an der Lütticher Straße | Projektentwickler aus Belgien und Aachen | 5–15 Mio. € | Lagequalität, Nutzungsspielraum, Erdgeschosskonzept |
+| EMRIQ-Haus mit Generalmietvertrag | Noshaq, Belfius und langfristig orientierte Investoren | 12–18 Mio. € | bonitätsstarker Mieter, Nachnutzbarkeit, Nachhaltigkeitszertifikat |
+| Wohnpaket mit Apartments (55–80 Einheiten) | regulierte Immobiliengesellschaften, Fonds; Ankauf vor Fertigstellung | ab 15 Mio. € | Betreibervertrag, Vermietungsnachweis |
+| Energiegemeinschaft | Infrastrukturinvestoren, Bürgergenossenschaft | 1–4 Mio. € | gesicherte Abnahme, Rechtsrahmen für gemeinsame Energienutzung |
+| Bodenfonds | SPI, Noshaq, Belfius, Europäische Investitionsbank | 5–10 Mio. € | Geschäftsplan, Grundstücke als Sicherheit, öffentliche Garantie |
 
-**Benchmarks öffentlicher Master Developer**
+Quelle: eigene Darstellung nach Teilbericht 06a
 
-| Beispiel | Modell | Lehre für das EMRIQ |
+## Vergleichsbeispiele
+
+Tab: Vergleichsbeispiele öffentlicher Flächenentwicklung
+| Beispiel | Modell | Folgerung für Kelmis |
 |---|---|---|
-| RWTH Aachen Campus | Campus-Gesellschaft (95 % RWTH, 5 % Stadt) vergibt Flächen; Investoren bauen die Cluster (z. B. ≈ 63 Mio. € bei > 50 % Vorvermietung) | Der Initiator steuert, private Investoren bauen – ab nachgewiesener Vorvermietung |
-| Brightlands (Limburg) | Campus-Gesellschaften mit Provinz und Pensionsfonds als Gesellschaftern | geduldiges Kapital und ein klares Thema |
-| citydev.brussels | Grundstücke grundsätzlich in Erbpacht; Gewerbeparks und Wohnungen | Erbpacht als Standard ist marktfähig |
-| Tübingen (Konzeptvergabe) | Festpreis, Zuschlag für das beste Konzept | Qualität über Konzept statt Höchstgebot |
-| Technologiepark Herzogenrath | kommunale Gesellschaft; „starten – wachsen – eigene Immobilie“ | Eigennutzer-Baufelder für Absolventen des Gründerzentrums |
-| Avantis (Aachen/Heerlen) | Betrieb sollte aus Grundstücksverkäufen finanziert werden; Neuausrichtung 2012/13 | **Grundbudget unabhängig von Verkäufen**; Preise unter Aachener Niveau; Thema ohne Exklusivität |
+| RWTH Aachen Campus | Campusgesellschaft (95 % RWTH, 5 % Stadt Aachen) vergibt Flächen; Investoren errichten die Gebäude, z. B. rd. 63 Mio. € bei über 50 % Vorvermietung | private Investoren bauen, sobald Vorvermietung nachgewiesen ist |
+| Brightlands (Limburg) | Campusgesellschaften mit Provinz und Pensionsfonds als Gesellschafter | langfristig orientiertes Kapital und ein klares Thema |
+| citydev.brussels | Grundstücke grundsätzlich in Erbpacht; Gewerbeparks und Wohnungen | Erbpacht als Regelfall ist marktfähig |
+| Tübingen | Konzeptvergabe zum Festpreis | Auswahl nach Qualität statt nach Höchstgebot |
+| Technologiepark Herzogenrath | städtische Gesellschaft mit Sparkasse, IHK und Kerkrade | Grundstücke für Unternehmen, die aus dem Gründerzentrum herauswachsen |
+| Avantis (Aachen/Heerlen) | Betrieb sollte aus Grundstückserlösen finanziert werden; Neuausrichtung 2012/2013 | Grundbudget unabhängig von Verkäufen; Preise unter Aachener Niveau; keine ausschließliche Branchenbindung |
 
-## Investment-Readiness-Checkliste
+Quelle: eigene Darstellung nach Teilbericht 06a
 
-| Kriterium | Was Erwerber prüfen | Was das EMRIQ liefert | bis |
+## Anforderungen an die Investitionsreife
+
+Tab: Anforderungen von Investoren und Beitrag des Konzepts
+| Kriterium | Prüfung durch Investoren | Beitrag des EMRIQ | Zeitpunkt |
 |---|---|---|---|
-| Planungssicherheit | rechtskräftiges Baurecht, Genehmigungsdauer | Orientierungsschema, Verstädterungsgenehmigung, Baufeldpässe, Fast-Lane-Genehmigung | 2028/29 |
-| Bodenrisiko | Altlasten, Galmei, Bergbau, Haftung | BDES-Auszüge, Orientierungsstudien, Sanierung durch den Initiator, Bodenklausel | vor T1 |
-| Erschließung | Termin- und Finanzierungssicherheit | Erschließungsvertrag AGR–SPI, Bauzeitenplan, Fördermittelbescheid | vor T1 |
-| Nachfragebelege | Vorvermietung, Ankermieter | Absichtserklärungen, Belegung EMRIQ-Haus, Warteliste Boarding | laufend |
-| Drittverwendungsfähigkeit | Flexibilität, Exit | Raster, Geschosshöhen, Nutzungskorridore | Strukturplan |
-| Losgrößen | passende Tickets | Baufelder für 1–15 Mio. €, Pakete ab 15 Mio. € | Vermarktungsplan |
-| ESG / EU-Taxonomie | CO₂, Energie, Biodiversität | Holz-Hybridbau, Energiegemeinschaft, Schwammquartier, Zertifizierung | Gestaltungsleitfaden |
-| Governance | verlässlicher Ansprechpartner | Projektallianz bzw. Entwicklungsgesellschaft mit Mandat und Grundbudget | 2027 |
-| Transparenz | Daten, Verträge, Zeitplan | dreisprachiger Datenraum, Investment-Memorandum, Investorentag | 2028 |
+| Planungssicherheit | rechtskräftiges Baurecht, Genehmigungsdauer | Orientierungsschema, Verstädterungsgenehmigung, Baufeldpässe | 2028/2029 |
+| Bodenzustand | Altlasten, Bergbau, Haftung | Auszüge Bodenstandsbank, Orientierungsstudien, Sanierung durch den Initiator | vor Tranche 1 |
+| Erschließung | Termin- und Finanzierungssicherheit | Vertrag AGR–SPI, Bauzeitenplan, Förderbescheid | vor Tranche 1 |
+| Nachfrage | Vorvermietung, Ankermieter | Absichtserklärungen, Belegung EMRIQ-Haus, Wartelisten | laufend |
+| Nachnutzbarkeit | Flexibilität der Gebäude | Raster, Geschosshöhen, Nutzungsspielräume | Strukturplan |
+| Volumen | passende Größenordnung | Baufelder von 1 bis 15 Mio. €, Pakete ab 15 Mio. € | Vermarktungsplan |
+| Nachhaltigkeit | CO₂, Energie, Biodiversität | Holz-Hybridbau, Energiegemeinschaft, Regenwasserrückhalt, Zertifizierung | Gestaltungsleitfaden |
+| Organisation | verlässlicher Ansprechpartner | Projektallianz, später Entwicklungsgesellschaft mit Grundbudget | 2027 |
+| Transparenz | Unterlagen, Verträge, Zeitplan | Datenraum und Investorenexposé in drei Sprachen | 2028 |
 
-## Vehikel und Kapitalkreislauf
+Quelle: eigene Darstellung
 
-![Abbildung 6: Revolvierender Kapitalkreislauf des EMRIQ (Schema)](grafiken/05_kapitalkreislauf.png){15}
+## Trägerstruktur
 
-| Phase | Vehikel | Aufgaben | Kapital |
+![Kapitalkreislauf der Baulandentwicklung](grafiken/05_kapitalkreislauf.png){14}
+
+Quelle: eigene Darstellung
+
+Tab: Trägerstruktur nach Phasen
+| Phase | Träger | Aufgaben | Kapital |
 |---|---|---|---|
-| **A – Start (2027–2029)** | Projektallianz DG + Gemeinde/AGR Kelmis + WFG; **revolvierender Bodenfonds** als Sparte der AGR; Kooperationsvertrag mit der SPI für den Gewerbeperimeter | Flächensicherung (Vorkaufsrecht), Planung, Bodenattest, Fördermittel, Pre-Quartier | Startkapital ≈ 5–6 Mio. € (DG, Boden der Gemeinde als Sacheinlage) und Kreditlinie ≈ 5–6 Mio. € (Belfius/EIB); **Grundbudget der DG für Management** |
-| **B – Umsetzung (2029–2033)** | **Entwicklungsgesellschaft Ostbelgien** (Kelmis + Kaiserbaracke im Portfolio), mit SPI und Co-Investment-Pool (Noshaq, Belfius) | Master Developer: Erschließung, Tranchenvergabe, Leuchttürme, Quartiersmanagement | Erlöse aus T1 und T2 revolvieren; Generalmietvertrag und Forward-Deals für Leuchttürme |
-| **C – Skalierung (ab 2033)** | Joint Venture mit privatem Master-Entwickler für das Busbetriebshof-Areal und Phase 3 | größere Baufelder, Nachfrage durch das Einstein-Teleskop | Sacheinlage Boden gegen Gewinnbeteiligung |
+| Vorbereitung (2027–2029) | Projektallianz aus DG, Gemeinde (AGR Kelmis) und WFG; Bodenfonds als Sparte der AGR; Vertrag mit der SPI für den Gewerbeteil | Flächensicherung (Vorkaufsrecht), Planung, Bodenuntersuchung, Fördermittel, Zwischennutzung | Startkapital rd. 5–6 Mio. € (DG, Grundstücke der Gemeinde als Sacheinlage), Kreditlinie rd. 5–6 Mio. €; Grundbudget der DG für das Management |
+| Umsetzung (2029–2033) | Entwicklungsgesellschaft Ostbelgien mit den Standorten Kelmis und Kaiserbaracke, Beteiligung von SPI und halböffentlichen Finanzierern | Erschließung, Vergabe der Tranchen, eigene Gebäude, Quartiersmanagement | Rückflüsse aus Tranche 1 und 2; Generalmietvertrag und Ankauf vor Fertigstellung für eigene Gebäude |
+| Ausbau (ab 2033) | Gemeinschaftsunternehmen mit einem privaten Entwickler für das Gelände des Busbetriebshofs und die dritte Phase | Entwicklung größerer Baufelder | Grundstücke als Sacheinlage gegen Gewinnbeteiligung |
 
-## Fahrplan zur Kapitalmarktfähigkeit
+Quelle: eigene Darstellung
 
-| Zeitraum | Meilenstein |
+## Zeitplan
+
+Tab: Zeitplan der Vermarktung
+| Zeitraum | Schritte |
 |---|---|
-| Q4 2026 | EMRIQ in das Bid Book des Einstein-Teleskops einbringen; Interreg-Call 8 prüfen; OBL'EU-Ausstellung als Startsignal; BDES-Auszüge aller Parzellen anfordern |
-| 2027 | Entwicklungskonzept, Themenprofil, Strukturplan; Allianzvertrag und Kooperation mit der SPI; Bodenfonds aufsetzen; Flächen sichern; Pre-Quartier eröffnen; Absichtserklärungen der Anker; Verankerung in EFRE 2028–34 |
-| 2028 | Grundsatzbeschluss DG/Gemeinde; Orientierungsschema und Anerkennung des Gewerbeperimeters; Datenraum und Investment-Memorandum (DE/FR/EN); **Investorentag** in Aachen, Lüttich und Brüssel |
-| 2029 | Erschließung Bauabschnitt 1; **Tranche T1** (Konzeptvergaben); Baubeginn EMRIQ-Haus und Boarding-Modul |
+| 4. Quartal 2026 | Einbringen des EMRIQ in die Bewerbung für das Einstein-Teleskop; Prüfung des Interreg-Aufrufs 8; Anfrage der Auszüge aus der Bodenstandsbank für alle Parzellen |
+| 2027 | Entwicklungskonzept, Themenprofil und Strukturplan; Allianzvertrag und Vereinbarung mit der SPI; Einrichtung des Bodenfonds; Flächensicherung; Zwischennutzung; Absichtserklärungen der Ankernutzer; Berücksichtigung in der EFRE-Programmierung 2028–2034 |
+| 2028 | Grundsatzbeschluss von DG und Gemeinde; Orientierungsschema und Anerkennung des Gewerbegebiets; Datenraum und Investorenexposé; Informationsveranstaltung für Investoren in Aachen, Lüttich und Brüssel |
+| 2029 | Erschließung erster Bauabschnitt; Tranche 1; Baubeginn EMRIQ-Haus und Wohnmodul |
 | 2030–2031 | Eröffnung EMRIQ-Haus; Verlagerung Busbetriebshof; Gründung der Entwicklungsgesellschaft |
-| 2031–2033 | **Tranche T2**; Verkauf Boarding-Modul nach Stabilisierung; Refinanzierung des EMRIQ-Hauses über Generalmietvertrag; Bauabschnitt 2 |
-| ab 2034 | **Tranche T3** und Optionsflächen; Joint Venture für die Skalierung; Strategie-Review nach der Entscheidung zum Einstein-Teleskop |
+| 2031–2033 | Tranche 2; Verkauf des Wohnmoduls nach Vermietung; Refinanzierung des EMRIQ-Hauses; zweiter Bauabschnitt |
+| ab 2034 | Tranche 3 und Reserveflächen; Gemeinschaftsunternehmen für den weiteren Ausbau; Überprüfung der Strategie nach der Entscheidung zum Einstein-Teleskop |
+
+Quelle: eigene Darstellung
 
 # Umsetzung, Förderung und Wirtschaftlichkeit
 
-## Rahmenbedingungen der öffentlichen Hand
+## Kommunale Rahmenbedingungen
 
-- **Gemeinde Kelmis.**
-  - Der Haushalt ist strukturell defizitär und steht unter Aufsicht.
-  - Außerordentliche Investitionen sind auf ≈ 1 Mio. € pro Jahr gedeckelt.
-  - **Leitregel: Das EMRIQ muss für die Gemeinde folgekostenneutral sein. Die Gemeinde bringt den Boden ein, die DG trägt den Betrieb.**
-- **Keine Gewerbesteuer.** Unternehmensgewinne fließen an den Föderalstaat. Die Gemeinde verdient über den Zuschlag auf die Immobiliensteuer (Kelmis: 2.600 Zuschlaghundertstel, Stand 2024) und den Zuschlag auf die Personensteuer (7,5 % ab 2026). **Das Wohnen trägt die kommunale Bilanz.**
-- **AGR Kelmis.** Sie betreibt bereits Museum, Galmeibad, Hotel und Sportzentrum. Für die Standortentwicklung braucht sie eine eigene Sparte mit eigener Rechnung, den Bodenfonds.
+Der Haushalt der Gemeinde Kelmis ist strukturell defizitär und steht unter Aufsicht. Außerordentliche Investitionen sind auf rund 1 Mio. € im Jahr begrenzt, bis 2030 kommen übergeordnete Mehrbelastungen von 4,12 Mio. € hinzu. Das EMRIQ muss daher für die Gemeinde folgekostenneutral sein. Es wird vorgeschlagen, dass die Gemeinde ihre Grundstücke einbringt und die DG den Betrieb des Technologiezentrums trägt.
 
-## Förderkulisse
+In Belgien gibt es keine kommunale Gewerbesteuer. Die Gemeinde erzielt Einnahmen über Zuschläge auf die Immobiliensteuer (Kelmis: 2.600 Zuschlaghundertstel, Stand 2024) und auf die Personensteuer (7,5 % ab 2026). Für die Gemeindefinanzen ist der Wohnanteil des Quartiers deshalb von zentraler Bedeutung. Die AGR Kelmis betreibt bereits Museum, Schwimmbad, Hotel und Sportzentrum. Für die Flächenentwicklung sollte sie eine eigene Sparte mit eigener Rechnungslegung einrichten.
 
-| Instrument | Eignung | Zeitfenster |
+## Fördermöglichkeiten
+
+Tab: Fördermöglichkeiten
+| Programm | Einsatz im EMRIQ | Zeitfenster |
 |---|---|---|
-| Interreg VI Maas-Rhein Call 8 (Kreislaufwirtschaft, Innovation rund um das Einstein-Teleskop; bis 60 %) | Pilotbausteine, ET-Gateway, Netzwerk | Frist 16.12.2026 |
-| Interreg STIPP Call 4 (KMU-Innovation; 50 %) | KMU-Kooperationen | Frist 29.10.2026 |
-| EFRE Wallonie/DG 2028–2034 | Hochbau EMRIQ-Haus, Erschließung | Programmierung 2027 beeinflussen |
-| Wallonisches Dekret Gewerbegebiete 2017 (über die SPI als Operatorin) | Erschließung des Gewerbeteils: 65 % + bis zu 20 Prozentpunkte; Gründerzentrum 80 % (gedeckelt); Grunderwerb in Wohn- bzw. Sanierungsgebiet 50 % | Anerkennung des Perimeters 2027/28 |
-| DG-Infrastrukturplan | Erschließung Wohnteil, öffentlicher Raum, Mobilität | Sätze zu verifizieren |
-| ÖWOB (DG-Kapital ≈ 67 Mio. €, Neubau-Schwerpunkt 2027–2032) | erschwinglicher Wohnanteil | passt zeitlich |
-| EDF/EDIP/SAFE, EIC, Horizon Europe | Projektmittel für Mieter (Resilience Sensing Lab) | laufend |
-| Rheinisches Revier | nur über deutsche Partner (z. B. Energiereallabor) | laufend |
+| Interreg VI Maas-Rhein, Aufruf 8 (Kreislaufwirtschaft, Innovation im Umfeld des Einstein-Teleskops; bis 60 %) | Pilotvorhaben, Kontaktstelle Einstein-Teleskop, Netzwerk | Frist 16.12.2026 |
+| Interreg STIPP, Aufruf 4 (Innovation in KMU; 50 %) | Kooperationen kleiner und mittlerer Unternehmen | Frist 29.10.2026 |
+| EFRE Wallonie und DG 2028–2034 | Hochbau EMRIQ-Haus, Erschließung | Programmierung 2027 |
+| Wallonisches Dekret über die Gewerbegebiete 2017 (über die SPI) | Erschließung Gewerbeteil 65 % zuzüglich bis zu 20 Prozentpunkte; Gründerzentrum 80 % (gedeckelt); Grunderwerb in Wohn- und Sanierungsgebieten 50 % | Anerkennung des Gebiets 2027/2028 |
+| Infrastrukturplan der DG | Erschließung Wohnteil, öffentlicher Raum, Mobilität | Fördersätze zu klären |
+| Öffentlicher Wohnungsbau Ostbelgien (ÖWOB) | erschwinglicher Wohnanteil | Neubauschwerpunkt 2027–2032 |
+| EU-Programme für Sicherheit und Forschung (EDF, EDIP, SAFE, EIC, Horizon Europe) | Projektmittel für Mieter | laufend |
+| Strukturwandel Rheinisches Revier | nur über deutsche Partner | laufend |
 
-**Hauptrisiko:** Die Baureife um 2029 fällt in die Lücke zwischen den EU-Förderperioden. Deshalb muss das EMRIQ schon 2027 in der Programmierung 2028–2034 verankert werden.
+Quelle: eigene Zusammenstellung nach Teilberichten 04 und 06b
 
-## Musterrechnung Phase 1
+Die Baureife um 2029 fällt in den Übergang zwischen den EU-Förderperioden 2021–2027 und 2028–2034. Das Vorhaben sollte daher bereits 2027 in der Programmierung der neuen Periode berücksichtigt werden.
 
-| Kosten je Gebäude/Bereich (netto, inkl. Nebenkosten und Reserve) | Mio. € | Kennwert |
+## Kostenschätzung Phase 1
+
+Tab: Kosten je Gebäude und Bereich, Phase 1
+| Gebäude, Bereich | Mio. € netto | Kennwert |
 |---|---|---|
-| G1 EMRIQ-Haus (5.000 m² BGF, inkl. umgelegter Erschließung) | 16,5 | ≈ 3.300 €/m² BGF |
-| G2 Mobilitätshub (200 Stellplätze) | 6,5 | ≈ 32.600 €/Stellplatz |
-| G3 Wohnen (80 Wohnungen, Holz-Hybrid) | 20,7 | ≈ 259.000 €/Wohnung |
-| Allgemeingut (Platz, Grün, Radweg, Mobiliar) | 3,7 | nicht umlegbar |
-| **Summe Phase 1 (oberes Programm)** | **≈ 47,5** | Bandbreite 38–62 |
+| EMRIQ-Haus (5.000 m² BGF, einschließlich anteiliger Erschließung) | 16,5 | rd. 3.300 €/m² BGF |
+| Mobilitätsknoten (200 Stellplätze) | 6,5 | rd. 32.600 € je Stellplatz |
+| Wohnen (80 Wohnungen, Holz-Hybridbau) | 20,7 | rd. 259.000 € je Wohnung |
+| Öffentlicher Raum (Platz, Grün, Radweg, Ausstattung) | 3,7 | nicht umlegbar |
+| **Summe Phase 1 (oberes Programm)** | **47,5** | Spanne 38–62 Mio. € |
 
-*Skaliert auf das mittlere Marktprogramm (≈ 4.000 m² EMRIQ-Haus, 55 Wohnungen, 120 Stellplätze) ergeben sich ≈ 38–40 Mio. €. Mit dem Mobilitätsprodukt aus Hebel 8 sinkt vor allem der Hub-Anteil.*
+Quelle: eigene Musterrechnung, Teilbericht 04; einschließlich Nebenkosten und Reserve, ohne Grunderwerb und Mehrwertsteuer
 
-| Finanzierungsmix Phase 1 (Basis) | Mio. € | Anteil |
+Für das mittlere Programm aus Kapitel 4 (rd. 4.000 m² EMRIQ-Haus, 55 Wohnungen, 120 Stellplätze) ergeben sich rd. 38 bis 40 Mio. €. Ein Mobilitätskonzept mit weniger Stellplätzen senkt vor allem die Kosten des Mobilitätsknotens.
+
+Tab: Finanzierung Phase 1 (Basisszenario)
+| Quelle | Mio. € | Anteil |
 |---|---|---|
-| EU-Strukturfonds / Interreg | 6,1 | 13 % |
-| DG / Wallonie | 13,3 | 28 % |
-| ÖWOB | 6,2 | 13 % |
-| Gemeinde / AGR (Boden als Sacheinlage, bar < 1 Mio. €) | 2,4 | 5 % |
+| EU-Strukturfonds, Interreg | 6,1 | 13 % |
+| DG, Wallonie | 13,3 | 28 % |
+| Öffentlicher Wohnungsbau (ÖWOB) | 6,2 | 13 % |
+| Gemeinde, AGR (Grundstücke als Sacheinlage, Barmittel unter 1 Mio. €) | 2,4 | 5 % |
 | Darlehen des Trägers | 3,5 | 7 % |
-| Privat (Investor in Erbpacht bzw. Käufer der Baufelder) | 16,0 | 34 % |
+| Private Erwerber und Investoren | 16,0 | 34 % |
 
-*Voraussetzung für den privaten Anteil: Vertrieb an Eigennutzer über Bauträger, Kostensenkung durch seriellen Holzbau oder das 6-%-MwSt.-Regime. Bei ≈ 259 T€ je Wohneinheit und ≈ 9,5 €/m² Miete erreicht ein Mietinvestor heute nur ≈ 3,3 % Anfangsrendite; gefordert sind ≥ 4,5 %.*
+Quelle: eigene Musterrechnung, Teilbericht 04
 
-**Betrieb, Folgekosten und Einnahmen.**
+Der private Finanzierungsanteil setzt voraus, dass die Wohnungen über Bauträger an Eigennutzer verkauft werden oder die Baukosten durch serielle Bauweise bzw. den ermäßigten Mehrwertsteuersatz sinken. Ein Investor, der vermietet, erzielt bei rd. 259.000 € je Wohnung und einer Miete von rd. 9,50 €/m² derzeit nur eine Anfangsrendite von rd. 3,3 %; erwartet werden mindestens 4,5 %.
 
-- Das EMRIQ-Haus braucht in der Anlaufphase einen Betriebszuschuss von ≈ 100–205 T€ pro Jahr (DG/WFG). Ab ≈ 85 % Belegung deckt es den Betrieb, nicht aber die Investition. Es ist Wirtschaftsförderinfrastruktur.
-- Die Folgekosten der Gemeinde für die Infrastruktur (≈ 128 T€ pro Jahr) und ihre Einnahmen (≈ 129 T€ pro Jahr aus Immobiliensteuer, Zuschlag auf die Personensteuer der Neubürger und Erbpachtzins) gleichen sich aus.
-- **Ohne Wohnanteil** läge der Saldo bei ≈ −100 T€ pro Jahr.
-- Investition je Arbeitsplatz im EMRIQ-Haus: ≈ 122–137 T€. Bei Fluktuation über 15 Jahre (Gründer ziehen weiter) sind es ≈ 45–55 T€.
+## Folgekosten und Einnahmen der öffentlichen Hand
 
-## Entscheidungspunkte
+Das EMRIQ-Haus benötigt in der Anlaufphase einen Betriebszuschuss von rd. 100.000 bis 205.000 € im Jahr. Bei einer Belegung von etwa 85 % decken die Mieten die Betriebskosten, nicht aber die Investition. Das Gebäude ist daher als Einrichtung der Wirtschaftsförderung zu verstehen. Die jährlichen Folgekosten der Gemeinde für die Infrastruktur betragen rd. 128.000 €, die Einnahmen aus Immobiliensteuer, Personensteuer der neuen Einwohner und Erbpacht rd. 129.000 €. Ohne Wohnanteil ergäbe sich ein jährliches Defizit von rd. 100.000 €. Je Arbeitsplatz im EMRIQ-Haus werden rd. 122.000 bis 137.000 € investiert. Berücksichtigt man, dass Gründer nach einigen Jahren ausziehen und neue Unternehmen nachrücken, sinkt dieser Wert über 15 Jahre auf rd. 45.000 bis 55.000 €.
 
+## Entscheidungsschritte
+
+Tab: Entscheidungsschritte
 | Zeitpunkt | Entscheidung |
 |---|---|
-| Q1 2027 | Festlegung der Ortschaft bzw. des Plangebiets; Allianzvertrag DG/AGR/WFG |
+| 1. Quartal 2027 | Festlegung des Plangebiets; Allianzvertrag DG, AGR, WFG |
 | Mitte 2027 | Themenprofil, Programm Phase 1, Finanzierungs- und Bodenfondsstrategie |
-| Anfang 2028 | Grundsatzbeschluss von Gemeinderat und DG-Regierung; Planungsrecht Süd (Mischgebiet) |
-| 2029 | Baubeschluss EMRIQ-Haus, Hub, Erschließung; Tranche T1 (DG-Wahl 2029 beachten) |
-| 2030–2032 | Eröffnung EMRIQ-Haus; Überführung in die Entwicklungsgesellschaft (Gemeindewahl 10/2030 beachten) |
-| ab 2032 | Go/No-Go Phase 2 bei ≥ 80 % Belegung des EMRIQ-Hauses |
+| Anfang 2028 | Grundsatzbeschluss von Gemeinderat und DG-Regierung; Planungsrecht für den südlichen Teil |
+| 2029 | Baubeschluss EMRIQ-Haus, Mobilitätsknoten und Erschließung; Tranche 1 (Wahl zum Parlament der DG 2029) |
+| 2030–2032 | Eröffnung EMRIQ-Haus; Überführung in die Entwicklungsgesellschaft (Gemeindewahlen Oktober 2030) |
+| ab 2032 | Entscheidung über Phase 2 bei mindestens 80 % Belegung des EMRIQ-Hauses |
+
+Quelle: eigene Darstellung
 
 # Risiken und Erfolgsfaktoren
 
+Tab: Risiken und Gegenmaßnahmen
 | Risiko | Gegenmaßnahme |
 |---|---|
-| Nachfrage: keine Hochschule, kein Innovationsimage | Pre-Quartier ab 2027, Drei-Anker-Strategie, ≥ 40 % Vorvermietung vor Baubeginn, Soft-Landing-Pakete |
-| Bodenwerte steigen nicht wie erwartet (Residualwert Wohnen heute nahe null) | Tranchenvergabe, Wertreserve halten, die vier Hebel verbindlich machen, 6-%-MwSt.-Regime für Abriss und Wiederaufbau prüfen |
-| Kapitalbindung im Bodenfonds | Kreditlinie mit öffentlicher Garantie, Erschließung in Bauabschnitten, Build–Stabilize–Sell bei Boarding |
-| Abhängigkeit vom Einstein-Teleskop | Phase 1 ohne ET tragfähig; Phase 3 als Realoption |
-| Mobilität | Shuttle bzw. On-Demand ab Tag 1, Tarif-Pilot, Radschnellweg-Abzweig |
-| Akzeptanz (Dual-Use, Verdichtung) | zivile Führung, Negativliste, Ethik-Charta, Quartiersbeirat, Community Benefits |
-| Boden, Altlasten, Eigentum | Bodenattest früh, kooperative Baulandentwicklung, AGR als Bodenträger |
-| Förderlücke 2027–2029 | Verankerung in EFRE 2028–34, Interreg-Pilote überbrücken, DG-Zwischenfinanzierung |
-| Politik und Legislatur | Grundsatzbeschluss mit breiter Mehrheit, Trägerstruktur über Legislaturen hinweg, Opposition einbinden |
-| Fokusverlust | ein Thema, ein Betreiber, eine Marke |
+| Geringe Nachfrage (keine Hochschule, kein Innovationsprofil) | Zwischennutzung ab 2027, Ankernutzer, mindestens 40 % Vorvermietung vor Baubeginn, Ansiedlungsservice |
+| Bodenwerte steigen weniger als erwartet | Vergabe in Tranchen, Reserveflächen, Umsetzung der vier Maßnahmen, Prüfung des ermäßigten Mehrwertsteuersatzes |
+| Hohe Kapitalbindung im Bodenfonds | Kreditlinie mit öffentlicher Garantie, Erschließung in Bauabschnitten, Verkauf des Wohnmoduls nach Vermietung |
+| Abhängigkeit vom Einstein-Teleskop | Phase 1 ohne Zuschlag tragfähig; Phase 3 als Option |
+| Unzureichende Anbindung | Shuttle oder Rufbus ab Eröffnung, grenzüberschreitendes Tarifangebot, Anschluss an den Radschnellweg |
+| Akzeptanz (Sicherheitstechnik, Verdichtung) | ziviler Charakter, Ausschlussliste, Quartiersbeirat, Angebote für die Bevölkerung |
+| Boden, Altlasten, Eigentum | frühe Bodenuntersuchung, kooperative Baulandentwicklung, AGR als Grundstücksträgerin |
+| Förderlücke 2027–2029 | Berücksichtigung in der EFRE-Programmierung, Interreg-Vorhaben, Zwischenfinanzierung der DG |
+| Politische Veränderungen | Grundsatzbeschluss mit breiter Mehrheit, dauerhafte Trägerstruktur, frühe Einbindung der Opposition |
+| Fehlende Fokussierung | ein Thema, ein Betreiber, ein gemeinsamer Auftritt |
 
-**Erfolgsfaktoren:**
+Quelle: eigene Darstellung
 
-- ein klares Thema
-- ein professioneller Master Developer mit Mandat und Kapital
-- Ankermieter vor dem ersten Spatenstich
-- Erreichbarkeit
-- Wohnen ab Tag 1
-- Baufelder im Sweet Spot statt Abverkauf
-- eine Geschichte, die man in drei Sprachen erzählen kann
+Für den Erfolg des Quartiers sind ein klares Thema, ein handlungsfähiger Träger mit Mandat und Kapital, Ankernutzer vor Baubeginn, eine gute Erreichbarkeit und ein Wohnangebot von Beginn an entscheidend. Die Baufelder sollten schrittweise vergeben werden und nicht in einem Zug. Schließlich braucht der Standort eine Darstellung, die in allen drei Sprachen verständlich ist.
 
-# Offene Punkte und Verifizierung
+# Offene Fragen und weiterer Untersuchungsbedarf
 
-- **Statistik:** Statbel 2025/2026 zu Einwohnern, Nationalitäten und Einkommen in Kelmis; Pendlermatrix auf Gemeindeebene.
-- **Bodenwerte:** Statbel-Baugrundpreise je Gemeinde (Kelmis und Umland), Notarauswertung, Neubaupreise Eupen/Kelmis, SPI-Kanontarif. Damit werden die Grundstückswertanteile der Musterrechnung kalibriert.
-- **Förderquoten:** Höhe der Aufschläge je Kategorie nach dem Dekret 2017 („durable“, „spécialisé“, Sanierungsgebiet); Bestätigung der wallonischen Zuständigkeit für Gewerbegebiete im DG-Gebiet; Sätze des DG-Infrastrukturplans.
-- **Recht und Steuern:**
-  - Verabschiedung und Inhalt der GRE-Reform (Dok. 146) mit Orientierungsschema, städtebaulichen Lasten und Vorkaufsrecht
-  - Anwendbarkeit des 6-%-MwSt.-Regimes auf Brownfield-Baufelder
-  - Mehrwertsteuer-Struktur bei Bauträgertätigkeit der AGR
-- **Eigentum und Bestand:**
-  - Eigentum der Teilflächen
-  - Konzession und Ersatzstandort des Busbetriebshofs
-  - Einträge in der Bodenstandsbank, Bergbaukenntnisse der Gemeinde
-- **Mobilität:** Takt RE29 und Linie 24 im Jahr 2026; Geltung von Deutschland- und Semesterticket auf dem belgischen Abschnitt.
-- **Einstein-Teleskop:** Stand des Bid Books (Redaktionsschluss 12/2026).
-- **Partner:** Interesse der genannten Ankermieter und Partner. Alle Nennungen sind Ansprachehypothesen.
+Im weiteren Verfahren sind insbesondere folgende Punkte zu klären:
 
-**Quellen und Teilberichte.** Die Belege mit URL stehen in den Teilberichten des Projekt-Repositorys:
+- Statistik: aktuelle Einwohner-, Staatsangehörigkeits- und Einkommensdaten für Kelmis sowie Pendlerverflechtungen auf Gemeindeebene
+- Bodenwerte: Baugrundpreise je Gemeinde (Statbel, Notare), Neubaupreise in Eupen und Kelmis, Erbpachttarife der SPI
+- Förderung: Höhe der Zuschläge nach dem Dekret von 2017 je Kategorie, Bestätigung der wallonischen Zuständigkeit für Gewerbegebiete auf dem Gebiet der DG, Fördersätze des Infrastrukturplans der DG
+- Recht und Steuern: Stand der Reform des Gesetzbuchs über die räumliche Entwicklung, Anwendbarkeit des ermäßigten Mehrwertsteuersatzes auf die bebauten Flächen, steuerliche Struktur einer Bauträgertätigkeit der AGR
+- Eigentum und Bestand: Eigentumsverhältnisse, Konzession und Ersatzstandort des Busbetriebshofs, Einträge in der Bodenstandsbank, Kenntnisse der Gemeinde zum Altbergbau
+- Mobilität: Taktung der Bahnverbindung und der Buslinie 24, Geltung von Deutschlandticket und Semesterticket auf belgischer Seite
+- Einstein-Teleskop: Stand der Bewerbungsunterlagen und Möglichkeiten, das EMRIQ einzubringen
+- Partner: Interesse der genannten Unternehmen und Einrichtungen; die Nennungen sind Vorschläge für Gespräche
 
-- 01 Standortanalyse
-- 02 Marktanalyse
-- 03a/03b Branchencluster
-- 04 Förderung, Governance, Wirtschaftlichkeit
-- 06a Kapitalmarkt und Investoren
-- 06b Bodenwerte, Recht und Steuern
-- Auswertung von Lastenheft, Forum, Gewerbeflächenstrategie, OBL'EU und „Ostbelgien leben 2040“
+# Quellenverzeichnis {-}
 
-Alle Mengen-, Wert- und Kostenangaben in Kapitel 6 und 7 sind Annahmen einer Musterrechnung (Modell: `tools/charts.py`, Ergebnisse: `bericht/modell_ergebnisse.json`). Sie werden im Projekt baufeldscharf kalibriert.
+**Grundlagen**
+
+- Ministerium der Deutschsprachigen Gemeinschaft (2026): Lastenheft und Forum zum Verfahren FbRAUM.KaR/39.02-01/26.128, Eupen.
+- Ministerium der Deutschsprachigen Gemeinschaft / HJPplan+ (2024): Gewerbeflächenstrategie für die Deutschsprachige Gemeinschaft Belgiens, Eupen/Aachen.
+- Ministerium der Deutschsprachigen Gemeinschaft (2024): Ostbelgien leben 2040. Das Leitbild in Kürze, Eupen.
+- Ministerium der Deutschsprachigen Gemeinschaft, RWTH Aachen, Parkstad Limburg (2026): Raumstrategien der Interreg-Region Maas-Rhein. Ostbelgien als Raumlabor (OBL'EU), Dokumentation Meilenstein 3, Eupen.
+
+**Standort und Gemeinde**
+
+- BRF (2024): Hilligsmann neuer Bürgermeister von Kelmis, [brf.be](https://brf.be/regional/1923157/)
+- Gemeinde Kelmis (2024): KPLE – Ist-Situation 2024, [kelmis.be](https://www.kelmis.be/wp-content/uploads/2024/05/KPLE-Ist-Situation-2024.pdf)
+- Gemeinde Kelmis (2025): Haushalt 2026 im Überblick, [kelmis.be](https://www.kelmis.be/wp-content/uploads/2025/12/HH26-im-Ueberblick.pdf)
+- Parlament der Deutschsprachigen Gemeinschaft (2026): Dok. 146 (2025–2026), Abänderung des Gesetzbuchs über die räumliche Entwicklung, [pdg.be](https://pdg.be/en/desktopdefault.aspx/tabid-4630)
+- Service public de Wallonie: Natura-2000-Gebiet BE33006, [wallex.wallonie.be](https://wallex.wallonie.be/files/medias/1/13819.pdf)
+
+**Markt und Immobilien**
+
+- Cushman & Wakefield (2026): Regional Office MarketBeat Belgium Q2 2026, [cushmanwakefield.com](https://www.cushmanwakefield.com/fr-be/belgium/insights/belgium-marketbeat/regional-office-marketbeat)
+- BNP Paribas Real Estate (2026): Dashboard Belgium Q4 2025, [realestate.bnpparibas.be](https://www.realestate.bnpparibas.be/media/belgium/2026-01/BNPPRE_Dashboard_Q4_2025.pdf)
+- CBRE (2025): Belgian Real Estate Investor Survey 2025, [propertyweb.be](https://propertyweb.be/en/insights/belgian-real-estate-investor-survey-2025/373)
+- Fednot (2023): Notarbarometer Baugrundstücke, [notaire.be](https://www.notaire.be/nouveautes/detail/la-rarefaction-des-terrains-a-batir-conduit-inevitablement-a-une-hausse-des-prix)
+- Notaire.be (2026): L'immobilier dans la province de Liège en 2025, [notaire.be](https://www.notaire.be/actualites/limmobilier-dans-la-province-de-liege-en-2025)
+- IWEPS (2026): Prix de l'immobilier, [iweps.be](https://www.iweps.be/wp-content/uploads/2026/06/T001-PRIX.IMM_.TERR-062026_Full1.pdf)
+- REFIRE (2026): Sticky tenants, long leases add to appeal of life science sector, [refire-online.com](https://www.refire-online.com/investment/sticky-tenants-long-leases-add-to-appeal-life-science-sector/)
+
+**Einstein-Teleskop, Branchen und Förderung**
+
+- Einstein Telescope EMR Project Office: FAQ, [einsteintelescope-emr.eu](https://www.einsteintelescope-emr.eu/en/faq/)
+- Wallonie Économie: Télescope Einstein, une opportunité majeure pour notre région, [economie.wallonie.be](https://economie.wallonie.be/en/home/actualites/actualites/telescope-einstein-une-opportunite-majeure-pour-notre-region.html)
+- Belga News Agency (2026): Belgium in line for €8.3bn under EU defence loan scheme, [belganewsagency.eu](https://www.belganewsagency.eu/belgium-in-line-for-83bn-under-eu-defence-loan-scheme)
+- Skywin (2026): Wallonia Defense Industry 2026, [skywin.be](https://www.skywin.be/sites/default/files/2026-06/WALLONIA%20DEFENSE%20INDUSTRY_2026_1.pdf)
+- Interreg Maas-Rhein (2026): Rules for Call 8, [interregmeuserhine.eu](https://www.interregmeuserhine.eu/en/news/the-rules-for-call-8-are-out-now/)
+- Forvis Mazars: Belgium innovation incentives overview, [forvismazars.com](https://www.forvismazars.com/be/en/services/tax/belgium-innovation-incentives-overview)
+
+**Recht und Steuern**
+
+- Wallonie (2017): Dekret vom 2. Februar 2017 über die Entwicklung der Gewerbegebiete, [wallex.wallonie.be](https://wallex.wallonie.be/eli/loi-decret/2017/02/02/2017201598/)
+- SPI (2025): Conditions générales emphytéose, [spi.be](https://sol.spi.be/offres-commerciales/MADT-CG-ConditionsGeneralesEmphyteose-2025-FR.pdf)
+- legalnews.be: Erfpachtrecht im neuen Buch 3 des Zivilgesetzbuchs, [legalnews.be](https://legalnews.be/verbintenissen-goederen/erfpachtrecht-een-overzicht-van-de-nieuwe-artikelen-telkens-verduidelijkt-met-de-motivering-uit-de-memorie-van-toelichting-legalnews)
+- Forum for the Future: Nouveautés en matière de droits d'enregistrement, [forumforthefuture.be](https://blog.forumforthefuture.be/fr/article/nouveautes-en-matiere-de-droits-denregistrement/22197)
+- Lexgo: Décret wallon relatif à la gestion et à l'assainissement des sols, [lexgo.be](https://www.lexgo.be/en/news-and-articles/5807-que-retenir-du-nouveau-decret-wallon-relatif-a-la-gestion-et-a-l-assainissement-des-sols)
+
+Die vollständigen Quellenangaben finden sich in den Teilberichten 01 bis 06.
+
+:::abbildungsverzeichnis
+
+:::tabellenverzeichnis
