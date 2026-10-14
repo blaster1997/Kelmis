@@ -12,5 +12,6 @@ Akquise- und Analyseunterlagen zum Verfahren „Städtebauliches Entwicklungskon
 | `03b_Branchencluster_Digital_Bau_Health_Energie.md` | Digital/KI, zirkuläres Bauen/Holz, Health, Energie, Kultur |
 | `04_Foerderung_Governance_Wirtschaftlichkeit.md` | Förderkulisse, Träger-/Betreibermodelle, Kostenkennwerte, Musterrechnung |
 | `05_Akquise_und_Workshop_Strategie.md` | Bewertungslogik, Wettbewerb, Ablaufplan, Musterlieferobjekte, Workshop-Drehbuch |
+| `export/` | Endbericht und Workshop-Strategie als Word-Dateien (.docx) |
 
 Stand: 14.10.2026 · intern/vertraulich
