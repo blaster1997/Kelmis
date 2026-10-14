@@ -14,6 +14,12 @@ Stand: 14.10.2026 · Verfahren FbRAUM.KaR/39.02-01/26.128 · vertraulich, nur in
 4. **Die Fokussierung ist der eigentliche Auftrag.** Der Auftraggeber will ausdrücklich **keine Campusstrategie**. Wir bringen eine bewertete Shortlist von Themenprofilen mit und schlagen einen transparenten Auswahlprozess vor. Die Entscheidung trifft die DG.
 5. **Quartier statt Gewerbepark.** Wohnen, Arbeiten, Forschung und Lebensqualität, eingebettet in den Ort. Der Bestand (Museum Vieille Montagne, Lütticher Straße, Bahnhof Hergenrath) ist die Bühne, Neutral-Moresnet die Erzählung.
 6. **Umsetzbarkeit verkauft.** Kosten pro Gebäude, Folgekosten, Einnahmen der öffentlichen Hand, Träger (AGR Kelmis), Förderkulisse und Phasen, so aufbereitet, dass Investoren und Politik es verstehen, in DE, FR und EN.
+7. **Unser Alleinstellungsmerkmal: Wir denken das Quartier vom Kapitalmarkt her.**
+   - Entwicklungsmodell „Initiator entwickelt Boden und Vertrauen – der Markt baut das Quartier“
+   - Baufelder in drei Tranchen im Sweet Spot, kapitalisierte Erbpacht, Leuchttürme als „Skin in the Game“
+   - revolvierender Bodenfonds und Brückenrechnung zur Vollrefinanzierung (Basis 59 % → Zielbild 107 %)
+   
+   Das liefert kein Mitbewerber, und es beantwortet die Forderung des Lastenhefts nach Einnahmen der öffentlichen Hand und Vermarktbarkeit.
 
 ---
 
@@ -87,6 +93,9 @@ Im Workshop zeigen wir zu jedem Objekt eine Seite (Mock-up):
 8. **Phasen- und Umsetzungsroadmap 2027–2035** mit Entscheidungspunkten, Trägern und Förderfenstern.
 9. **Trilinguales Vermarktungsexposé**: Doppelseite DE/FR/EN mit USP, Lagekarte, Key Facts und Erzählung Neutral-Moresnet.
 10. **GIS-Datenmodell**: Layerstruktur, Attributtabellen, Lambert 72 (EPSG:31370) oder Lambert 2008 (EPSG:3812), mit dem Auftraggeber abzustimmen.
+11. **Baufeldpass (DE/FR/EN)**: je Baufeld Fläche, Nutzungskorridor, Kubatur, Vergabeform (Verkauf oder kapitalisierte Erbpacht), Tranche, Preisrahmen, Klauseln und Bodenstatus. Er ist zugleich Vermarktungs- und Genehmigungsgrundlage.
+12. **Baulandentwicklungskonto mit Brückenrechnung**: Kosten bis zum vergabefähigen Baufeld gegen Erlöse, Förderung und Eigentümerbeiträge in drei Szenarien. Dazu kommen der Spitzenkapitalbedarf des Bodenfonds und die vier Hebel zur Vollrefinanzierung (siehe Endbericht, Kap. 6).
+13. **Gliederung Investment-Memorandum und Datenraum**: Investoren-Story (Doppelmarkt BE/DE, Steueranreize, Flächenknappheit Aachen, Option Einstein-Teleskop, ESG) und Checkliste der Unterlagen zur Investment-Readiness.
 
 ---
 
@@ -149,7 +158,8 @@ Je Meilenstein werden 80 % fällig, die einbehaltenen 20 % plus MS5 mit der Enda
 | 10–25 | Unser Verständnis | 5 Folien: Auftrag in eigenen Worten, Ausgangslage Kelmis, Vorarbeiten, Leitplanken (Thema statt Campus, Quartier statt Gewerbepark, Einbettung) |
 | 25–50 | Standort & Markt | Suchräume, Stärken/Restriktionen, Marktfenster (Aachener Flächenknappheit, ET, Defence-Hochlauf), Zielgruppen |
 | 50–75 | **Interaktiv: Themenprofil** | Cluster-Scoring als Arbeitsmatrix; Teilnehmende gewichten live die Kriterien (Punktekleben oder Mentimeter) |
-| 75–95 | Methode & Muster | Ablaufplan, Meilensteine, Musterlieferobjekte (Gebäudesteckbrief, Exposé, Dashboard) |
+| 75–95 | Methode & Muster | Ablaufplan, Meilensteine, Musterlieferobjekte (Gebäudesteckbrief, Baufeldpass, Brückenrechnung, Exposé) |
+| (95–105) | **Vom Konzept zum Kapitalmarkt** | Entwicklungsmodell, Sweet Spot, Tranchen, Leuchttürme, Bodenfonds; Frage an den Kunden: Wer soll Master Developer sein (AGR, SPI, Entwicklungsgesellschaft)? |
 | 95–110 | Offene Fragen | Fragenkatalog unten |
 | 110–120 | Abschluss | Nächste Schritte, Leave-behind (Kurzbriefing PDF), Dank |
 
@@ -157,15 +167,17 @@ Je Meilenstein werden 80 % fällig, die einbehaltenen 20 % plus MS5 mit der Enda
 1. **Themenpräferenz:** Gibt es politisch ein Wunschthema (Sicherheit/Verteidigung, Einstein-Teleskop, Digital) oder soll das Thema im Projekt hergeleitet werden? Wer entscheidet?
 2. **Ortschaft:** Die erste vorläufige Abnahme heißt „Festlegung der weiter zu beplanenden Ortschaft“. Ist Kelmis-Zentrum (Lütticher Straße/Museum) gesetzt, oder sollen Hergenrath (Bahnhof) und Neu-Moresnet mitgeprüft werden?
 3. **Gemeinde:** Wie positionieren sich **Bürgermeister Daniel Hilligsmann (ELAN, seit 12/2024, zuvor Kabinettschef MP Paasch)** und das Kollegium (ELAN + SP-Offene Bürgerliste, 12/21 Sitze)? Die Interviews der Gewerbeflächenstrategie fanden 2023 noch mit Ex-BM Luc Frank (CSP, heute Opposition) statt; der Konsens muss neu verankert werden. Rolle der **AGR Kelmis** (Flächen, Kapital, Personal)? Status der Verlagerung des **Keolis-Busbetriebshofs**?
-3b. **Planungsrecht:** Der Teilbereich Lütticher Straße Süd ist im Sektorenplan **Wohngebiet**; die Gewerbeflächenstrategie empfiehlt die Umwidmung zur Gewerbezone. Das würde den geforderten Wohnanteil des Quartiers verhindern. Soll Süd als Mischquartier entwickelt werden? Wie ist der Stand der GRE-Reform (Orientierungsschema, Instrumente)?
-4. **Eigentum & Flächen:** Welche Flächen sind öffentlich oder bereits im Gespräch (Bauhof, Tankstelle, Baustoffhandel)?
-5. **Vorarbeiten:** Welche unveröffentlichten Unterlagen werden nach Auftragserteilung bereitgestellt (MORO-Bericht, OBL'EU-Ergebnisse, Euregio Meuse-Rhine Innovation District)?
-6. **Beteiligung:** Erwünschte Tiefe der Bürgerbeteiligung? Abstimmung mit OBL'EU (Ausstellung November 2026)?
-7. **Umsetzungshorizont:** Gibt es Haushaltsmittel oder Förderanträge (EFRE, Interreg), auf die das Konzept einzahlen soll? Zeitfenster?
-8. **Formate:** Erwartung an die Vermarktungsprodukte (Print, Web, Broschüre, Story Map)? Wer lektoriert FR/EN?
-9. **GIS:** Lambert 72 oder Lambert 2008? Gewünschte Datenformate (Shapefile, GeoPackage, DWG)?
-10. **Lieferzeitpunkt:** Wie wird das Kriterium bewertet (Datum der Endabgabe, Formel)? Sind Zwischenergebnisse (z. B. Positionspapier) gewünscht?
-11. **Externe Kontakte:** Dürfen wir nach Abstimmung früh mit Investoren oder Ankermietern sprechen (Lastenheft verlangt Einverständnis der DG)?
+4. **Planungsrecht:** Der Teilbereich Lütticher Straße Süd ist im Sektorenplan **Wohngebiet**; die Gewerbeflächenstrategie empfiehlt die Umwidmung zur Gewerbezone. Das würde den geforderten Wohnanteil des Quartiers verhindern. Soll Süd als Mischquartier entwickelt werden? Wie ist der Stand der GRE-Reform (Orientierungsschema, Instrumente)?
+5. **Eigentum & Flächen:** Welche Flächen sind öffentlich oder bereits im Gespräch (Bauhof, Tankstelle, Baustoffhandel)?
+6. **Vorarbeiten:** Welche unveröffentlichten Unterlagen werden nach Auftragserteilung bereitgestellt (MORO-Bericht, OBL'EU-Ergebnisse, Euregio Meuse-Rhine Innovation District)?
+7. **Beteiligung:** Erwünschte Tiefe der Bürgerbeteiligung? Abstimmung mit OBL'EU (Ausstellung November 2026)?
+8. **Umsetzungshorizont:** Gibt es Haushaltsmittel oder Förderanträge (EFRE, Interreg), auf die das Konzept einzahlen soll? Zeitfenster?
+9. **Formate:** Erwartung an die Vermarktungsprodukte (Print, Web, Broschüre, Story Map)? Wer lektoriert FR/EN?
+10. **GIS:** Lambert 72 oder Lambert 2008? Gewünschte Datenformate (Shapefile, GeoPackage, DWG)?
+11. **Lieferzeitpunkt:** Wie wird das Kriterium bewertet (Datum der Endabgabe, Formel)? Sind Zwischenergebnisse (z. B. Positionspapier) gewünscht?
+12. **Externe Kontakte:** Dürfen wir nach Abstimmung früh mit Investoren oder Ankermietern sprechen (Lastenheft verlangt Einverständnis der DG)?
+13. **Master Developer und Boden:** Wer soll das Quartier entwickeln (AGR, SPI als Operatorin des Gewerbeperimeters, spätere Entwicklungsgesellschaft)? Ist die DG bereit, einen revolvierenden Bodenfonds und ein Grundbudget für das Management zu tragen?
+14. **Vergabeformen:** Ist kapitalisierte Erbpacht politisch gewollt (wie bei der SPI seit 2017 und bei citydev.brussels)? Oder bevorzugen Gemeinde und DG den Verkauf?
 
 ### Politische Konstellation (Fakten aus 01_Standortanalyse)
 - **Gemeinde Kelmis:** BM Daniel Hilligsmann (ELAN) seit 12/2024, zuvor Kabinettschef von MP Oliver Paasch. Das verspricht kurze Wege zwischen Gemeinde und DG-Regierung; Mehrheit ELAN + SP-Offene Bürgerliste (12/21), 1. Schöffe Björn Klinkenberg. Die Opposition (u. a. CSP, Ex-BM Luc Frank) früh einbinden, denn das Konzept läuft über 2028 hinaus.
@@ -180,6 +192,8 @@ Je Meilenstein werden 80 % fällig, die einbehaltenen 20 % plus MS5 mit der Enda
 | „Wer soll das bezahlen?“ | Gestaffelt: DG, EFRE/Interreg, AGR mit Erbpacht und Bodenwertsteigerung, private Investoren für Wohnen und Büro. Die Wirtschaftlichkeitsbetrachtung zeigt das je Gebäude. |
 | „13 Monate sind ambitioniert.“ | Die Vorarbeiten verkürzen AP1. Parallelisierung von AP4/AP5 und fester Jour fixe; der Entwurf liegt nach 11 Monaten vor, mit Puffer bis zur Frist. |
 | „Ist das nicht zu groß für Kelmis?“ | „Kleiner Start, große Story“: Phase 1 ist ein Technologie-/Gründerhaus am Museum plus Wohnangebot; weitere Phasen folgen der Nachfrage. |
+| „Grundstücksverkäufe finanzieren das doch nie.“ | Richtig, allein nicht: Heute decken Baufelderlöse nur ≈ 23 %. Mit Förderung über die SPI (65–85 % für den Gewerbeteil), kooperativer Baulandentwicklung, schlanker Erschließung und dem Leuchtturm-Effekt erreicht das Zielbild ≈ 107 %. Genau diese Hebel macht unser Konzept verbindlich. |
+| „Warum soll die öffentliche Hand selbst bauen?“ | Investoren folgen dem Beweis, nicht der Ankündigung. Der Initiator baut höchstens 25–30 % der BGF in Phase 1 und recycelt das Kapital: Boarding wird nach der Stabilisierung verkauft, das EMRIQ-Haus über einen Generalmietvertrag refinanziert. |
 
 ### Do's & Don'ts
 - **Do:** Den Auftraggeber über seine Vorarbeiten sprechen lassen und sie wertschätzen; mit den Begriffen des Lastenhefts arbeiten (Ökosphäre, Quartier, Einbettung, Vermarktungsskizzen); Fragen notieren und im Folgeangebot sichtbar beantworten.
